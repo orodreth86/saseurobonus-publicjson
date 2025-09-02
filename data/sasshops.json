@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-01T20:08:14.317Z",
+  "generated_at": "2025-09-02T05:52:33.840Z",
   "sources": [
     "https://onlineshopping.loyaltykey.com/api/v1/shops?filter[channel]=SAS&filter[language]=nb&filter[country]=NO&filter[amount]=5000",
     "https://d3v5865xmihp0z.cloudfront.net/trumf/notifierfeed.json"
@@ -1011,7 +1011,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/framsport-trumf",
       "sasbonus": "",
-      "trumfbonus": "9,3%"
+      "trumfbonus": "4,6%"
     },
     {
       "domain": "fredrikoglouisa.no",
