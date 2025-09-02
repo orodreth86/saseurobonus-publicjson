@@ -1,9 +1,5 @@
 {
   "generated_at": "2025-09-02T06:03:10.718Z",
-  "sources": [
-    "https://onlineshopping.loyaltykey.com/api/v1/shops?filter[channel]=SAS&filter[language]=nb&filter[country]=NO&filter[amount]=5000",
-    "https://d3v5865xmihp0z.cloudfront.net/trumf/notifierfeed.json"
-  ],
   "shops": [
     {
       "domain": "",
