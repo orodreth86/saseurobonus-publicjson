@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-02T07:53:40.129Z",
+  "generated_at": "2025-09-03T06:49:35.744Z",
   "shops": [
     {
       "domain": "",
@@ -663,17 +663,8 @@
       "slug": "dustin-1",
       "name": "Dustin",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dustin-1/0189630b-a1fd-7133-b07a-084f91874cd8",
-      "trumfurl": "",
-      "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "dustinhome.no",
-      "slug": "",
-      "name": "Dustin Home",
-      "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/dustin-home-trumf",
-      "sasbonus": "",
+      "sasbonus": "10 poeng / 100kr",
       "trumfbonus": "3,1% (41.9 poeng / 100kr)"
     },
     {
@@ -1491,9 +1482,9 @@
       "slug": "kajakk-og-fritid",
       "name": "Kajakk og Fritid",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kajakk-og-fritid/0192e744-9c9e-713b-abd2-3982d9fba326",
-      "trumfurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/kajakk-og-fritid-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "karcher.com",
@@ -1899,6 +1890,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/magasinet-trumf",
       "sasbonus": "",
       "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+    },
+    {
+      "domain": "makeupmekka.com",
+      "slug": "",
+      "name": "Makeup Mekka",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/makeup-mekka-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "mangotango.com",
@@ -2540,6 +2540,15 @@
       "trumfbonus": ""
     },
     {
+      "domain": "sharkgaming.no",
+      "slug": "",
+      "name": "Shark Gaming",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/shark-gaming-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 15,6% (210.6 poeng / 100kr)"
+    },
+    {
       "domain": "shop.electrolux.no",
       "slug": "electrolux-spares-accessories",
       "name": "Electrolux Spares & accessories",
@@ -3123,6 +3132,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/vy-trumf",
       "sasbonus": "",
       "trumfbonus": "2,7% (36.5 poeng / 100kr)"
+    },
+    {
+      "domain": "watery.no",
+      "slug": "",
+      "name": "Watery",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/watery-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "weekday.com",
