@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-05T06:51:15.257Z",
+  "generated_at": "2025-09-06T06:45:58.274Z",
   "shops": [
     {
       "domain": "",
@@ -560,15 +560,6 @@
       "trumfbonus": ""
     },
     {
-      "domain": "dailysports.com",
-      "slug": "dailysports",
-      "name": "Daily Sports",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dailysports/0189630a-7da1-7339-ab83-97496fdbc9c4",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "danielwellington.com",
       "slug": "daniel-wellington",
       "name": "Daniel Wellington",
@@ -963,15 +954,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/foodstuff-trumf",
       "sasbonus": "",
       "trumfbonus": "7,8% (105.3 poeng / 100kr)"
-    },
-    {
-      "domain": "footshop.no",
-      "slug": "footshop.eu",
-      "name": "Footshop.eu",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/footshop.eu/0189630e-bc77-7138-baa3-af1e492eb27c",
-      "trumfurl": "",
-      "sasbonus": "80 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "foss-sport.no",
@@ -1640,15 +1622,6 @@
       "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
-      "domain": "lanna.no",
-      "slug": "",
-      "name": "Länna Möbler",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/lanna-mobler-trumf",
-      "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
-    },
-    {
       "domain": "lappeliten.no",
       "slug": "lappeliten",
       "name": "Lappeliten",
@@ -2189,6 +2162,15 @@
       "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
+      "domain": "onyxcookware.no",
+      "slug": "",
+      "name": "ONYX Cookware",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/onyx-cookware-trumf",
+      "sasbonus": "",
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
+    },
+    {
       "domain": "osloskinlab.no",
       "slug": "",
       "name": "Oslo Skin Lab",
@@ -2607,9 +2589,9 @@
       "slug": "skistart.com",
       "name": "Skistart.com",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/skistart.com/01896308-a62c-70f9-b1e8-cf2fa8091102",
-      "trumfurl": "https://trumfnetthandel.no/cashback/skistarttrumf",
+      "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": "2,7% (36.5 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "skogstadsport.no",
