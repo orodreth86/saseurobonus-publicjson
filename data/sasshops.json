@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-08T06:53:45.114Z",
+  "generated_at": "2025-09-09T06:52:36.607Z",
   "shops": [
     {
       "domain": "",
@@ -524,15 +524,6 @@
       "trumfbonus": "1,5% (20.3 poeng / 100kr)"
     },
     {
-      "domain": "cos.com",
-      "slug": "",
-      "name": "COS",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/cos-trumf",
-      "sasbonus": "",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
-    },
-    {
       "domain": "cos.no",
       "slug": "cos",
       "name": "COS",
@@ -992,15 +983,6 @@
       "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
-      "domain": "fruugo.no",
-      "slug": "",
-      "name": "Fruugo",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/fruugo-trumf",
-      "sasbonus": "",
-      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
-    },
-    {
       "domain": "fyriresort.com",
       "slug": "",
       "name": "Fyri Resort",
@@ -1224,15 +1206,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/homeroom-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "Opptil 3,9% (52.6 poeng / 100kr)"
-    },
-    {
-      "domain": "hudprodukter.no",
-      "slug": "",
-      "name": "Hudprodukter",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/hudprodukter",
-      "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "hultens.no",
