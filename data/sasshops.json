@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-09T06:52:36.607Z",
+  "generated_at": "2025-09-10T06:51:22.246Z",
   "shops": [
     {
       "domain": "",
@@ -315,6 +315,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/beckmann-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "bedtime.no",
+      "slug": "",
+      "name": "Bedtime",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/bedtime-trumf",
+      "sasbonus": "",
+      "trumfbonus": "2,7% (36.5 poeng / 100kr)"
     },
     {
       "domain": "bergwatches.no",
@@ -1424,6 +1433,15 @@
       "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
+      "domain": "junkyard.com",
+      "slug": "",
+      "name": "Junkyard",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/junkyard-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+    },
+    {
       "domain": "kaercher.com",
       "slug": "",
       "name": "Kärcher",
@@ -1538,7 +1556,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/komplett-1/01896310-4cf5-73e3-ba30-14f26f67ddb9",
       "trumfurl": "https://trumfnetthandel.no/cashback/komplett-trumf",
       "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": "1,5% (20.3 poeng / 100kr)"
+      "trumfbonus": "Opptil 1,5% (20.3 poeng / 100kr)"
     },
     {
       "domain": "kondomeriet.no",
