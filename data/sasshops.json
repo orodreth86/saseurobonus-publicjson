@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-10T06:51:22.246Z",
+  "generated_at": "2025-09-11T06:52:04.943Z",
   "shops": [
     {
       "domain": "",
@@ -387,6 +387,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/bodystore-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+    },
+    {
+      "domain": "bokia.no",
+      "slug": "",
+      "name": "Bokia",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/bokia-trumf",
+      "sasbonus": "",
+      "trumfbonus": "10,1% (136.3 poeng / 100kr)"
     },
     {
       "domain": "bookbeat.com",
@@ -2054,6 +2063,15 @@
       "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
+      "domain": "no.match.com",
+      "slug": "",
+      "name": "Match.com",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/match-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 35kr (472.5 poeng)"
+    },
+    {
       "domain": "no.oakley.com",
       "slug": "",
       "name": "Oakley",
@@ -2537,7 +2555,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/libresse-trumf",
       "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "11,7% (157.9 poeng / 100kr)"
     },
     {
       "domain": "shopelico.com",
@@ -2954,6 +2972,15 @@
       "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
+      "domain": "ullapopken.no",
+      "slug": "",
+      "name": "Ulla Popken",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/ulla-popken-trumf",
+      "sasbonus": "",
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
+    },
+    {
       "domain": "under-amour.com",
       "slug": "under-amour",
       "name": "Under Amour",
@@ -3087,6 +3114,15 @@
       "trumfurl": "",
       "sasbonus": "750 poeng",
       "trumfbonus": ""
+    },
+    {
+      "domain": "vivara.no",
+      "slug": "",
+      "name": "Vivara",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/vivara-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 4,8% (64.8 poeng / 100kr)"
     },
     {
       "domain": "vpg.no",
