@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-12T06:50:34.208Z",
+  "generated_at": "2025-09-13T06:45:32.531Z",
   "shops": [
     {
       "domain": "",
@@ -2421,15 +2421,6 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "rolfsreiser.no",
-      "slug": "",
-      "name": "Rolfs Reiser",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/rolfs-reiser-trumf",
-      "sasbonus": "",
-      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "room21.no",
