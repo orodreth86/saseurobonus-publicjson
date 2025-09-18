@@ -1,6 +1,15 @@
 {
-  "generated_at": "2025-09-17T06:51:52.938Z",
+  "generated_at": "2025-09-18T06:51:04.703Z",
   "shops": [
+    {
+      "domain": "",
+      "slug": "24.se",
+      "name": "24shop",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/24.se/0189630f-2d60-731b-a9f2-3a8370ab3352",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
     {
       "domain": "",
       "slug": "anodyne",
@@ -17,6 +26,24 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "parfymonline",
+      "name": "Parfymonline",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/parfymonline/01896309-cc40-732c-92f2-c0da35481d33",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "understatement",
+      "name": "Understatement",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/understatement/019957dd-6de6-7224-a879-98343db6082c",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -540,6 +567,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/computersalg",
       "sasbonus": "10 poeng / 100kr",
       "trumfbonus": "1,5% (20.3 poeng / 100kr)"
+    },
+    {
+      "domain": "cos.com",
+      "slug": "",
+      "name": "COS",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/cos-trumf",
+      "sasbonus": "",
+      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "cos.no",
