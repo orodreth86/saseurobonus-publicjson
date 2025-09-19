@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-18T06:51:04.703Z",
+  "generated_at": "2025-09-19T06:51:18.430Z",
   "shops": [
     {
       "domain": "",
@@ -1926,15 +1926,6 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "maxmaling.no",
-      "slug": "",
-      "name": "Maxmaling",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/maxmaling-trumf",
-      "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "miinto.no",
