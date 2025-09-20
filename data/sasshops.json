@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-19T06:51:18.430Z",
+  "generated_at": "2025-09-20T06:47:19.757Z",
   "shops": [
     {
       "domain": "",
@@ -21,11 +21,47 @@
     },
     {
       "domain": "",
+      "slug": "autodoc",
+      "name": "Autodoc",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/autodoc/01896310-e823-72b0-8d74-6b3da56a30e3",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "charlies-hus",
       "name": "Charlies hus",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "haglofs",
+      "name": "Haglöfs",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/haglofs/018f1a0b-1749-708d-bbec-9aa03594b3b0",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "harman-kardon",
+      "name": "Harman Kardon",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
+      "trumfurl": "",
+      "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "memira",
+      "name": "Memira",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
+      "trumfurl": "",
+      "sasbonus": "1000 poeng",
       "trumfbonus": ""
     },
     {
