@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-22T06:54:11.629Z",
+  "generated_at": "2025-09-23T06:52:14.823Z",
   "shops": [
     {
       "domain": "",
@@ -39,6 +39,15 @@
     },
     {
       "domain": "",
+      "slug": "copenhagen-health",
+      "name": "Copenhagen Health",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/copenhagen-health/0195f674-49d5-71a0-a2ee-64132f686b6d",
+      "trumfurl": "",
+      "sasbonus": "75 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "haglofs",
       "name": "Haglöfs",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/haglofs/018f1a0b-1749-708d-bbec-9aa03594b3b0",
@@ -57,11 +66,29 @@
     },
     {
       "domain": "",
+      "slug": "lanna-mobler",
+      "name": "Länna Møbler",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lanna-mobler/01896312-5ad6-728c-816e-b50fd3b1f767",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "memira",
       "name": "Memira",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
       "trumfurl": "",
       "sasbonus": "1000 poeng",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "nordiska-galleriet",
+      "name": "Nordiska Galleriet",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nordiska-galleriet/01896311-818d-7114-be42-ed67319052a1",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1052,7 +1079,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fotoknudsen/01896309-e373-70a7-a93c-65f007a65dd3",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumffotoknudsen",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "Opptil 10,9% (147.2 poeng / 100kr)"
+      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "framsport.no",
