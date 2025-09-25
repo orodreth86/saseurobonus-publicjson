@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-24T06:52:20.496Z",
+  "generated_at": "2025-09-25T06:53:31.922Z",
   "shops": [
     {
       "domain": "",
@@ -66,9 +66,27 @@
     },
     {
       "domain": "",
+      "slug": "lampemesteren",
+      "name": "Lampemesteren",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "lanna-mobler",
       "name": "Länna Møbler",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lanna-mobler/01896312-5ad6-728c-816e-b50fd3b1f767",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "makeup-mekka",
+      "name": "Makeup Mekka",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/makeup-mekka/0197a72c-6e7d-7200-b949-a127880137d2",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -105,6 +123,15 @@
       "slug": "understatement",
       "name": "Understatement",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/understatement/019957dd-6de6-7224-a879-98343db6082c",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "watery",
+      "name": "Watery",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -2249,7 +2276,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/obh-nordica/018c6cdb-9a21-7079-902b-450e50f9e374",
       "trumfurl": "https://trumfnetthandel.no/cashback/obh-nordica-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "omio.no",
