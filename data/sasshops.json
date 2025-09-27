@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-26T06:51:43.241Z",
+  "generated_at": "2025-09-27T06:45:08.415Z",
   "shops": [
     {
       "domain": "",
@@ -900,15 +900,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/emp-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 5,4% (72.9 poeng / 100kr)"
-    },
-    {
-      "domain": "estrid.com",
-      "slug": "",
-      "name": "Estrid",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/estrid-trumf",
-      "sasbonus": "",
-      "trumfbonus": "50kr (675.0 poeng)"
     },
     {
       "domain": "etihad.com",
@@ -3338,7 +3329,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/zoo.se-1/01896312-b5e6-7274-8e4a-7eb11e4ab5a9",
       "trumfurl": "https://trumfnetthandel.no/cashback/zoo-trumfs",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "zooplus",
