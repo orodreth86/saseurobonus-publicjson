@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-28T06:48:35.576Z",
+  "generated_at": "2025-09-29T06:46:29.001Z",
   "shops": [
     {
       "domain": "",
@@ -1727,7 +1727,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lampegiganten/01896309-a6d3-70f0-b920-314a0de651aa",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumflampegiganten",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "11,7% (157.9 poeng / 100kr)"
+      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "lampemesteren.no",
@@ -1736,7 +1736,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/lampemesteren-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "lappeliten.no",
@@ -2177,7 +2177,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/match-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 35kr (472.5 poeng)"
+      "trumfbonus": "15,6% (210.6 poeng / 100kr)"
     },
     {
       "domain": "no.oakley.com",
@@ -3285,15 +3285,6 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "www2.hm.com",
-      "slug": "",
-      "name": "H&M",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/h-and-m-trumf",
-      "sasbonus": "",
-      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "xplora.no",
