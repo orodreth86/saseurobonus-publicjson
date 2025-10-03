@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T06:42:47.221Z",
+  "generated_at": "2025-10-03T06:42:50.234Z",
   "shops": [
     {
       "domain": "",
@@ -242,7 +242,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfapple-store",
       "sasbonus": "",
-      "trumfbonus": "2,7% (36.5 poeng / 100kr)"
+      "trumfbonus": "Opptil 4% (54.0 poeng / 100kr)"
     },
     {
       "domain": "arons.no",
@@ -629,7 +629,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/christiania-glasmagasin/01896309-850a-71db-86b3-69229f093274",
       "trumfurl": "https://trumfnetthandel.no/cashback/christiania-glasmagasintrumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "chillout.no",
@@ -854,7 +854,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/ellos",
       "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "ellos.no",
@@ -1556,7 +1556,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/junkyard-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "Opptil 7% (94.5 poeng / 100kr)"
     },
     {
       "domain": "kaercher.com",
@@ -2456,7 +2456,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfradissonhotels",
       "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "rains.com",
@@ -3194,7 +3194,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vita-no/018abc11-afc8-73c7-8884-1138ad087849",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfvita",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "4% (54.0 poeng / 100kr)"
+      "trumfbonus": "5,6% (75.6 poeng / 100kr)"
     },
     {
       "domain": "vitaepro.no",
