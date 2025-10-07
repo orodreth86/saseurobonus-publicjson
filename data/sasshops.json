@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-06T06:44:33.790Z",
+  "generated_at": "2025-10-07T06:43:46.101Z",
   "shops": [
     {
       "domain": "",
@@ -1280,6 +1280,15 @@
       "trumfbonus": ""
     },
     {
+      "domain": "hamphi.com",
+      "slug": "",
+      "name": "Hamphi",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/hamphi-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+    },
+    {
       "domain": "hellofresh.no",
       "slug": "hellofresh",
       "name": "HelloFresh",
@@ -2285,7 +2294,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/oslo-skin-lab",
       "sasbonus": "",
-      "trumfbonus": "155kr (2092.5 poeng)"
+      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "outlet.asics.com",
