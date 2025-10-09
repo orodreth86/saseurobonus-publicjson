@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-08T06:44:02.211Z",
+  "generated_at": "2025-10-09T06:45:28.072Z",
   "shops": [
     {
       "domain": "",
@@ -111,6 +111,15 @@
     },
     {
       "domain": "",
+      "slug": "nespresso",
+      "name": "Nespresso",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "nordiska-galleriet",
       "name": "Nordiska Galleriet",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nordiska-galleriet/01896311-818d-7114-be42-ed67319052a1",
@@ -125,6 +134,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/parfymonline/01896309-cc40-732c-92f2-c0da35481d33",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "siemens",
+      "name": "Siemens",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
+      "trumfurl": "",
+      "sasbonus": "26 poeng / 100kr",
       "trumfbonus": ""
     },
     {
