@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-13T06:46:04.913Z",
+  "generated_at": "2025-10-14T06:43:44.327Z",
   "shops": [
     {
       "domain": "",
@@ -2331,6 +2331,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "p-lindberg.no",
+      "slug": "",
+      "name": "P Lindberg",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/p-lindberg-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "palaceresorts.com",
