@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-14T06:43:44.327Z",
+  "generated_at": "2025-10-15T06:44:44.134Z",
   "shops": [
     {
       "domain": "",
@@ -567,15 +567,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/brando-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "8,1% (109.3 poeng / 100kr)"
-    },
-    {
-      "domain": "bravofly.no",
-      "slug": "",
-      "name": "Bravofly",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/trumfbravofly-no",
-      "sasbonus": "",
-      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "brilleland.no",
