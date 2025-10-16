@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T06:44:44.134Z",
+  "generated_at": "2025-10-16T06:43:56.751Z",
   "shops": [
     {
       "domain": "",
@@ -30,6 +30,15 @@
     },
     {
       "domain": "",
+      "slug": "bosch-home",
+      "name": "Bosch Home",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "charlies-hus",
       "name": "Charlies hus",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
@@ -44,6 +53,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/copenhagen-health/0195f674-49d5-71a0-a2ee-64132f686b6d",
       "trumfurl": "",
       "sasbonus": "75 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "football-travel",
+      "name": "Football Travel",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
+      "trumfurl": "",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -120,9 +138,9 @@
     },
     {
       "domain": "",
-      "slug": "nordiska-galleriet",
-      "name": "Nordiska Galleriet",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nordiska-galleriet/01896311-818d-7114-be42-ed67319052a1",
+      "slug": "outdoorexperten",
+      "name": "OutdoorExperten",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/outdoorexperten/01896311-e333-72ec-ba0e-eceafac13618",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -139,10 +157,10 @@
     {
       "domain": "",
       "slug": "siemens",
-      "name": "Siemens",
+      "name": "Siemens Home",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
       "trumfurl": "",
-      "sasbonus": "26 poeng / 100kr",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -3051,6 +3069,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "tonnesen1937.no",
+      "slug": "",
+      "name": "Tonnesen",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/tonnesen-trumf",
+      "sasbonus": "",
+      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "trapessko.no",
