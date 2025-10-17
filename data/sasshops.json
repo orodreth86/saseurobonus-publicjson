@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T06:43:56.751Z",
+  "generated_at": "2025-10-17T06:43:28.041Z",
   "shops": [
     {
       "domain": "",
@@ -587,6 +587,15 @@
       "trumfbonus": "8,1% (109.3 poeng / 100kr)"
     },
     {
+      "domain": "bravofly.no",
+      "slug": "",
+      "name": "Bravofly",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/trumfbravofly-no",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
+    },
+    {
       "domain": "brilleland.no",
       "slug": "brilleland",
       "name": "Brilleland",
@@ -827,7 +836,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dyson/01896310-bb05-734c-87c7-a0d8eadfe399",
       "trumfurl": "https://trumfnetthandel.no/cashback/dyson-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "Opptil 3,1% (41.9 poeng / 100kr)"
     },
     {
       "domain": "e-wheels.no",
@@ -881,7 +890,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/ellos",
       "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "ellos.no",
