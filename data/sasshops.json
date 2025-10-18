@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-17T06:43:28.041Z",
+  "generated_at": "2025-10-18T06:41:19.758Z",
   "shops": [
     {
       "domain": "",
@@ -174,6 +174,15 @@
     },
     {
       "domain": "",
+      "slug": "vy-buss",
+      "name": "Vy Buss",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vy-buss/01896311-ed1e-72a2-b624-0b81184ec29e",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "watery",
       "name": "Watery",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
@@ -278,7 +287,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfapple-store",
       "sasbonus": "",
-      "trumfbonus": "Opptil 4% (54.0 poeng / 100kr)"
+      "trumfbonus": "2,7% (36.5 poeng / 100kr)"
     },
     {
       "domain": "arons.no",
@@ -675,15 +684,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/chillout-trumf",
       "sasbonus": "",
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
-    },
-    {
-      "domain": "citybox.no",
-      "slug": "",
-      "name": "Citybox",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/citybox-trumf",
-      "sasbonus": "",
-      "trumfbonus": "Opptil 8,1% (109.3 poeng / 100kr)"
     },
     {
       "domain": "computersalg.no",
@@ -2070,15 +2070,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/minifinder-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
-    },
-    {
-      "domain": "misterspex.no",
-      "slug": "",
-      "name": "Mister Spex",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/misterspex-trumf",
-      "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "myprotein.no",
