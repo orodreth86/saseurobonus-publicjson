@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T06:45:50.679Z",
+  "generated_at": "2025-10-21T06:44:37.515Z",
   "shops": [
     {
       "domain": "",
@@ -1133,7 +1133,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fotoknudsen/01896309-e373-70a7-a93c-65f007a65dd3",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumffotoknudsen",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "Opptil 10,9% (147.2 poeng / 100kr)"
+      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "framsport.no",
@@ -3167,6 +3167,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/urverket.no/0189630b-f7b0-73db-a7c0-55cf9e666fa5",
       "trumfurl": "https://trumfnetthandel.no/cashback/urverket-trumf",
       "sasbonus": "20 poeng / 100kr",
+      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+    },
+    {
+      "domain": "vakrevene.no",
+      "slug": "",
+      "name": "Vakre Vene",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/vakre-vene-trumf",
+      "sasbonus": "",
       "trumfbonus": "3,1% (41.9 poeng / 100kr)"
     },
     {
