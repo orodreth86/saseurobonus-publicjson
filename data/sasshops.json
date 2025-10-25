@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T06:44:11.925Z",
+  "generated_at": "2025-10-25T06:40:46.728Z",
   "shops": [
     {
       "domain": "",
@@ -2571,15 +2571,6 @@
       "slug": "room21",
       "name": "Rum21",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/room21/01896309-733c-72e9-b89a-e36db36d144c",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "royaldesign.no",
-      "slug": "royal-design",
-      "name": "Royal Design",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/royal-design/01896307-a666-701a-8245-ad7183712454",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
