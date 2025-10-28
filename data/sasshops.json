@@ -1,15 +1,6 @@
 {
-  "generated_at": "2025-10-27T06:48:51.823Z",
+  "generated_at": "2025-10-28T06:46:53.475Z",
   "shops": [
-    {
-      "domain": "",
-      "slug": "24.se",
-      "name": "24shop",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/24.se/0189630f-2d60-731b-a9f2-3a8370ab3352",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
     {
       "domain": "",
       "slug": "anodyne",
@@ -1340,7 +1331,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/helly-hansen/018d5538-6322-73d4-bba1-fead8cf1eb29",
       "trumfurl": "https://trumfnetthandel.no/cashback/helly-hansen-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "herschel.eu",
@@ -2770,7 +2761,7 @@
       "name": "Slikkepott",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/slikkepott/01896308-cbba-717c-b38b-bcf4e27a3d91",
       "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
