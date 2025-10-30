@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-29T06:47:08.179Z",
+  "generated_at": "2025-10-30T06:45:23.701Z",
   "shops": [
     {
       "domain": "",
@@ -2283,9 +2283,9 @@
       "slug": "obh-nordica",
       "name": "OBH Nordica",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/obh-nordica/018c6cdb-9a21-7079-902b-450e50f9e374",
-      "trumfurl": "https://trumfnetthandel.no/cashback/obh-nordica-trumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 5,4% (72.9 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "omio.no",
@@ -2960,7 +2960,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/strawberry-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "strikkia.no",
