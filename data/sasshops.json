@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-31T06:45:37.279Z",
+  "generated_at": "2025-11-01T06:41:56.783Z",
   "shops": [
     {
       "domain": "",
@@ -111,6 +111,15 @@
     },
     {
       "domain": "",
+      "slug": "mecindo",
+      "name": "Mecindo",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/mecindo/0198f571-80a8-712b-8728-be4aef9feae2",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "memira",
       "name": "Memira",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
@@ -143,6 +152,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/parfymonline/01896309-cc40-732c-92f2-c0da35481d33",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "samsung",
+      "name": "SAMSUNG",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/samsung/018f3367-2401-704c-900c-526d7eecfc51",
+      "trumfurl": "",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2297,15 +2315,6 @@
       "trumfbonus": "Opptil 35,4% (477.9 poeng / 100kr)"
     },
     {
-      "domain": "obhnordica.no",
-      "slug": "obh-nordica",
-      "name": "OBH Nordica",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/obh-nordica/018c6cdb-9a21-7079-902b-450e50f9e374",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "omio.no",
       "slug": "",
       "name": "Omio",
@@ -3167,7 +3176,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/urverket.no/0189630b-f7b0-73db-a7c0-55cf9e666fa5",
       "trumfurl": "https://trumfnetthandel.no/cashback/urverket-trumf",
       "sasbonus": "20 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "4,3% (58.0 poeng / 100kr)"
     },
     {
       "domain": "vakrevene.no",
