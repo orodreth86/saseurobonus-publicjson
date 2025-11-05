@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-04T06:46:14.807Z",
+  "generated_at": "2025-11-05T06:45:49.901Z",
   "shops": [
     {
       "domain": "",
@@ -2646,6 +2646,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/lastminute-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
+    },
+    {
+      "domain": "sembo.no",
+      "slug": "",
+      "name": "Sembo",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/sembo-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 7% (94.5 poeng / 100kr)"
     },
     {
       "domain": "senzeofjoy.no",
