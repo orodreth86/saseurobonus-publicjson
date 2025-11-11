@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-10T06:47:53.516Z",
+  "generated_at": "2025-11-11T06:47:15.010Z",
   "shops": [
     {
       "domain": "",
@@ -432,15 +432,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/bakeren-og-kokken-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "3,1% (41.9 poeng / 100kr)"
-    },
-    {
-      "domain": "bambox.no",
-      "slug": "bambox",
-      "name": "Bambox",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bambox/0189630d-1d73-7288-8240-1cdc7bc96ed9",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "bangerhead.no",
@@ -2204,7 +2195,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/jbl-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "no.loccitane.com",
@@ -2439,15 +2430,6 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "platekompaniet.no",
-      "slug": "",
-      "name": "Platekompaniet",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/platekompaniet-trumf",
-      "sasbonus": "",
-      "trumfbonus": "3,8% (51.3 poeng / 100kr)"
     },
     {
       "domain": "polarnopyret.no",
