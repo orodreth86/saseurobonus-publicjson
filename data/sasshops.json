@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T06:47:15.010Z",
+  "generated_at": "2025-11-12T06:47:03.856Z",
   "shops": [
     {
       "domain": "",
@@ -828,6 +828,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/dustin-home-trumf",
       "sasbonus": "10 poeng / 100kr",
       "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+    },
+    {
+      "domain": "dyrekassen.no",
+      "slug": "",
+      "name": "Dyrekassen",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/dyrekassen-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "dyson.no",
@@ -2114,7 +2123,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfnelly-no",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "newbalance.no",
@@ -2177,7 +2186,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfnly-man",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "no.boohoo.com",
@@ -2403,6 +2412,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/petster-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "petxl.no",
+      "slug": "",
+      "name": "PetXL",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/petxl-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "philips-hue.com",
@@ -3024,6 +3042,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "teleoutlet.no",
+      "slug": "",
+      "name": "TeleOutlet",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/teleoutlet-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "telia.no",
