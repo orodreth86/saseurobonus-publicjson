@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-12T06:47:03.856Z",
+  "generated_at": "2025-11-13T06:46:52.931Z",
   "shops": [
     {
       "domain": "",
@@ -125,15 +125,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
       "trumfurl": "",
       "sasbonus": "1000 poeng",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "nespresso",
-      "name": "Nespresso",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1457,7 +1448,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/ideal-of-sweden/0189630f-4b89-721d-88e7-5b4e2b299f5f",
       "trumfurl": "https://trumfnetthandel.no/cashback/ideal-of-sweden-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "12,4% (167.4 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "ilovedogs.no",
@@ -2589,6 +2580,15 @@
       "slug": "room21",
       "name": "Rum21",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/room21/01896309-733c-72e9-b89a-e36db36d144c",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "royaldesign.no",
+      "slug": "royal-design",
+      "name": "Royal Design",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/royal-design/01896307-a666-701a-8245-ad7183712454",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
