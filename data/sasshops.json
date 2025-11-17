@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-16T06:43:38.898Z",
+  "generated_at": "2025-11-17T06:47:06.527Z",
   "shops": [
     {
       "domain": "",
@@ -737,7 +737,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/db-journey/01896310-78d4-7290-bebb-ae80a7cd6ef1",
       "trumfurl": "https://trumfnetthandel.no/cashback/db-trumf1",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "8,5% (114.8 poeng / 100kr)"
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "dekkonline.com",
@@ -836,7 +836,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dyson/01896310-bb05-734c-87c7-a0d8eadfe399",
       "trumfurl": "https://trumfnetthandel.no/cashback/dyson-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "Opptil 3,1% (41.9 poeng / 100kr)"
     },
     {
       "domain": "e-wheels.no",
@@ -890,7 +890,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/ellos",
       "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "ellos.no",
@@ -1133,7 +1133,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fotoknudsen/01896309-e373-70a7-a93c-65f007a65dd3",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumffotoknudsen",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "Opptil 12,4% (167.4 poeng / 100kr)"
+      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "framsport.no",
@@ -1376,7 +1376,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/homeroom/0189630c-993e-7061-bb1a-d41d2272a9bf",
       "trumfurl": "https://trumfnetthandel.no/cashback/homeroom-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "Opptil 3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "hultens.no",
@@ -1592,7 +1592,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/jotex/0189630b-12c3-73e3-ac98-8b7400497796",
       "trumfurl": "https://trumfnetthandel.no/cashback/jotex-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "junkyard.com",
@@ -2510,7 +2510,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfradissonhotels",
       "sasbonus": "",
-      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "rains.com",
