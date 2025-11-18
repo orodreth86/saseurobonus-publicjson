@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-17T06:47:06.527Z",
+  "generated_at": "2025-11-18T06:45:57.434Z",
   "shops": [
     {
       "domain": "",
@@ -686,24 +686,6 @@
       "trumfbonus": "1,5% (20.3 poeng / 100kr)"
     },
     {
-      "domain": "cos.com",
-      "slug": "",
-      "name": "COS",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/cos-trumf",
-      "sasbonus": "",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
-    },
-    {
-      "domain": "cos.no",
-      "slug": "cos",
-      "name": "COS",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/cos/0189630e-0bd3-72c2-a84d-9bc1f40f4a70",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "cruisedirect.com",
       "slug": "cruisedirect",
       "name": "CruiseDirect",
@@ -890,7 +872,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/ellos",
       "sasbonus": "",
-      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "ellos.no",
@@ -1970,7 +1952,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/lyko-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "7% (94.5 poeng / 100kr)"
     },
     {
       "domain": "lyrdesign.no",
@@ -3194,7 +3176,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/urverket.no/0189630b-f7b0-73db-a7c0-55cf9e666fa5",
       "trumfurl": "https://trumfnetthandel.no/cashback/urverket-trumf",
       "sasbonus": "20 poeng / 100kr",
-      "trumfbonus": "4,3% (58.0 poeng / 100kr)"
+      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
     },
     {
       "domain": "vakrevene.no",
