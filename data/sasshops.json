@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T06:47:22.093Z",
+  "generated_at": "2025-11-22T06:42:56.097Z",
   "shops": [
     {
       "domain": "",
@@ -159,6 +159,15 @@
       "slug": "siemens",
       "name": "Siemens Home",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "truestory",
+      "name": "Truestory",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/truestory/01896310-c5df-7232-a2dc-589b6cddbee7",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -539,7 +548,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bodystore.com/01896307-a48e-7282-a8f3-2508750f0b14",
       "trumfurl": "https://trumfnetthandel.no/cashback/bodystore-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "bokia.no",
@@ -1106,7 +1115,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/framsport-trumf",
       "sasbonus": "",
-      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "fredrikoglouisa.no",
@@ -1241,7 +1250,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/gymgrossisten/01896307-c0a0-73c3-bb34-1854292ab161",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfgymgrossisten",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "haglofs.com",
@@ -1763,7 +1772,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lenovo-2/01896311-859b-70f9-876a-a52c61ec5e5a",
       "trumfurl": "https://trumfnetthandel.no/cashback/lenovo-trumf",
       "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "lenson.com",
@@ -2411,7 +2420,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/proteinfabrikken/01896308-0dd3-730a-be51-faeaf0ab5c92",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfproteinfabrikken",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "pyretosnackan.no",
