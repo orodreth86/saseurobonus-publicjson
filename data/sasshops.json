@@ -1,15 +1,6 @@
 {
-  "generated_at": "2025-11-24T06:47:06.063Z",
+  "generated_at": "2025-11-25T06:48:30.874Z",
   "shops": [
-    {
-      "domain": "",
-      "slug": "anodyne",
-      "name": "Anodyne",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/anodyne/0189630f-d52a-735b-8aff-4baa02398fe7",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
     {
       "domain": "",
       "slug": "autodoc",
@@ -297,15 +288,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfapple-store",
       "sasbonus": "",
       "trumfbonus": "Opptil 4% (54.0 poeng / 100kr)"
-    },
-    {
-      "domain": "arons.no",
-      "slug": "arons",
-      "name": "Arons",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/arons/01896312-6db6-70d8-b14a-33945de0c553",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "asics.com",
@@ -1125,6 +1107,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/fredrik-and-louisa-trumf",
       "sasbonus": "10 poeng / 100kr",
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
+    },
+    {
+      "domain": "fynd.no",
+      "slug": "",
+      "name": "Fynd",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/fynd-trumf",
+      "sasbonus": "",
+      "trumfbonus": "4,8% (64.8 poeng / 100kr)"
     },
     {
       "domain": "fyriresort.com",
@@ -2342,15 +2333,6 @@
       "trumfbonus": ""
     },
     {
-      "domain": "perfume-click.com",
-      "slug": "perfume-click",
-      "name": "Parfyme Klikk",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/perfume-click/0189630c-8328-7252-83f1-61f2264604a2",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "petster.no",
       "slug": "petster",
       "name": "Petster",
@@ -3347,7 +3329,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/zooplus",
       "sasbonus": "",
-      "trumfbonus": "Opptil 11,7% (157.9 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "zoundindustries.com",
