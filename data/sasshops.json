@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T06:48:01.762Z",
+  "generated_at": "2025-11-27T06:48:12.529Z",
   "shops": [
     {
       "domain": "",
@@ -156,9 +156,27 @@
     },
     {
       "domain": "",
+      "slug": "stylingagenten",
+      "name": "StylingAgenten",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/stylingagenten/0189630e-127f-7096-9019-19161c333014",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "truestory",
       "name": "Truestory",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/truestory/01896310-c5df-7232-a2dc-589b6cddbee7",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "tt-line",
+      "name": "TT-line",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/tt-line/0189630e-4f4f-71df-be38-d7c5987f8c1e",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
