@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-28T06:47:45.870Z",
+  "generated_at": "2025-11-29T06:45:06.249Z",
   "shops": [
     {
       "domain": "",
@@ -138,6 +138,15 @@
     },
     {
       "domain": "",
+      "slug": "pilgrim",
+      "name": "Pilgrim",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/pilgrim/0196b513-2638-7036-83ce-676479acc9ff",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "samsung",
       "name": "SAMSUNG",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/samsung/018f3367-2401-704c-900c-526d7eecfc51",
@@ -150,6 +159,15 @@
       "slug": "siemens",
       "name": "Siemens Home",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "sofas-more",
+      "name": "Sofas & More",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -494,7 +512,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/berg-watches-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 9,5% (128.3 poeng / 100kr)"
+      "trumfbonus": "15% (202.5 poeng / 100kr)"
     },
     {
       "domain": "bikbok.com",
@@ -881,7 +899,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/ellos",
       "sasbonus": "",
-      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "ellos.no",
@@ -1973,15 +1991,6 @@
       "trumfbonus": ""
     },
     {
-      "domain": "magasinet.no",
-      "slug": "",
-      "name": "Magasinet",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/magasinet-trumf",
-      "sasbonus": "",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
-    },
-    {
       "domain": "makeupmekka.com",
       "slug": "",
       "name": "Makeup Mekka",
@@ -2573,7 +2582,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/samsung-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 7% (94.5 poeng / 100kr)"
+      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "scandichotels.com",
