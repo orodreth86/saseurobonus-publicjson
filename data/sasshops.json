@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T06:48:30.367Z",
+  "generated_at": "2025-12-05T06:48:41.081Z",
   "shops": [
     {
       "domain": "",
@@ -1448,7 +1448,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/ideal-of-sweden/0189630f-4b89-721d-88e7-5b4e2b299f5f",
       "trumfurl": "https://trumfnetthandel.no/cashback/ideal-of-sweden-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "12,4% (167.4 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "ilovedogs.no",
@@ -2495,15 +2495,6 @@
       "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
-      "domain": "rentalcars.com",
-      "slug": "",
-      "name": "Rentalcars",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/rentalcars-trumf",
-      "sasbonus": "",
-      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
-    },
-    {
       "domain": "risskov.no",
       "slug": "",
       "name": "Risskov Bilferie",
@@ -2582,7 +2573,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/scandic-hotels-trumf",
       "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
     },
     {
       "domain": "se.lastminute.com",
