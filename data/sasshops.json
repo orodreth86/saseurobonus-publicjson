@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T06:51:41.052Z",
+  "generated_at": "2025-12-09T06:49:12.853Z",
   "shops": [
     {
       "domain": "",
@@ -168,6 +168,15 @@
       "slug": "sofas-more",
       "name": "Sofas & More",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "sporttema",
+      "name": "Sporttema",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sporttema/01896308-f18d-71b5-9064-ffc3c373972f",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
