@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-16T06:51:51.366Z",
+  "generated_at": "2025-12-17T06:50:31.962Z",
   "shops": [
     {
       "domain": "",
@@ -360,6 +360,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfasos",
       "sasbonus": "",
       "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
+    },
+    {
+      "domain": "autodeler.co.no",
+      "slug": "",
+      "name": "Autodeler",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/autodeler-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "autodoc.co.no",
