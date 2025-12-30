@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T06:53:50.024Z",
+  "generated_at": "2025-12-30T06:49:56.787Z",
   "shops": [
     {
       "domain": "",
@@ -2126,15 +2126,6 @@
       "trumfbonus": ""
     },
     {
-      "domain": "nextdirect.com",
-      "slug": "next",
-      "name": "Next",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/next/01979ccc-d4fb-72d2-89a4-e954068fedfa",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "nextory.com",
       "slug": "nextory",
       "name": "Nextory",
@@ -2690,15 +2681,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sistie/01896311-a08d-70e2-89fd-36b434472d63",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "skistart.com",
-      "slug": "skistart.com",
-      "name": "Skistart.com",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/skistart.com/01896308-a62c-70f9-b1e8-cf2fa8091102",
-      "trumfurl": "",
-      "sasbonus": "10 poeng / 100kr",
       "trumfbonus": ""
     },
     {
