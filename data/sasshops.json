@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T06:57:18.895Z",
+  "generated_at": "2026-01-06T06:52:30.726Z",
   "shops": [
     {
       "domain": "",
@@ -1125,15 +1125,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/floyd-trumf",
       "sasbonus": "",
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
-    },
-    {
-      "domain": "foodstuff.no",
-      "slug": "",
-      "name": "Foodstuff",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/foodstuff-trumf",
-      "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "foss-sport.no",
@@ -2691,15 +2682,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/skogstad-sport-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "5,4% (72.9 poeng / 100kr)"
-    },
-    {
-      "domain": "skomani.no",
-      "slug": "",
-      "name": "Skomani",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/skomani-trumf",
-      "sasbonus": "",
-      "trumfbonus": "8,1% (109.3 poeng / 100kr)"
     },
     {
       "domain": "skruvat.no",
