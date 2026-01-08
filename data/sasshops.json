@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-07T06:51:57.457Z",
+  "generated_at": "2026-01-08T06:51:48.224Z",
   "shops": [
     {
       "domain": "",
@@ -2610,15 +2610,6 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "sharkgaming.no",
-      "slug": "",
-      "name": "Shark Gaming",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/shark-gaming-trumf",
-      "sasbonus": "",
-      "trumfbonus": "Opptil 15,6% (210.6 poeng / 100kr)"
     },
     {
       "domain": "shop.electrolux.no",
