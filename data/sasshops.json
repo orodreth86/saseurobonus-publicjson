@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T06:52:23.174Z",
+  "generated_at": "2026-01-14T06:53:02.393Z",
   "shops": [
     {
       "domain": "",
@@ -632,15 +632,6 @@
       "trumfbonus": ""
     },
     {
-      "domain": "brando.no",
-      "slug": "brando",
-      "name": "Brando",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/brando/0192e725-fdf8-715a-ad92-7dda686dbb6d",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "bravofly.no",
       "slug": "",
       "name": "Bravofly",
@@ -729,6 +720,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/chillout-trumf",
       "sasbonus": "",
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
+    },
+    {
+      "domain": "clickandboat.com",
+      "slug": "",
+      "name": "Click&Boat",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/click-and-boat-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "computersalg.no",
@@ -1142,7 +1142,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fotoknudsen/01896309-e373-70a7-a93c-65f007a65dd3",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumffotoknudsen",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "Opptil 10,9% (147.2 poeng / 100kr)"
+      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "framsport.no",
@@ -1250,15 +1250,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/go-dream/0189630a-f625-7029-9a93-ed9bbdc2d5eb",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "greenpeople.no",
-      "slug": "green-people",
-      "name": "Green People",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/green-people/0189630d-fd0e-724a-ab96-1b9bc18ac875",
-      "trumfurl": "",
-      "sasbonus": "100 poeng / 100kr",
       "trumfbonus": ""
     },
     {
