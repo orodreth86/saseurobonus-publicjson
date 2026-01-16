@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:52:01.350Z",
+  "generated_at": "2026-01-16T06:51:50.309Z",
   "shops": [
     {
       "domain": "",
@@ -398,6 +398,15 @@
       "trumfbonus": "23,4% (315.9 poeng / 100kr)"
     },
     {
+      "domain": "avg.com",
+      "slug": "",
+      "name": "AVG",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/avg-trumf",
+      "sasbonus": "",
+      "trumfbonus": "23,4% (315.9 poeng / 100kr)"
+    },
+    {
       "domain": "avis.no",
       "slug": "",
       "name": "AVIS",
@@ -668,6 +677,15 @@
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
+      "domain": "buy.norton.com",
+      "slug": "",
+      "name": "Norton",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/norton-trumf",
+      "sasbonus": "",
+      "trumfbonus": "19,5% (263.3 poeng / 100kr)"
+    },
+    {
       "domain": "campanyon.com",
       "slug": "",
       "name": "Campanyon",
@@ -684,6 +702,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/care-of-carl-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "Opptil 12% (162.0 poeng / 100kr)"
+    },
+    {
+      "domain": "ccleaner.com",
+      "slug": "",
+      "name": "CCleaner",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/ccleaner-trumf",
+      "sasbonus": "",
+      "trumfbonus": "23,4% (315.9 poeng / 100kr)"
     },
     {
       "domain": "cdon.no",
