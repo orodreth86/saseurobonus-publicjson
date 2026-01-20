@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T06:58:21.189Z",
+  "generated_at": "2026-01-20T06:55:56.783Z",
   "shops": [
     {
       "domain": "",
@@ -1431,15 +1431,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/husqvarna-trumf",
       "sasbonus": "",
       "trumfbonus": "3,9% (52.6 poeng / 100kr)"
-    },
-    {
-      "domain": "hyttefeber.no",
-      "slug": "",
-      "name": "Hyttefeber",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/hyttefeber-trumf",
-      "sasbonus": "",
-      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "iberostar.com",
@@ -3285,6 +3276,15 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "www2.hm.com",
+      "slug": "",
+      "name": "H&M",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/h-and-m-trumf",
+      "sasbonus": "",
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "xplora.no",
