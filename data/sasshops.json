@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-21T06:56:09.246Z",
+  "generated_at": "2026-01-22T06:54:02.259Z",
   "shops": [
     {
       "domain": "",
@@ -2672,6 +2672,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sistie/01896311-a08d-70e2-89fd-36b434472d63",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "skistart.com",
+      "slug": "skistart.com",
+      "name": "Skistart.com",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/skistart.com/01896308-a62c-70f9-b1e8-cf2fa8091102",
+      "trumfurl": "",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": ""
     },
     {
