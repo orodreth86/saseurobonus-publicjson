@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T06:54:02.259Z",
+  "generated_at": "2026-01-23T06:53:33.936Z",
   "shops": [
     {
       "domain": "",
@@ -15,6 +15,15 @@
       "slug": "bosch-home",
       "name": "Bosch Home",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "caia-cosmetics",
+      "name": "CAIA Cosmetics",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/caia-cosmetics/019b939e-7e05-71c0-a5c6-2fb15815f053",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -228,6 +237,15 @@
     },
     {
       "domain": "",
+      "slug": "vakre-vene",
+      "name": "Vakre Vene",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vakre-vene/019be5ba-a3a8-7123-9165-fc4aa24f2604",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "vy-buss",
       "name": "Vy Buss",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vy-buss/01896311-ed1e-72a2-b624-0b81184ec29e",
@@ -333,15 +351,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/apotekhjem-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "5,4% (72.9 poeng / 100kr)"
-    },
-    {
-      "domain": "apple.com",
-      "slug": "",
-      "name": "Apple",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/trumfapple-store",
-      "sasbonus": "",
-      "trumfbonus": "2,7% (36.5 poeng / 100kr)"
     },
     {
       "domain": "asics.com",
@@ -2364,9 +2373,9 @@
       "slug": "petster",
       "name": "Petster",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/petster/0189630d-d608-71c5-a1d0-097db7774e63",
-      "trumfurl": "https://trumfnetthandel.no/cashback/petster-trumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "petxl.no",
