@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T07:08:48.381Z",
+  "generated_at": "2026-01-31T06:59:16.452Z",
   "shops": [
     {
       "domain": "",
@@ -888,9 +888,9 @@
       "slug": "drømmerom",
       "name": "Drømmerom",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/drømmerom/0189630d-28a5-73c7-a5b0-38ad1f3cbe90",
-      "trumfurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/drommerom-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
+      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "dustinhome.no",
@@ -3239,7 +3239,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vpg.no/01896309-2e3d-72a3-9b8b-b02451a20216",
       "trumfurl": "https://trumfnetthandel.no/cashback/vpg-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "vybuss.no",
