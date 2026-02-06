@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T07:17:47.105Z",
+  "generated_at": "2026-02-06T07:14:00.877Z",
   "shops": [
     {
       "domain": "",
@@ -1415,6 +1415,15 @@
       "trumfbonus": "Opptil 3,9% (52.6 poeng / 100kr)"
     },
     {
+      "domain": "hudprodukter.no",
+      "slug": "",
+      "name": "Hudprodukter",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/hudprodukter",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
       "domain": "hultens.no",
       "slug": "",
       "name": "Hulténs",
@@ -1728,15 +1737,6 @@
       "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "klokkegiganten.no",
-      "slug": "",
-      "name": "Klokkegiganten",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/klokkegiganten-trumf",
-      "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "komplett.no",
@@ -2240,7 +2240,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfnordic-feel",
       "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "nordicnest.no",
@@ -2826,6 +2826,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/sportmann-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "sportsmagasinet.no",
+      "slug": "",
+      "name": "Sportsmagasinet",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/sportsmagasinet-trumf",
+      "sasbonus": "",
+      "trumfbonus": "12,4% (167.4 poeng / 100kr)"
     },
     {
       "domain": "stay-in-place.com",
