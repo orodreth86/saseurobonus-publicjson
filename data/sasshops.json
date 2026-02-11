@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T10:09:39.517Z",
+  "generated_at": "2026-02-11T13:49:09.130Z",
   "shops": [
     {
       "domain": "",
@@ -641,6 +641,15 @@
       "trumfbonus": "11,7% (157.9 poeng / 100kr)"
     },
     {
+      "domain": "bokseshoppen.no",
+      "slug": "",
+      "name": "Bokseshoppen",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/bokseshoppen-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,4% (99.9 poeng / 100kr)"
+    },
+    {
       "domain": "bookbeat.com",
       "slug": "bookbeat",
       "name": "Bookbeat",
@@ -767,13 +776,13 @@
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
-      "domain": "chillout.no",
+      "domain": "chicastore.no",
       "slug": "",
-      "name": "Chillout",
+      "name": "Chicastore",
       "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/chillout-trumf",
+      "trumfurl": "https://trumfnetthandel.no/cashback/chicastore-trumf",
       "sasbonus": "",
-      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "clickandboat.com",
@@ -783,6 +792,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/click-and-boat-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
+    },
+    {
+      "domain": "comforth.no",
+      "slug": "",
+      "name": "Comforth Scandinavia",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/comforth-scandinavia-trumf",
+      "sasbonus": "",
+      "trumfbonus": "15,6% (210.6 poeng / 100kr)"
     },
     {
       "domain": "computersalg.no",
@@ -1152,6 +1170,15 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "fitnessshoppen",
+      "slug": "",
+      "name": "Fitnessshoppen",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/fitnessshoppen-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "fitnessshoppen.no",
@@ -2396,6 +2423,15 @@
       "trumfbonus": ""
     },
     {
+      "domain": "pilgrim.net",
+      "slug": "",
+      "name": "Pilgrim",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/pilgrim-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+    },
+    {
       "domain": "pink-or-blue.com",
       "slug": "pink-or-blue",
       "name": "pink or blue",
@@ -2538,6 +2574,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/sackit-trumf",
       "sasbonus": "",
       "trumfbonus": "9,3% (125.6 poeng / 100kr)"
+    },
+    {
+      "domain": "safira.com",
+      "slug": "",
+      "name": "Safira",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/safira-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "safira.no",
