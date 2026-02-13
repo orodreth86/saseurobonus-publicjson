@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T07:14:50.523Z",
+  "generated_at": "2026-02-13T10:01:09.570Z",
   "shops": [
     {
       "domain": "",
@@ -504,15 +504,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/bakeren-og-kokken-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "3,1% (41.9 poeng / 100kr)"
-    },
-    {
-      "domain": "bangerhead.no",
-      "slug": "",
-      "name": "Bangerhead",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/trumfbangerhead",
-      "sasbonus": "",
-      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "barbershop.no",
