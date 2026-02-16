@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T13:38:28.820Z",
+  "generated_at": "2026-02-16T15:57:03.455Z",
   "shops": [
     {
       "domain": "",
@@ -125,6 +125,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
       "trumfurl": "",
       "sasbonus": "1000 poeng",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "nordiska-galleriet",
+      "name": "Nordiska Galleriet",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nordiska-galleriet/01896311-818d-7114-be42-ed67319052a1",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2453,7 +2462,7 @@
       "domain": "proteinfabrikken.no",
       "slug": "proteinfabrikken",
       "name": "Proteinfabrikken",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/proteinfabrikken/01896308-0dd3-730a-be51-faeaf0ab5c92",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/proteinfabrikken/019c66f8-8151-7274-bf0b-ddf7bca7de59",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfproteinfabrikken",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
