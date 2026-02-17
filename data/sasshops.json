@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T10:06:05.533Z",
+  "generated_at": "2026-02-17T13:39:03.647Z",
   "shops": [
     {
       "domain": "",
@@ -857,6 +857,15 @@
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
+      "domain": "dekk.eu",
+      "slug": "",
+      "name": "Dekk.eu",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/dekkeu-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+    },
+    {
       "domain": "dekkonline.com",
       "slug": "dekkonline.no",
       "name": "dekkonline.com",
@@ -1230,9 +1239,9 @@
       "slug": "fotoknudsen",
       "name": "FotoKnudsen",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fotoknudsen/01896309-e373-70a7-a93c-65f007a65dd3",
-      "trumfurl": "https://trumfnetthandel.no/cashback/trumffotoknudsen",
+      "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "framsport.no",
