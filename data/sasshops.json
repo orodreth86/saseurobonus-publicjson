@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T07:15:13.021Z",
+  "generated_at": "2026-02-17T10:06:05.533Z",
   "shops": [
     {
       "domain": "",
@@ -666,6 +666,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/bookbeat-trumf",
       "sasbonus": "",
       "trumfbonus": "75kr (1012.5 poeng)"
+    },
+    {
+      "domain": "bosch-home.no",
+      "slug": "",
+      "name": "Bosch",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/bosch-trumf1",
+      "sasbonus": "",
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "bose.no",
@@ -2022,9 +2031,9 @@
       "slug": "maanesten",
       "name": "Maanesten",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/maanesten/01935438-5e6b-7013-9f9d-da93e98bf438",
-      "trumfurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/maanesten-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
+      "trumfbonus": "8,9% (120.2 poeng / 100kr)"
     },
     {
       "domain": "made4men.no",
@@ -2896,6 +2905,15 @@
       "name": "STIGA Sports",
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/stiga-sports-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+    },
+    {
+      "domain": "stille.no",
+      "slug": "",
+      "name": "Stille",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/stille-trumf",
       "sasbonus": "",
       "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
