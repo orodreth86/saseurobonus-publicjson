@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T16:07:36.039Z",
+  "generated_at": "2026-02-18T19:14:45.366Z",
   "shops": [
     {
       "domain": "",
@@ -2457,6 +2457,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfpolarn-o-pyretno",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "primevideo.com",
+      "slug": "",
+      "name": "Prime Video",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/prime-video-trumf",
+      "sasbonus": "",
+      "trumfbonus": "25kr (337.5 poeng)"
     },
     {
       "domain": "proshop.no",
