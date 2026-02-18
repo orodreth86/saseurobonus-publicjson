@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T07:16:00.923Z",
+  "generated_at": "2026-02-18T10:05:52.031Z",
   "shops": [
     {
       "domain": "",
@@ -35,15 +35,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "copenhagen-health",
-      "name": "Copenhagen Health",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/copenhagen-health/0195f674-49d5-71a0-a2ee-64132f686b6d",
-      "trumfurl": "",
-      "sasbonus": "75 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2159,7 +2150,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/new-balance-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "newchic.com",
@@ -3221,7 +3212,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/viaplay-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 290kr (3915.0 poeng)"
+      "trumfbonus": "Opptil 295kr (3982.5 poeng)"
     },
     {
       "domain": "viator.com",
