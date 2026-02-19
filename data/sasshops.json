@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T13:41:53.551Z",
+  "generated_at": "2026-02-19T16:03:23.107Z",
   "shops": [
     {
       "domain": "",
@@ -632,15 +632,6 @@
       "trumfbonus": "11,7% (157.9 poeng / 100kr)"
     },
     {
-      "domain": "bokseshoppen.no",
-      "slug": "",
-      "name": "Bokseshoppen",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/bokseshoppen-trumf",
-      "sasbonus": "",
-      "trumfbonus": "7,4% (99.9 poeng / 100kr)"
-    },
-    {
       "domain": "bookbeat.com",
       "slug": "bookbeat",
       "name": "Bookbeat",
@@ -1178,24 +1169,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fila/019662de-72d3-723e-ae87-19c1e4d91787",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "fitnessshoppen",
-      "slug": "",
-      "name": "Fitnessshoppen",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/fitnessshoppen-trumf",
-      "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
-    },
-    {
-      "domain": "fitnessshoppen.no",
-      "slug": "fitnessshoppen",
-      "name": "Fitnessshoppen",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fitnessshoppen/01896310-d3b3-72c0-828e-a77261184fbf",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
