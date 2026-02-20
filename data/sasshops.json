@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-02-20T09:57:12.521Z",
+  "generated_at": "2026-02-20T13:33:09.548Z",
   "shops": [
     {
       "domain": "",
       "slug": "autodoc",
       "name": "Autodoc",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/autodoc/01896310-e823-72b0-8d74-6b3da56a30e3",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "bad-stil",
+      "name": "Bad & Stil",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bad-stil/019c7b32-49d5-70b2-b1c1-a7ba8153a087",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -150,6 +159,15 @@
       "slug": "partyking",
       "name": "partyking",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/partyking/019b11f5-2adc-72f3-96b1-3428a999ce72",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "petxl",
+      "name": "PetXL",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/petxl/019c7b24-6555-7109-9f9b-b6675d9f3abb",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
