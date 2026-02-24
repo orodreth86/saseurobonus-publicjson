@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T10:08:06.420Z",
+  "generated_at": "2026-02-24T13:42:57.994Z",
   "shops": [
     {
       "domain": "",
@@ -2169,6 +2169,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "newporthome.no",
+      "slug": "",
+      "name": "Newport",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/newport-home-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7% (94.5 poeng / 100kr)"
     },
     {
       "domain": "nextory.com",
