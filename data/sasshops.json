@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T07:15:36.933Z",
+  "generated_at": "2026-02-24T10:08:06.420Z",
   "shops": [
     {
       "domain": "",
@@ -1062,6 +1062,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/emp-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 5,4% (72.9 poeng / 100kr)"
+    },
+    {
+      "domain": "engrospris.no",
+      "slug": "",
+      "name": "Engrospris",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/engrospris-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 15,6% (210.6 poeng / 100kr)"
     },
     {
       "domain": "etihad.com",
