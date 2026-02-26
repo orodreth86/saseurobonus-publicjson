@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T10:05:52.118Z",
+  "generated_at": "2026-02-26T13:43:22.560Z",
   "shops": [
     {
       "domain": "",
@@ -1188,6 +1188,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/fjord-line-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 10% (135.0 poeng / 100kr)"
+    },
+    {
+      "domain": "flixbus.no",
+      "slug": "",
+      "name": "Flixbus",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/flixbus-trumf2",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "floyd.no",
