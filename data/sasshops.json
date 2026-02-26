@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T07:15:22.861Z",
+  "generated_at": "2026-02-26T10:05:52.118Z",
   "shops": [
     {
       "domain": "",
@@ -3123,6 +3123,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/tripx-trumf",
       "sasbonus": "",
       "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+    },
+    {
+      "domain": "tudos.no",
+      "slug": "",
+      "name": "Tudos",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/tudos-trumf",
+      "sasbonus": "",
+      "trumfbonus": "4,3% (58.0 poeng / 100kr)"
     },
     {
       "domain": "ullapopken.no",
