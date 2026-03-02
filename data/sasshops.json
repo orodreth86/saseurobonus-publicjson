@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T10:05:35.689Z",
+  "generated_at": "2026-03-02T13:34:40.730Z",
   "shops": [
     {
       "domain": "",
@@ -213,15 +213,6 @@
       "slug": "sporttema",
       "name": "Sporttema",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sporttema/01896308-f18d-71b5-9064-ffc3c373972f",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "stylingagenten",
-      "name": "StylingAgenten",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/stylingagenten/0189630e-127f-7096-9019-19161c333014",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -639,6 +630,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/bokia-trumf",
       "sasbonus": "",
       "trumfbonus": "11,7% (157.9 poeng / 100kr)"
+    },
+    {
+      "domain": "bonprix.no",
+      "slug": "",
+      "name": "Bonprix",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/bonprix-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
     },
     {
       "domain": "bookbeat.com",
@@ -1062,15 +1062,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/engrospris-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 17,1% (230.9 poeng / 100kr)"
-    },
-    {
-      "domain": "etihad.com",
-      "slug": "",
-      "name": "Etihad Airways",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/etihad-airways-trumf",
-      "sasbonus": "",
-      "trumfbonus": "1,5% (20.3 poeng / 100kr)"
     },
     {
       "domain": "eu.puma.com",
