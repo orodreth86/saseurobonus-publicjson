@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T07:15:50.842Z",
+  "generated_at": "2026-03-02T10:05:35.689Z",
   "shops": [
     {
       "domain": "",
@@ -798,9 +798,9 @@
       "slug": "computersalg",
       "name": "Computersalg",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/computersalg/0189630e-21d9-70b4-9f7a-92a6704964ac",
-      "trumfurl": "https://trumfnetthandel.no/cashback/computersalg",
+      "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": "1,5% (20.3 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "cruisedirect.com",
@@ -810,6 +810,15 @@
       "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "csmegastore.no",
+      "slug": "",
+      "name": "CS MEGASTORE",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/cs-megastore-trumf",
+      "sasbonus": "",
+      "trumfbonus": "1,5% (20.3 poeng / 100kr)"
     },
     {
       "domain": "cyberghostvpn.com",
