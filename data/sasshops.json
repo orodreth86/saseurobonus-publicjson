@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T21:47:33.079Z",
+  "generated_at": "2026-03-04T02:49:46.656Z",
   "shops": [
     {
       "domain": "",
@@ -726,9 +726,9 @@
       "slug": "care-of-carl",
       "name": "Care of Carl",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/care-of-carl/0189630a-38d6-72e4-a86f-dd70aa3874a5",
-      "trumfurl": "https://trumfnetthandel.no/cashback/care-of-carl-trumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 12% (162.0 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "ccleaner.com",
@@ -2184,9 +2184,9 @@
       "slug": "nike",
       "name": "Nike",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nike/0189630d-5a39-7035-ae20-23e562d839ad",
-      "trumfurl": "https://trumfnetthandel.no/cashback/nike-no",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "nlyman.com",
