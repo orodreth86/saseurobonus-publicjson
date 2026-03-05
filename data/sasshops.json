@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T13:36:13.437Z",
+  "generated_at": "2026-03-05T16:02:22.652Z",
   "shops": [
     {
       "domain": "",
@@ -1167,15 +1167,6 @@
       "slug": "festkompaniet",
       "name": "Festkompaniet",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/festkompaniet/0189630a-a836-73ea-9b09-fea8cca33f55",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "fila.com",
-      "slug": "fila",
-      "name": "Fila",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fila/019662de-72d3-723e-ae87-19c1e4d91787",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
@@ -3420,15 +3411,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/zooplus",
       "sasbonus": "",
       "trumfbonus": "Opptil 11,7% (157.9 poeng / 100kr)"
-    },
-    {
-      "domain": "zoundindustries.com",
-      "slug": "zoundindustries",
-      "name": "Urbanears",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/zoundindustries/0189630a-06ef-7019-bd36-354239ce26d9",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
     }
   ]
 }
