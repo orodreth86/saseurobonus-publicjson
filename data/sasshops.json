@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T07:07:23.769Z",
+  "generated_at": "2026-03-06T09:55:45.152Z",
   "shops": [
     {
       "domain": "",
@@ -107,6 +107,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/makeup-mekka/0197a72c-6e7d-7200-b949-a127880137d2",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "maxulin",
+      "name": "Maxulin",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/maxulin/019662cf-bd3a-73ba-840e-37bb81369e8e",
+      "trumfurl": "",
+      "sasbonus": "1000 poeng",
       "trumfbonus": ""
     },
     {
