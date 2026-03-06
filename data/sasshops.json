@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T09:55:45.152Z",
+  "generated_at": "2026-03-06T13:20:16.877Z",
   "shops": [
     {
       "domain": "",
@@ -1044,15 +1044,6 @@
       "trumfurl": "",
       "sasbonus": "500 poeng",
       "trumfbonus": ""
-    },
-    {
-      "domain": "emirates.com",
-      "slug": "",
-      "name": "Emirates",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/emirates-trumf",
-      "sasbonus": "",
-      "trumfbonus": "0,9% (12.2 poeng / 100kr)"
     },
     {
       "domain": "emp-shop.no",
