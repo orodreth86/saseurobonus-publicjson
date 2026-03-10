@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T09:59:46.288Z",
+  "generated_at": "2026-03-10T13:37:13.262Z",
   "shops": [
     {
       "domain": "",
@@ -204,6 +204,15 @@
       "slug": "siemens",
       "name": "Siemens Home",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "skeidar",
+      "name": "Skeidar",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/skeidar/019cd736-905a-7300-8d5d-ae68b2a4bb95",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
