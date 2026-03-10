@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T07:07:50.333Z",
+  "generated_at": "2026-03-10T09:59:46.288Z",
   "shops": [
     {
       "domain": "",
@@ -2169,15 +2169,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/nextory-trumfs",
       "sasbonus": "250 poeng",
       "trumfbonus": "35kr (472.5 poeng)"
-    },
-    {
-      "domain": "nike.com",
-      "slug": "nike",
-      "name": "Nike",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nike/0189630d-5a39-7035-ae20-23e562d839ad",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "nlyman.com",
