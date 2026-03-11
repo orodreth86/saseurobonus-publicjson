@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T13:37:42.097Z",
+  "generated_at": "2026-03-11T16:01:46.810Z",
   "shops": [
     {
       "domain": "",
@@ -125,6 +125,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
       "trumfurl": "",
       "sasbonus": "1000 poeng",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "nespresso",
+      "name": "Nespresso",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1773,6 +1782,15 @@
       "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "kokkeglede.no",
+      "slug": "",
+      "name": "Kokkeglede",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/kokkeglede-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "komplett.no",
