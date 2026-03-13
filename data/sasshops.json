@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T09:55:59.247Z",
+  "generated_at": "2026-03-13T13:33:38.178Z",
   "shops": [
     {
       "domain": "",
@@ -60,6 +60,15 @@
       "slug": "haglofs",
       "name": "Haglöfs",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/haglofs/018f1a0b-1749-708d-bbec-9aa03594b3b0",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "hamphi",
+      "name": "Hamphi",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/hamphi/0199c410-ed9b-72f0-ae61-3e87d9179fc8",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -841,7 +850,7 @@
     {
       "domain": "computersalg.no",
       "slug": "computersalg",
-      "name": "Computersalg",
+      "name": "CS Megastore",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/computersalg/0189630e-21d9-70b4-9f7a-92a6704964ac",
       "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
