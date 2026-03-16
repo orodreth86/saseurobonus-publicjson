@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-03-16T10:14:19.471Z",
+  "generated_at": "2026-03-16T13:53:41.455Z",
   "shops": [
     {
       "domain": "",
       "slug": "autodoc",
       "name": "Autodoc",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/autodoc/01896310-e823-72b0-8d74-6b3da56a30e3",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "autodude",
+      "name": "Autodude",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/autodude/018f57d7-5ba2-735f-97f3-c511b00c38bb",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -980,7 +989,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/drømmerom/0189630d-28a5-73c7-a5b0-38ad1f3cbe90",
       "trumfurl": "https://trumfnetthandel.no/cashback/drommerom-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
+      "trumfbonus": "7% (94.5 poeng / 100kr)"
     },
     {
       "domain": "dustinhome.no",
@@ -2159,7 +2168,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/navnelapper/0189630c-6bb7-737c-91fe-b7788089ab87",
       "trumfurl": "https://trumfnetthandel.no/cashback/askeladden-navnelapper",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "10,7% (144.4 poeng / 100kr)"
     },
     {
       "domain": "nazar.no",
