@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T13:53:41.455Z",
+  "generated_at": "2026-03-16T16:16:44.670Z",
   "shops": [
     {
       "domain": "",
@@ -674,7 +674,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bjorn-borg/01896308-503c-73a5-9ec8-382fd13dc580",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfbj%C3%B6rn-borg",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "8,5% (114.8 poeng / 100kr)"
     },
     {
       "domain": "bladkongen.no",
@@ -1187,7 +1187,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fabel/0189630f-ef16-7364-aef4-32a7e20009b8",
       "trumfurl": "https://trumfnetthandel.no/cashback/fabel-trumf",
       "sasbonus": "250 poeng",
-      "trumfbonus": "35kr (472.5 poeng)"
+      "trumfbonus": "40kr (540.0 poeng)"
     },
     {
       "domain": "farfetch.com",
@@ -1376,7 +1376,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/gullfunn-1/01896312-dd43-7392-aab6-2b384ab082d1",
       "trumfurl": "https://trumfnetthandel.no/cashback/gullfunn-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
+      "trumfbonus": "6,5% (87.8 poeng / 100kr)"
     },
     {
       "domain": "gymgrossisten.no",
@@ -1853,7 +1853,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/lampemesteren-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "Opptil 8,1% (109.3 poeng / 100kr)"
     },
     {
       "domain": "lappeliten.no",
@@ -2267,7 +2267,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/loccitane-trumf",
       "sasbonus": "",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
+      "trumfbonus": "7% (94.5 poeng / 100kr)"
     },
     {
       "domain": "no.match.com",
@@ -2978,7 +2978,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/stille-trumf",
       "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "stockx.com",
@@ -3446,7 +3446,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
       "trumfurl": "https://trumfnetthandel.no/cashback/xplora-trumf",
       "sasbonus": "1000 poeng",
-      "trumfbonus": "Opptil 195kr (2632.5 poeng)"
+      "trumfbonus": "Opptil 230kr (3105.0 poeng)"
     },
     {
       "domain": "yoursurprise.no",
