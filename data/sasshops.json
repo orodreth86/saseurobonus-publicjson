@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T10:08:07.698Z",
+  "generated_at": "2026-03-17T13:51:02.493Z",
   "shops": [
     {
       "domain": "",
@@ -783,15 +783,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/campanyon-trumf",
       "sasbonus": "",
       "trumfbonus": "5,4% (72.9 poeng / 100kr)"
-    },
-    {
-      "domain": "careofcarl.no",
-      "slug": "care-of-carl",
-      "name": "Care of Carl",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/care-of-carl/0189630a-38d6-72e4-a86f-dd70aa3874a5",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "ccleaner.com",
