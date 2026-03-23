@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T13:48:26.105Z",
+  "generated_at": "2026-03-23T16:08:45.301Z",
   "shops": [
     {
       "domain": "",
@@ -400,7 +400,7 @@
     {
       "domain": "albert.no",
       "slug": "albert",
-      "name": "Hej Albert",
+      "name": "Albert",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/albert/01896312-874a-732c-a16e-33ad6b422841",
       "trumfurl": "",
       "sasbonus": "500 poeng",
