@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T10:08:54.397Z",
+  "generated_at": "2026-03-24T13:50:39.147Z",
   "shops": [
     {
       "domain": "",
@@ -1673,15 +1673,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/jbl.com/01896309-4c40-7174-bd17-a3e09c581377",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "jewelbox.no",
-      "slug": "jewelbox.no",
-      "name": "Jewelbox.no",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/jewelbox.no/01896308-8ea4-70bd-bddf-56457bf7f5d0",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
