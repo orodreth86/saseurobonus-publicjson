@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T03:29:04.480Z",
+  "generated_at": "2026-03-31T07:43:46.827Z",
   "shops": [
     {
       "domain": "",
@@ -53,6 +53,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "dressmann",
+      "name": "Dressmann",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dressmann/019d42ca-5521-729d-82e9-6fa4798330c6",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1118,6 +1127,15 @@
       "trumfbonus": "Opptil 15,6% (210.6 poeng / 100kr)"
     },
     {
+      "domain": "estore.nu",
+      "slug": "",
+      "name": "eStore",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/estore-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
       "domain": "eu.puma.com",
       "slug": "",
       "name": "Puma",
@@ -1386,6 +1404,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/gullfunn-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "5,4% (72.9 poeng / 100kr)"
+    },
+    {
+      "domain": "guttelus.no",
+      "slug": "",
+      "name": "Guttelus",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/guttelus-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "gymgrossisten.no",
