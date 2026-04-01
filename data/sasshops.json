@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T03:44:32.778Z",
+  "generated_at": "2026-04-01T07:53:32.371Z",
   "shops": [
     {
       "domain": "",
@@ -224,15 +224,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/pilgrim/0196b513-2638-7036-83ce-676479acc9ff",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "plussmobil",
-      "name": "PlussMobil",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/plussmobil/01896310-a654-73e1-a4f7-591156fc522f",
-      "trumfurl": "",
-      "sasbonus": "1000 poeng",
       "trumfbonus": ""
     },
     {
@@ -1568,15 +1559,6 @@
       "trumfbonus": "4,5% (60.8 poeng / 100kr)"
     },
     {
-      "domain": "ice.no",
-      "slug": "ice",
-      "name": "ICE",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/ice/0189630c-1ac4-7176-9627-433b2c1773b7",
-      "trumfurl": "",
-      "sasbonus": "2000 poeng",
-      "trumfbonus": ""
-    },
-    {
       "domain": "id.nordicnest.no",
       "slug": "",
       "name": "Nordic Nest",
@@ -1773,15 +1755,6 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "kayani.no",
-      "slug": "",
-      "name": "Kayani",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/kayani-trumf",
-      "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "kinogavekort.no",
@@ -3123,15 +3096,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/teleoutlet-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
-    },
-    {
-      "domain": "telia.no",
-      "slug": "telia-bredband-og-tv",
-      "name": "Telia",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/telia-bredband-og-tv/0189630b-94d9-73d6-9d65-2f31fd21738c",
-      "trumfurl": "",
-      "sasbonus": "2000 poeng",
-      "trumfbonus": ""
     },
     {
       "domain": "the-chef.com",
