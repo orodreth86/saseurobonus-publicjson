@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T07:49:02.897Z",
+  "generated_at": "2026-04-07T10:16:11.450Z",
   "shops": [
     {
       "domain": "",
@@ -3213,6 +3213,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "uppababy.no",
+      "slug": "",
+      "name": "Uppababy",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/uppababy-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "urban-trend.com",
