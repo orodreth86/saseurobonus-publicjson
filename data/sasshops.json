@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T10:17:03.334Z",
+  "generated_at": "2026-04-08T14:01:49.811Z",
   "shops": [
     {
       "domain": "",
@@ -186,6 +186,15 @@
       "slug": "outdoorexperten",
       "name": "OutdoorExperten",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/outdoorexperten/01896311-e333-72ec-ba0e-eceafac13618",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "parfymno",
+      "name": "Parfym.no",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/parfymno/01896308-8756-70e3-b42a-66850f7b1673",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -3221,7 +3230,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/uppababy-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "15,6% (210.6 poeng / 100kr)"
     },
     {
       "domain": "urban-trend.com",
