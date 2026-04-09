@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T07:54:18.085Z",
+  "generated_at": "2026-04-09T10:21:14.293Z",
   "shops": [
     {
       "domain": "",
@@ -98,6 +98,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "husqvarna",
+      "name": "Husqvarna",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/husqvarna/019d713b-929f-7136-98ba-83fb547332ef",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1825,7 +1834,7 @@
       "name": "Komplett",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/komplett-1/01896310-4cf5-73e3-ba30-14f26f67ddb9",
       "trumfurl": "https://trumfnetthandel.no/cashback/komplett-trumf",
-      "sasbonus": "10 poeng / 100kr",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": "Opptil 1,5% (20.3 poeng / 100kr)"
     },
     {
