@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T03:52:11.424Z",
+  "generated_at": "2026-04-13T08:22:03.813Z",
   "shops": [
     {
       "domain": "",
@@ -2097,15 +2097,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/maanesten-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "8,9% (120.2 poeng / 100kr)"
-    },
-    {
-      "domain": "made4men.no",
-      "slug": "made4men",
-      "name": "Made4men",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/made4men/01896309-94a4-715b-a552-cd41f531107e",
-      "trumfurl": "",
-      "sasbonus": "80 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "makeupmekka.com",
