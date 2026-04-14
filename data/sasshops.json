@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T10:39:24.842Z",
+  "generated_at": "2026-04-14T14:11:03.652Z",
   "shops": [
     {
       "domain": "",
@@ -187,7 +187,7 @@
       "name": "Oakley",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
       "trumfurl": "",
-      "sasbonus": "25 poeng",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -242,6 +242,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/pilgrim/0196b513-2638-7036-83ce-676479acc9ff",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "readly",
+      "name": "Readly",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/readly/019bc664-90ed-7386-a14b-4ee847a35168",
+      "trumfurl": "",
+      "sasbonus": "250 poeng",
       "trumfbonus": ""
     },
     {
@@ -1332,15 +1341,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/fynd-trumf",
       "sasbonus": "",
       "trumfbonus": "4,8% (64.8 poeng / 100kr)"
-    },
-    {
-      "domain": "fyriresort.com",
-      "slug": "",
-      "name": "Fyri Resort",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/fyri-resort-trumf",
-      "sasbonus": "",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "fyrklovern.com",
@@ -2439,15 +2439,6 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "parfym.no",
-      "slug": "",
-      "name": "Parfym",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/parfym-trumf",
-      "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "patpat.com",
