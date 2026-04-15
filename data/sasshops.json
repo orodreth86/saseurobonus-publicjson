@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T03:39:37.869Z",
+  "generated_at": "2026-04-15T08:03:50.986Z",
   "shops": [
     {
       "domain": "",
@@ -2439,6 +2439,15 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "parfym.no",
+      "slug": "",
+      "name": "Parfym",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/parfym-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "patpat.com",
