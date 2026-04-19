@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T21:50:10.451Z",
+  "generated_at": "2026-04-19T03:49:02.892Z",
   "shops": [
     {
       "domain": "",
@@ -395,7 +395,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/adidas/0189630e-5d7e-709b-a148-a7237fda75ee",
       "trumfurl": "https://trumfnetthandel.no/cashback/adidas-trumfs",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "adlibris.com",
@@ -737,7 +737,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bodystore.com/01896307-a48e-7282-a8f3-2508750f0b14",
       "trumfurl": "https://trumfnetthandel.no/cashback/bodystore-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "bokia.no",
@@ -773,7 +773,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/bookbeat-trumf",
       "sasbonus": "",
-      "trumfbonus": "75kr (1012.5 poeng)"
+      "trumfbonus": "105kr (1417.5 poeng)"
     },
     {
       "domain": "bosch-home.no",
@@ -782,7 +782,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/bosch-trumf1",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "brilleland.no",
@@ -863,7 +863,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/christiania-glasmagasin/01896309-850a-71db-86b3-69229f093274",
       "trumfurl": "https://trumfnetthandel.no/cashback/christiania-glasmagasintrumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "chicastore.no",
@@ -1052,7 +1052,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dyson/01896310-bb05-734c-87c7-a0d8eadfe399",
       "trumfurl": "https://trumfnetthandel.no/cashback/dyson-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "e-wheels.no",
@@ -1079,7 +1079,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/electrolux/01896310-948e-7234-ae45-a0afda613776",
       "trumfurl": "https://trumfnetthandel.no/cashback/electrolux-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "elektroimportoren.no",
@@ -1232,7 +1232,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fabel/0189630f-ef16-7364-aef4-32a7e20009b8",
       "trumfurl": "https://trumfnetthandel.no/cashback/fabel-trumf",
       "sasbonus": "250 poeng",
-      "trumfbonus": "35kr (472.5 poeng)"
+      "trumfbonus": "50kr (675.0 poeng)"
     },
     {
       "domain": "farfetch.com",
@@ -1493,7 +1493,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/helly-hansen/018d5538-6322-73d4-bba1-fead8cf1eb29",
       "trumfurl": "https://trumfnetthandel.no/cashback/helly-hansen-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 10,1% (136.3 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "herschel.eu",
@@ -1574,7 +1574,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/husqvarna-trumf",
       "sasbonus": "",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "iberostar.com",
@@ -1637,7 +1637,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/inkclub/01896308-9acc-7096-9b2a-e74389673a4b",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfinkclub-no",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "11,7% (157.9 poeng / 100kr)"
+      "trumfbonus": "15,6% (210.6 poeng / 100kr)"
     },
     {
       "domain": "inkmann.no",
@@ -1799,7 +1799,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kinogavekort/0189630f-e2f4-70f8-9e96-f69763665520",
       "trumfurl": "https://trumfnetthandel.no/cashback/kinogavekort-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "kinoklubb.no",
@@ -2258,7 +2258,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nextory/0189630c-56c3-7074-8394-13e45ce5c745",
       "trumfurl": "https://trumfnetthandel.no/cashback/nextory-trumfs",
       "sasbonus": "250 poeng",
-      "trumfbonus": "50kr (675.0 poeng)"
+      "trumfbonus": "35kr (472.5 poeng)"
     },
     {
       "domain": "nlyman.com",
@@ -2303,7 +2303,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/match-trumf",
       "sasbonus": "",
-      "trumfbonus": "15,6% (210.6 poeng / 100kr)"
+      "trumfbonus": "23,4% (315.9 poeng / 100kr)"
     },
     {
       "domain": "no.oakley.com",
@@ -2501,7 +2501,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/philips-hue/018ee1d2-896a-729f-932c-e9664dc0c907",
       "trumfurl": "https://trumfnetthandel.no/cashback/philips-hue-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "philips.no",
@@ -2591,7 +2591,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/racketspecialisten/01896311-5664-7143-9c4f-2a783c0f8b17",
       "trumfurl": "https://trumfnetthandel.no/cashback/racketspesialisten",
       "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "radissonhotels.com",
@@ -2600,7 +2600,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfradissonhotels",
       "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "rains.com",
@@ -2726,7 +2726,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/lastminute-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 5,4% (72.9 poeng / 100kr)"
+      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "sembo.no",
@@ -3032,7 +3032,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/acer-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "stormberg.com",
@@ -3068,7 +3068,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/storytel-trumf",
       "sasbonus": "",
-      "trumfbonus": "50kr (675.0 poeng)"
+      "trumfbonus": "70kr (945.0 poeng)"
     },
     {
       "domain": "strawberry.no",
@@ -3077,7 +3077,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/strawberry-trumf",
       "sasbonus": "",
-      "trumfbonus": "7% (94.5 poeng / 100kr)"
+      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
     },
     {
       "domain": "strikkia.no",
