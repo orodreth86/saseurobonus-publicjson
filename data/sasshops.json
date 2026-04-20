@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-20T10:57:30.326Z",
+  "generated_at": "2026-04-20T14:09:53.319Z",
   "shops": [
+    {
+      "domain": "",
+      "slug": "a-retro-tale",
+      "name": "A Retro Tale",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
+      "trumfurl": "",
+      "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
     {
       "domain": "",
       "slug": "autodoc",
