@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T08:07:25.363Z",
+  "generated_at": "2026-04-21T10:43:11.189Z",
   "shops": [
     {
       "domain": "",
@@ -522,15 +522,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/auto-europe-notrumf",
       "sasbonus": "",
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
-    },
-    {
-      "domain": "avast.com",
-      "slug": "",
-      "name": "AVAST Software",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/avast-software-trumf",
-      "sasbonus": "",
-      "trumfbonus": "23,4% (315.9 poeng / 100kr)"
     },
     {
       "domain": "avg.com",
