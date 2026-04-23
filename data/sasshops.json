@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T08:09:15.850Z",
+  "generated_at": "2026-04-23T10:46:45.901Z",
   "shops": [
     {
       "domain": "",
@@ -3143,6 +3143,15 @@
       "trumfbonus": ""
     },
     {
+      "domain": "tigerofsweden.com",
+      "slug": "",
+      "name": "Tiger of Sweden",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/tiger-of-sweden-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+    },
+    {
       "domain": "tilbords.no",
       "slug": "tilbords-1",
       "name": "Tilbords",
@@ -3293,7 +3302,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/urverket.no/0189630b-f7b0-73db-a7c0-55cf9e666fa5",
       "trumfurl": "https://trumfnetthandel.no/cashback/urverket-trumf",
       "sasbonus": "20 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "4,3% (58.0 poeng / 100kr)"
     },
     {
       "domain": "vakrevene.no",
