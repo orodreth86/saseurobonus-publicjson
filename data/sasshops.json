@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T10:43:58.417Z",
+  "generated_at": "2026-04-24T14:05:33.566Z",
   "shops": [
     {
       "domain": "",
@@ -179,6 +179,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "nordhost",
+      "name": "Nordhost",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nordhost/019dbf16-b3c9-7016-8fbf-a877d50c1123",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
