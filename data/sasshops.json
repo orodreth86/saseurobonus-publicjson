@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T08:39:01.703Z",
+  "generated_at": "2026-04-28T11:16:04.249Z",
   "shops": [
     {
       "domain": "",
@@ -2718,15 +2718,6 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "samsung.com",
-      "slug": "",
-      "name": "Samsung",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/samsung-trumf",
-      "sasbonus": "",
-      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "scandichotels.com",
