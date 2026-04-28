@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T04:04:08.816Z",
+  "generated_at": "2026-04-28T08:39:01.703Z",
   "shops": [
     {
       "domain": "",
@@ -1808,7 +1808,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/kicks-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "kinogavekort.no",
@@ -2331,6 +2331,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/oakley-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "no.tempur.com",
+      "slug": "",
+      "name": "Tempur",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/tempur-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "nor-way.no",
