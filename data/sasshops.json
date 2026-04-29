@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T04:01:49.367Z",
+  "generated_at": "2026-04-29T08:31:46.139Z",
   "shops": [
     {
       "domain": "",
@@ -3150,6 +3150,15 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "tigerofsweden.com",
+      "slug": "",
+      "name": "Tiger of Sweden",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/tiger-of-sweden-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "tilbords.no",
