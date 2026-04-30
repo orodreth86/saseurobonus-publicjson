@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T08:35:11.969Z",
+  "generated_at": "2026-04-30T11:05:24.653Z",
   "shops": [
     {
       "domain": "",
@@ -1226,15 +1226,6 @@
       "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
-      "domain": "extraoptical.no",
-      "slug": "extraoptical",
-      "name": "Extra Optical",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/extraoptical/018abc11-2a02-735b-8033-090f4cd76a9a",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "fabel.no",
       "slug": "fabel",
       "name": "Fabel",
@@ -1629,15 +1620,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/i-love-dogs-trumf",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "5,4% (72.9 poeng / 100kr)"
-    },
-    {
-      "domain": "incover.no",
-      "slug": "incover",
-      "name": "Incover",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/incover/01961a53-4239-728f-9c7c-b4108f9f1497",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "inkclub.com",
