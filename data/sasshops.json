@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T08:24:06.174Z",
+  "generated_at": "2026-05-01T10:42:30.399Z",
   "shops": [
     {
       "domain": "",
@@ -522,6 +522,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/autodoc-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "autodude.no",
+      "slug": "",
+      "name": "Autodude",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/autodude-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "autoeurope.no",
@@ -2859,9 +2868,9 @@
       "slug": "slikkepott",
       "name": "Slikkepott",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/slikkepott/01896308-cbba-717c-b38b-bcf4e27a3d91",
-      "trumfurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/slikkepott-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
+      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "smartasaker.no",
@@ -3492,6 +3501,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/h-and-m-trumf",
       "sasbonus": "",
       "trumfbonus": "2,3% (31.0 poeng / 100kr)"
+    },
+    {
+      "domain": "xn--smungene-b0a.no",
+      "slug": "",
+      "name": "Småungene",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/smaungene-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "xplora.no",
