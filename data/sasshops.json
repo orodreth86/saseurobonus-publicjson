@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T03:49:10.312Z",
+  "generated_at": "2026-05-05T08:26:45.711Z",
   "shops": [
     {
       "domain": "",
@@ -420,9 +420,9 @@
       "slug": "adlibris-no",
       "name": "Adlibris",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/adlibris-no/0189630c-51f8-7136-964c-4b331c9b083d",
-      "trumfurl": "https://trumfnetthandel.no/cashback/adlibris",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "aeg.no",
