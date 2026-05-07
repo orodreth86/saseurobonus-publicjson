@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T08:47:06.155Z",
+  "generated_at": "2026-05-07T14:46:24.670Z",
   "shops": [
     {
       "domain": "",
@@ -2043,6 +2043,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/go-city-trumf",
       "sasbonus": "",
       "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+    },
+    {
+      "domain": "loveholidays.com",
+      "slug": "",
+      "name": "weloveholidays",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/weloveholidays-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "lufthansa.com",
