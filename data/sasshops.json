@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T07:56:02.029Z",
+  "generated_at": "2026-05-08T14:13:16.426Z",
   "shops": [
     {
       "domain": "",
@@ -2907,15 +2907,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/smartphoto-trumf",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
-    },
-    {
-      "domain": "sneakersnstuff.com",
-      "slug": "sneakersnstuff",
-      "name": "Sneakersnstuff",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sneakersnstuff/01896308-f50b-7352-aaee-e20a3702dfd3",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "sofasandmore.no",
