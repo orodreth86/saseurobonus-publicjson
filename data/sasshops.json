@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T08:52:26.790Z",
+  "generated_at": "2026-05-12T14:51:19.789Z",
   "shops": [
     {
       "domain": "",
@@ -1487,6 +1487,15 @@
       "trumfbonus": "4,9% (66.2 poeng / 100kr)"
     },
     {
+      "domain": "heialbert.no",
+      "slug": "",
+      "name": "Albert",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/albert-trumf",
+      "sasbonus": "",
+      "trumfbonus": "75kr (1012.5 poeng)"
+    },
+    {
       "domain": "hellofresh.no",
       "slug": "hellofresh",
       "name": "HelloFresh",
@@ -1860,9 +1869,9 @@
       "slug": "komplett-1",
       "name": "Komplett",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/komplett-1/01896310-4cf5-73e3-ba30-14f26f67ddb9",
-      "trumfurl": "https://trumfnetthandel.no/cashback/komplett-trumf",
+      "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "Opptil 1,5% (20.3 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "kondomeriet.no",
@@ -1971,15 +1980,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/lexington",
       "sasbonus": "",
       "trumfbonus": "3,9% (52.6 poeng / 100kr)"
-    },
-    {
-      "domain": "life.no",
-      "slug": "",
-      "name": "Life",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/life-trumf",
-      "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "liffner.co",
@@ -2583,15 +2583,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfproteinfabrikken",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
-    },
-    {
-      "domain": "pyretosnackan.no",
-      "slug": "",
-      "name": "Pyret og Snäckan",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/pyret-and-snackan-trumf",
-      "sasbonus": "",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
     },
     {
       "domain": "qatarairways.com",
