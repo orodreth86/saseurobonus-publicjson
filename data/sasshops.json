@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T14:51:19.789Z",
+  "generated_at": "2026-05-12T20:05:44.665Z",
   "shops": [
     {
       "domain": "",
@@ -693,6 +693,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/bemz-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "beredd.com",
+      "slug": "",
+      "name": "Beredd",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/beredd-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 14% (189.0 poeng / 100kr)"
     },
     {
       "domain": "bergwatches.no",
