@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T09:17:56.680Z",
+  "generated_at": "2026-05-13T15:12:12.291Z",
   "shops": [
     {
       "domain": "",
@@ -1709,15 +1709,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/iphonehuset/0189630a-fa9b-7234-a4ac-8518c60e5deb",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "ishavskraft.no",
-      "slug": "ishavskraft-strøm",
-      "name": "Ishavskraft strøm",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/ishavskraft-strøm/01896311-52f1-73e7-808c-3b4e7aea9371",
-      "trumfurl": "",
-      "sasbonus": "2000 poeng",
       "trumfbonus": ""
     },
     {
