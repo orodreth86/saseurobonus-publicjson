@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T08:49:37.321Z",
+  "generated_at": "2026-05-14T14:37:33.842Z",
   "shops": [
     {
       "domain": "",
@@ -2799,6 +2799,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "siemens-home.bsh-group.com",
+      "slug": "",
+      "name": "Siemens Home",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/siemens-trumf",
+      "sasbonus": "",
+      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "sillysanta.no",
