@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T04:14:27.810Z",
+  "generated_at": "2026-05-15T09:23:03.996Z",
   "shops": [
     {
       "domain": "",
@@ -607,9 +607,9 @@
     {
       "domain": "badstil.no",
       "slug": "",
-      "name": "Badstil",
+      "name": "Bad & Stil",
       "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/badstil-trumf",
+      "trumfurl": "https://trumfnetthandel.no/cashback/bad-and-stil-trumf",
       "sasbonus": "",
       "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
@@ -1413,6 +1413,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/gina-tricot-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
+    },
+    {
+      "domain": "go.northtrampoline.com",
+      "slug": "",
+      "name": "North Trampoline",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/north-trampoline-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "goboken.no",
