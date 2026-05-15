@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T09:23:03.996Z",
+  "generated_at": "2026-05-15T14:31:08.012Z",
   "shops": [
     {
       "domain": "",
@@ -839,15 +839,6 @@
       "trumfbonus": "10,1% (136.3 poeng / 100kr)"
     },
     {
-      "domain": "buy.norton.com",
-      "slug": "",
-      "name": "Norton",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/norton-trumf",
-      "sasbonus": "",
-      "trumfbonus": "19,5% (263.3 poeng / 100kr)"
-    },
-    {
       "domain": "campanyon.com",
       "slug": "",
       "name": "Campanyon",
@@ -855,15 +846,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/campanyon-trumf",
       "sasbonus": "",
       "trumfbonus": "5,4% (72.9 poeng / 100kr)"
-    },
-    {
-      "domain": "ccleaner.com",
-      "slug": "",
-      "name": "CCleaner",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/ccleaner-trumf",
-      "sasbonus": "",
-      "trumfbonus": "23,4% (315.9 poeng / 100kr)"
     },
     {
       "domain": "cdon.no",
@@ -2139,9 +2121,9 @@
       "slug": "maanesten",
       "name": "Maanesten",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/maanesten/01935438-5e6b-7013-9f9d-da93e98bf438",
-      "trumfurl": "https://trumfnetthandel.no/cashback/maanesten-trumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "8,9% (120.2 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "makeupmekka.com",
