@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T04:38:41.784Z",
+  "generated_at": "2026-05-18T10:23:32.289Z",
   "shops": [
     {
       "domain": "",
@@ -3393,15 +3393,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfvita",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "4% (54.0 poeng / 100kr)"
-    },
-    {
-      "domain": "vitaepro.no",
-      "slug": "vitaepro",
-      "name": "VitaePro",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vitaepro/0189630d-1649-7204-bea4-2cb52d72ef26",
-      "trumfurl": "",
-      "sasbonus": "1000 poeng",
-      "trumfbonus": ""
     },
     {
       "domain": "vivara.no",
