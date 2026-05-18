@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:23:32.289Z",
+  "generated_at": "2026-05-18T15:54:37.887Z",
   "shops": [
     {
       "domain": "",
@@ -80,6 +80,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "fortum-strom",
+      "name": "Fortum Strøm",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fortum-strom/019e3b10-50e5-7328-907c-a44723c5beb0",
+      "trumfurl": "",
+      "sasbonus": "3000 poeng",
       "trumfbonus": ""
     },
     {
@@ -801,15 +810,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/bookbeat-trumf",
       "sasbonus": "",
       "trumfbonus": "75kr (1012.5 poeng)"
-    },
-    {
-      "domain": "bosch-home.no",
-      "slug": "",
-      "name": "Bosch",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/bosch-trumf1",
-      "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "brilleland.no",
@@ -1791,6 +1791,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "kayani.no",
+      "slug": "",
+      "name": "Kayani",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/kayani-trumf",
+      "sasbonus": "",
+      "trumfbonus": "10,1% (136.3 poeng / 100kr)"
     },
     {
       "domain": "kicks.no",
