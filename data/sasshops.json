@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T10:04:11.776Z",
+  "generated_at": "2026-05-19T15:50:21.297Z",
   "shops": [
     {
       "domain": "",
@@ -810,6 +810,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/bookbeat-trumf",
       "sasbonus": "",
       "trumfbonus": "75kr (1012.5 poeng)"
+    },
+    {
+      "domain": "bosch-home.no",
+      "slug": "",
+      "name": "Bosch",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/bosch-trumf1",
+      "sasbonus": "",
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "brilleland.no",
