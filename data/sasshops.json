@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T04:33:35.582Z",
+  "generated_at": "2026-05-20T09:52:49.416Z",
   "shops": [
     {
       "domain": "",
@@ -2130,15 +2130,6 @@
       "slug": "lysman",
       "name": "Lysman",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lysman/0189630f-1697-70cf-bed2-16289ac9b68c",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "maanesten.no",
-      "slug": "maanesten",
-      "name": "Maanesten",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/maanesten/01935438-5e6b-7013-9f9d-da93e98bf438",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
