@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T20:02:43.711Z",
+  "generated_at": "2026-05-20T04:33:35.582Z",
   "shops": [
     {
       "domain": "",
@@ -3492,15 +3492,6 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "www2.hm.com",
-      "slug": "",
-      "name": "H&M",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/h-and-m-trumf",
-      "sasbonus": "",
-      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "xn--smungene-b0a.no",
