@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T04:33:40.565Z",
+  "generated_at": "2026-05-22T09:47:49.652Z",
   "shops": [
     {
       "domain": "",
@@ -321,6 +321,15 @@
       "slug": "sofas-more",
       "name": "Sofas & More",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "sportshopen",
+      "name": "Sportshopen",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sportshopen/01896312-535c-73f5-9520-e146c104138d",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -1550,6 +1559,15 @@
       "trumfbonus": ""
     },
     {
+      "domain": "home-appliances.philips",
+      "slug": "",
+      "name": "Philips Home Applicances",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/philips-home-applicances-trumf",
+      "sasbonus": "",
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
+    },
+    {
       "domain": "homeroom.no",
       "slug": "homeroom",
       "name": "Homeroom",
@@ -2763,6 +2781,15 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "sharkninja.no",
+      "slug": "",
+      "name": "SharkNinja",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/sharkninja-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "shop.electrolux.no",
