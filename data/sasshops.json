@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T04:45:30.644Z",
+  "generated_at": "2026-05-27T10:17:22.227Z",
   "shops": [
     {
       "domain": "",
@@ -2808,15 +2808,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/libresse-trumf",
       "sasbonus": "",
       "trumfbonus": "11,7% (157.9 poeng / 100kr)"
-    },
-    {
-      "domain": "shopelico.com",
-      "slug": "",
-      "name": "Elico",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/elico-trumf",
-      "sasbonus": "",
-      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "shopping4net.com",
