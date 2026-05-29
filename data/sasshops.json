@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T04:39:21.252Z",
+  "generated_at": "2026-05-29T10:12:40.281Z",
   "shops": [
     {
       "domain": "",
@@ -1809,15 +1809,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/karma-trumf",
       "sasbonus": "",
       "trumfbonus": "7,8% (105.3 poeng / 100kr)"
-    },
-    {
-      "domain": "katespade.eu",
-      "slug": "kate-spade",
-      "name": "Kate Spade",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kate-spade/0189630e-de91-732d-baf8-54bd0aad79fc",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "kayani.no",
