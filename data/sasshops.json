@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T05:08:15.766Z",
+  "generated_at": "2026-06-03T11:21:26.466Z",
   "shops": [
     {
       "domain": "",
@@ -1098,6 +1098,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/e-wheels-trumf",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "2,3% (31.0 poeng / 100kr)"
+    },
+    {
+      "domain": "edblad.com",
+      "slug": "",
+      "name": "Edblad",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/edblad-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "ekstralys.no",
