@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T21:22:35.532Z",
+  "generated_at": "2026-06-03T05:08:15.766Z",
   "shops": [
     {
       "domain": "",
@@ -621,6 +621,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/backe-i-grensen-trumf",
       "sasbonus": "",
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
+    },
+    {
+      "domain": "bad.no",
+      "slug": "",
+      "name": "Bad",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/bad-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,5% (47.3 poeng / 100kr)"
     },
     {
       "domain": "badstil.no",
