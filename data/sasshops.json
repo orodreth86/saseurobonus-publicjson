@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T04:44:31.768Z",
+  "generated_at": "2026-06-05T10:12:59.859Z",
   "shops": [
     {
       "domain": "",
@@ -354,6 +354,15 @@
     },
     {
       "domain": "",
+      "slug": "tibber",
+      "name": "Tibber",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/tibber/018abc11-cf42-731d-a74c-99b0c7398eef",
+      "trumfurl": "",
+      "sasbonus": "1000 poeng",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "trendcarpet",
       "name": "Trendcarpet",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
@@ -399,6 +408,15 @@
     },
     {
       "domain": "",
+      "slug": "volt",
+      "name": "VOLT",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/volt/019e970d-0495-7157-9e54-8ca85e468634",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "vy-buss",
       "name": "Vy Buss",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vy-buss/01896311-ed1e-72a2-b624-0b81184ec29e",
@@ -432,15 +450,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/adidas-trumfs",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
-    },
-    {
-      "domain": "adlibris.com",
-      "slug": "adlibris-no",
-      "name": "Adlibris",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/adlibris-no/0189630c-51f8-7136-964c-4b331c9b083d",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "aeg.no",
