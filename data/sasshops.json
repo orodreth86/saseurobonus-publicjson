@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T10:00:59.621Z",
+  "generated_at": "2026-06-09T15:25:33.129Z",
   "shops": [
     {
       "domain": "",
@@ -528,9 +528,9 @@
       "slug": "viasat",
       "name": "Allente",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/viasat/0189630c-d887-72b0-889d-aec1f78825e4",
-      "trumfurl": "https://trumfnetthandel.no/cashback/allente-trumf",
+      "trumfurl": "",
       "sasbonus": "1000 poeng",
-      "trumfbonus": "390kr (5265.0 poeng)"
+      "trumfbonus": ""
     },
     {
       "domain": "amisol.no",
@@ -1494,6 +1494,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/goboken-trumf",
       "sasbonus": "",
       "trumfbonus": "90kr (1215.0 poeng)"
+    },
+    {
+      "domain": "gonordiccruiseline.no",
+      "slug": "",
+      "name": "Go Nordic Cruiseline",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/go-nordic-cruiseline-trumf",
+      "sasbonus": "",
+      "trumfbonus": "4,5% (60.8 poeng / 100kr)"
     },
     {
       "domain": "grontfokus.no",
@@ -3330,15 +3339,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/tudos-trumf",
       "sasbonus": "",
       "trumfbonus": "4,3% (58.0 poeng / 100kr)"
-    },
-    {
-      "domain": "ullapopken.no",
-      "slug": "",
-      "name": "Ulla Popken",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/ulla-popken-trumf",
-      "sasbonus": "",
-      "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "under-amour.com",
