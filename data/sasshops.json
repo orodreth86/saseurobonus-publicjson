@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T20:43:43.230Z",
+  "generated_at": "2026-06-11T04:56:29.421Z",
   "shops": [
     {
       "domain": "",
@@ -670,7 +670,7 @@
     {
       "domain": "bad.no",
       "slug": "",
-      "name": "Bad",
+      "name": "Bad.no",
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/bad-trumf",
       "sasbonus": "",
@@ -2560,7 +2560,7 @@
     {
       "domain": "p-lindberg.no",
       "slug": "",
-      "name": "P Lindberg",
+      "name": "P.Lindberg",
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/p-lindberg-trumf",
       "sasbonus": "",
