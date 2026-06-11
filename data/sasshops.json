@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T04:56:29.421Z",
+  "generated_at": "2026-06-11T10:56:34.523Z",
   "shops": [
     {
       "domain": "",
@@ -78,6 +78,15 @@
       "slug": "dressmann",
       "name": "Dressmann",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dressmann/019d42ca-5521-729d-82e9-6fa4798330c6",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "dyrekassen",
+      "name": "Dyrekassen",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dyrekassen/019eb5c9-49c4-701b-826f-3e4d45f62b43",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
