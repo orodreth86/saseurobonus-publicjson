@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T04:59:03.614Z",
+  "generated_at": "2026-06-12T10:38:42.206Z",
   "shops": [
     {
       "domain": "",
@@ -332,6 +332,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/readly/019bc664-90ed-7386-a14b-4ee847a35168",
       "trumfurl": "",
       "sasbonus": "250 poeng",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "revolution-race",
+      "name": "Revolution Race",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/revolution-race/019a5e2b-866b-702d-b295-e28101b5ba41",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
