@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:45:37.713Z",
+  "generated_at": "2026-06-18T15:50:16.115Z",
   "shops": [
     {
       "domain": "",
@@ -294,6 +294,15 @@
       "slug": "steelseries",
       "name": "Steelseries",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/steelseries/019cdce7-2ed7-7005-8f10-66221e21be2f",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "suitable",
+      "name": "Suitable",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/suitable/019eda5d-3529-7322-ad1a-5e48a90c686f",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
