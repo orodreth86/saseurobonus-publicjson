@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T05:26:31.467Z",
+  "generated_at": "2026-06-22T12:23:32.220Z",
   "shops": [
     {
       "domain": "",
@@ -434,15 +434,6 @@
       "trumfbonus": ""
     },
     {
-      "domain": "allente.no",
-      "slug": "viasat",
-      "name": "Allente",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/viasat/0189630c-d887-72b0-889d-aec1f78825e4",
-      "trumfurl": "",
-      "sasbonus": "1000 poeng",
-      "trumfbonus": ""
-    },
-    {
       "domain": "amisol.no",
       "slug": "",
       "name": "Amisol",
@@ -583,7 +574,7 @@
       "name": "Bad.no",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/badno/019ea661-c4a1-73ab-b30f-241205d56b6e",
       "trumfurl": "https://trumfnetthandel.no/cashback/bad-trumf",
-      "sasbonus": "10 poeng / 100kr",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "3,5% (47.3 poeng / 100kr)"
     },
     {
