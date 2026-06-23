@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:00:19.768Z",
+  "generated_at": "2026-06-23T15:21:31.492Z",
   "shops": [
     {
       "domain": "",
@@ -987,9 +987,9 @@
       "slug": "devold",
       "name": "Devold",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/devold/0189630f-ec3f-7042-903a-2950e30dfb9c",
-      "trumfurl": "https://trumfnetthandel.no/cashback/devold-trumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "directferries.no",
