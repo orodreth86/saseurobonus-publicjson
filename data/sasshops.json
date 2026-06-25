@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T04:20:54.596Z",
+  "generated_at": "2026-06-25T09:40:57.121Z",
   "shops": [
     {
       "domain": "",
@@ -890,6 +890,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/computersalg/0189630e-21d9-70b4-9f7a-92a6704964ac",
       "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "cos.no",
+      "slug": "cos",
+      "name": "COS",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/cos/0189630e-0bd3-72c2-a84d-9bc1f40f4a70",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
