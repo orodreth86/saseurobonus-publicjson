@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T04:56:45.972Z",
+  "generated_at": "2026-06-29T11:21:51.383Z",
   "shops": [
     {
       "domain": "",
@@ -2613,11 +2613,11 @@
     },
     {
       "domain": "proshop.no",
-      "slug": "proshop",
+      "slug": "",
       "name": "Proshop",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/proshop/0189630a-1d99-7246-aa7c-e2c26d4ee5e0",
+      "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/proshop-trumf",
-      "sasbonus": "10 poeng / 100kr",
+      "sasbonus": "",
       "trumfbonus": "Opptil 3,7% (50.0 poeng / 100kr)"
     },
     {
