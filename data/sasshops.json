@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:08:55.434Z",
+  "generated_at": "2026-07-01T15:09:23.421Z",
   "shops": [
     {
       "domain": "",
@@ -35,6 +35,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "fotono",
+      "name": "Foto.no",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fotono/019f1dc6-1a6f-712c-9f9d-8b832b053cc4",
+      "trumfurl": "",
+      "sasbonus": "10 poeng / 100kr",
       "trumfbonus": ""
     },
     {
