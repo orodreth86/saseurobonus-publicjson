@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T04:50:36.480Z",
+  "generated_at": "2026-07-01T10:08:55.434Z",
   "shops": [
     {
       "domain": "",
@@ -459,15 +459,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/asics-trumf",
       "sasbonus": "",
       "trumfbonus": "3,1% (41.9 poeng / 100kr)"
-    },
-    {
-      "domain": "asos.com",
-      "slug": "",
-      "name": "ASOS",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/trumfasos",
-      "sasbonus": "",
-      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "autodeler.co.no",
@@ -1359,15 +1350,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/fredrik-and-louisa-trumf",
       "sasbonus": "10 poeng / 100kr",
       "trumfbonus": "2,3% (31.0 poeng / 100kr)"
-    },
-    {
-      "domain": "fynd.no",
-      "slug": "",
-      "name": "Fynd",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/fynd-trumf",
-      "sasbonus": "",
-      "trumfbonus": "4,8% (64.8 poeng / 100kr)"
     },
     {
       "domain": "fyrklovern.com",
