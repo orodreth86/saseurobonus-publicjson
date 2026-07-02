@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T09:29:40.443Z",
+  "generated_at": "2026-07-02T14:25:59.469Z",
   "shops": [
     {
       "domain": "",
@@ -2531,15 +2531,6 @@
       "trumfbonus": ""
     },
     {
-      "domain": "petster.no",
-      "slug": "petster",
-      "name": "Petster",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/petster/0189630d-d608-71c5-a1d0-097db7774e63",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "petxl.no",
       "slug": "petxl",
       "name": "PetXL",
@@ -2690,15 +2681,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/rito/0189630c-4ce6-7044-9ea1-fd1ac49aae97",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "room21.no",
-      "slug": "room21",
-      "name": "Rum21",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/room21/01896309-733c-72e9-b89a-e36db36d144c",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
