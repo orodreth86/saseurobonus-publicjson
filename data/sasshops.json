@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T09:32:46.884Z",
+  "generated_at": "2026-07-03T14:28:57.845Z",
   "shops": [
     {
       "domain": "",
@@ -159,6 +159,15 @@
       "slug": "nespresso",
       "name": "Nespresso",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "nicebeauty",
+      "name": "NiceBeauty",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nicebeauty/01896311-cd52-7367-8aae-0c4b46a3188e",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
