@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T04:35:36.651Z",
+  "generated_at": "2026-07-06T10:58:45.485Z",
   "shops": [
     {
       "domain": "",
@@ -368,6 +368,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vakre-vene/019be5ba-a3a8-7123-9165-fc4aa24f2604",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "vinlagringskompaniet",
+      "name": "Vinlagringskompaniet",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb",
+      "trumfurl": "",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2969,15 +2978,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sonos/0189630e-a751-7311-930d-de861b1a0c5d",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "sparnet.no",
-      "slug": "sparnet",
-      "name": "Sparnet",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sparnet/0189630d-9c47-7226-8cf0-116bf98e9106",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
