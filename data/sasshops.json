@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:58:45.485Z",
+  "generated_at": "2026-07-06T15:52:45.594Z",
   "shops": [
     {
       "domain": "",
@@ -26,6 +26,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "fjordline",
+      "name": "Fjordline",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1",
+      "trumfurl": "",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -114,6 +123,15 @@
       "slug": "kokkeglede",
       "name": "Kokkeglede",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kokkeglede/019c9e5b-4248-7122-8cf8-20e9b93bff42",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "kost1",
+      "name": "Kost1",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kost1/019f374b-74f0-73aa-82f5-e11c748d36c2",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
