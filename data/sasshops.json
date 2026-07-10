@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T04:09:24.559Z",
+  "generated_at": "2026-07-10T09:50:56.805Z",
   "shops": [
     {
       "domain": "",
@@ -12,11 +12,29 @@
     },
     {
       "domain": "",
+      "slug": "bokia",
+      "name": "Bokia",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bokia/019f4b4d-3fc9-7184-a233-bc63156570b5",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "bosch-home",
       "name": "Bosch Home",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "camilla-phil",
+      "name": "Camilla Phil",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/camilla-phil/019f4b0f-a8c1-71dc-909b-e1fbbe655a13",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
