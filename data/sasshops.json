@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:20:48.337Z",
+  "generated_at": "2026-07-13T03:53:19.823Z",
   "shops": [
     {
       "domain": "",
@@ -935,7 +935,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/click-and-boat-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "comforth.no",
@@ -2288,15 +2288,6 @@
       "trumfbonus": "1,5% (20.3 poeng / 100kr)"
     },
     {
-      "domain": "nelly.com",
-      "slug": "",
-      "name": "Nelly",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/trumfnelly-no",
-      "sasbonus": "",
-      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
-    },
-    {
       "domain": "newbalance.no",
       "slug": "",
       "name": "New Balance",
@@ -2340,15 +2331,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/nextory-trumfs",
       "sasbonus": "250 poeng",
       "trumfbonus": "35kr (472.5 poeng)"
-    },
-    {
-      "domain": "nlyman.com",
-      "slug": "",
-      "name": "NLY MAN",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/trumfnly-man",
-      "sasbonus": "",
-      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "no.boohoo.com",
@@ -2807,7 +2789,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/lastminute-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
+      "trumfbonus": "Opptil 3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "sembo.no",
