@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:33:45.604Z",
+  "generated_at": "2026-07-16T03:31:50.805Z",
   "shops": [
     {
       "domain": "",
@@ -2546,7 +2546,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfoutnorth",
       "sasbonus": "",
-      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "Opptil 4,6% (62.1 poeng / 100kr)"
     },
     {
       "domain": "p-lindberg.no",
@@ -3402,15 +3402,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/vetzoo-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
-    },
-    {
-      "domain": "viaplay.no",
-      "slug": "",
-      "name": "Viaplay",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/viaplay-trumf",
-      "sasbonus": "",
-      "trumfbonus": "0% (0.0 poeng / 100kr)"
     },
     {
       "domain": "viator.com",
