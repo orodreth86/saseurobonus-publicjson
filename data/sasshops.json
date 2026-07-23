@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:42:35.879Z",
+  "generated_at": "2026-07-23T14:26:50.977Z",
   "shops": [
     {
       "domain": "",
@@ -1050,15 +1050,6 @@
       "slug": "detailshop",
       "name": "Detailshop",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/detailshop/0189630f-c446-7254-951e-207449a52f43",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "devold.com",
-      "slug": "devold",
-      "name": "Devold",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/devold/0189630f-ec3f-7042-903a-2950e30dfb9c",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
