@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:45:12.318Z",
+  "generated_at": "2026-07-30T14:27:35.314Z",
   "shops": [
     {
       "domain": "",
@@ -8,6 +8,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "babybanden",
+      "name": "Babybanden",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/babybanden/019fb246-096a-73ea-826f-90c50a2c9402",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
