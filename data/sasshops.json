@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:50:27.516Z",
+  "generated_at": "2026-08-06T14:31:30.652Z",
   "shops": [
     {
       "domain": "",
@@ -1971,6 +1971,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/kondomeriet-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 11,7% (157.9 poeng / 100kr)"
+    },
+    {
+      "domain": "kost1.no",
+      "slug": "",
+      "name": "Kost1",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/kost1-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "kouture.no",
