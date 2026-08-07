@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:37:54.816Z",
+  "generated_at": "2026-08-07T13:33:18.806Z",
   "shops": [
     {
       "domain": "",
@@ -377,6 +377,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "trondermobil",
+      "name": "Trøndermobil",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/trondermobil/019fdc53-27e8-718c-96ec-7a21ea0cc9f2",
+      "trumfurl": "",
+      "sasbonus": "2500 poeng",
       "trumfbonus": ""
     },
     {
