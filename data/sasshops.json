@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:29:51.373Z",
+  "generated_at": "2026-08-10T08:00:08.116Z",
   "shops": [
     {
       "domain": "",
@@ -197,6 +197,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
       "trumfurl": "",
       "sasbonus": "1000 poeng",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "mulberry",
+      "name": "Mulberry",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/mulberry/019fea7f-5064-716a-a6fc-b1c734643089",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1141,7 +1150,7 @@
       "name": "E-Wheels",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/e-wheels-2/01896310-1e04-7083-b83b-6a19deed1cf1",
       "trumfurl": "https://trumfnetthandel.no/cashback/e-wheels-trumf",
-      "sasbonus": "50 poeng / 100kr",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
