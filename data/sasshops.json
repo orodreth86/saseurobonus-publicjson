@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:47:15.485Z",
+  "generated_at": "2026-08-12T13:39:56.152Z",
   "shops": [
     {
       "domain": "",
@@ -1379,6 +1379,15 @@
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
+      "domain": "foodstuff.no",
+      "slug": "",
+      "name": "Foodstuff",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/foodstuff-trumf",
+      "sasbonus": "",
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+    },
+    {
       "domain": "footshop.no",
       "slug": "footshop.eu",
       "name": "Footshop.eu",
@@ -2034,6 +2043,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/lappeliten-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "12,4% (167.4 poeng / 100kr)"
+    },
+    {
+      "domain": "ledlyskilder.no",
+      "slug": "",
+      "name": "Ledlyskilder",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/ledlyskilder-trumf",
+      "sasbonus": "",
+      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "lego.com",
@@ -3222,6 +3240,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "tannbleking.no",
+      "slug": "",
+      "name": "Dentaworks",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/dentaworks",
+      "sasbonus": "",
+      "trumfbonus": "19,5% (263.3 poeng / 100kr)"
     },
     {
       "domain": "telia.no",
