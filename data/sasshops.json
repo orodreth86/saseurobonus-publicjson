@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:12:12.694Z",
+  "generated_at": "2026-08-26T19:58:40.351Z",
   "shops": [
     {
       "domain": "",
@@ -465,6 +465,15 @@
       "slug": "watery",
       "name": "Watery",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "xlash",
+      "name": "Xlash",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/xlash/01a03912-eef1-71ec-886b-3915314acf5f",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
