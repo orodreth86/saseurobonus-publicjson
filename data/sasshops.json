@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T09:36:02.989Z",
+  "generated_at": "2026-08-27T22:13:01.346Z",
   "shops": [
     {
       "domain": "",
@@ -35,6 +35,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "calstop",
+      "name": "Calstop",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/calstop/01a04336-ca3e-71d5-b2f0-057119b7ac92",
+      "trumfurl": "",
+      "sasbonus": "1000 poeng",
       "trumfbonus": ""
     },
     {
@@ -249,6 +258,15 @@
       "slug": "oakley",
       "name": "Oakley",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "onyx-cookware",
+      "name": "Onyx Cookware",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/onyx-cookware/01a04319-8c3e-70f1-80fb-7c2cdc036ea8",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
