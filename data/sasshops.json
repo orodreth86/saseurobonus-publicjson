@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:58:40.351Z",
+  "generated_at": "2026-08-27T09:36:02.989Z",
   "shops": [
     {
       "domain": "",
@@ -621,6 +621,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/avis-trumf-1",
       "sasbonus": "",
       "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
+    },
+    {
+      "domain": "babybanden.no",
+      "slug": "",
+      "name": "Babybanden",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/babybanden-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "babyland.no",
