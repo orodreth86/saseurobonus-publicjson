@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T05:25:46.156Z",
+  "generated_at": "2026-08-31T13:37:24.481Z",
   "shops": [
     {
       "domain": "",
@@ -278,15 +278,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/parfymno/01896308-8756-70e3-b42a-66850f7b1673",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "parfymonline",
-      "name": "Parfymonline",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/parfymonline/01896309-cc40-732c-92f2-c0da35481d33",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
