@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:11:53.124Z",
+  "generated_at": "2026-09-02T16:30:36.115Z",
   "shops": [
     {
       "domain": "",
@@ -246,6 +246,15 @@
     },
     {
       "domain": "",
+      "slug": "nitecaps",
+      "name": "NiteCaps",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nitecaps/01a06254-4da1-718d-ba69-19bd7032d35c",
+      "trumfurl": "",
+      "sasbonus": "1500 poeng",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "nordhost",
       "name": "Nordhost",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nordhost/019dbf16-b3c9-7016-8fbf-a877d50c1123",
@@ -390,6 +399,15 @@
     },
     {
       "domain": "",
+      "slug": "stille",
+      "name": "Stille",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/stille/01a0626b-0766-7033-9d44-671023ec93f5",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "suitable",
       "name": "Suitable",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/suitable/019eda5d-3529-7322-ad1a-5e48a90c686f",
@@ -404,6 +422,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "trivelia",
+      "name": "Trivelia",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/trivelia/01a06263-e39a-72ab-9591-1510a9b90548",
+      "trumfurl": "",
+      "sasbonus": "1500 poeng",
       "trumfbonus": ""
     },
     {
@@ -1397,6 +1424,15 @@
       "trumfbonus": "4,6% (62.1 poeng / 100kr)"
     },
     {
+      "domain": "follestad.no",
+      "slug": "",
+      "name": "Follestad",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/follestad-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
       "domain": "foodstuff.no",
       "slug": "",
       "name": "Foodstuff",
@@ -1674,6 +1710,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "holzweiler.no",
+      "slug": "",
+      "name": "Holzweiler",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/holzweiler-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "home-appliances.philips",
