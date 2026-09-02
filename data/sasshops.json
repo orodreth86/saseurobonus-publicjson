@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:23:11.046Z",
+  "generated_at": "2026-09-02T11:11:53.124Z",
   "shops": [
     {
       "domain": "",
@@ -71,6 +71,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "floyd",
+      "name": "Floyd",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/floyd/01a06151-88c0-71f9-b828-a3dee7388d69",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
