@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T04:27:45.673Z",
+  "generated_at": "2026-09-08T11:10:57.354Z",
   "shops": [
     {
       "domain": "",
@@ -285,15 +285,6 @@
       "slug": "onyx-cookware",
       "name": "Onyx Cookware",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/onyx-cookware/01a04319-8c3e-70f1-80fb-7c2cdc036ea8",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "parfymno",
-      "name": "Parfym.no",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/parfymno/01896308-8756-70e3-b42a-66850f7b1673",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
