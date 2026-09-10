@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T04:33:41.592Z",
+  "generated_at": "2026-09-10T11:12:27.959Z",
   "shops": [
     {
       "domain": "",
@@ -1692,6 +1692,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "holidu.no",
+      "slug": "",
+      "name": "Holidu",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/holidu-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "holzweiler.no",
