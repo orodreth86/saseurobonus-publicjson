@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:38:00.966Z",
+  "generated_at": "2026-09-15T16:52:59.695Z",
   "shops": [
     {
       "domain": "",
@@ -89,6 +89,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "flowlife",
+      "name": "Flowlife",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/flowlife/019a1174-de0b-7066-a09b-15833c2450d4",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
