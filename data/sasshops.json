@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:25:23.829Z",
+  "generated_at": "2026-09-16T16:47:42.995Z",
   "shops": [
     {
       "domain": "",
@@ -2772,6 +2772,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "pergolux.no",
+      "slug": "",
+      "name": "Pergolux",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/pergolux-trumf",
+      "sasbonus": "",
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "petxl.no",
