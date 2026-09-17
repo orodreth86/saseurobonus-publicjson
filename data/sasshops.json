@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:34:38.320Z",
+  "generated_at": "2026-09-17T16:54:19.635Z",
   "shops": [
     {
       "domain": "",
@@ -143,6 +143,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "greatlife",
+      "name": "Greatlife",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/greatlife/0189630b-10b8-708b-b9e7-cd96f178c7c2",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -350,6 +359,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/oslo-skin-lab/0189630d-de8e-70ab-86a4-6a9fa9db16c6",
       "trumfurl": "",
       "sasbonus": "500 poeng",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "pace",
+      "name": "Pace",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/pace/01a0afae-eb49-7379-b85b-a13ca010d7fa",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
