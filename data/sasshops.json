@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T04:36:02.531Z",
+  "generated_at": "2026-09-18T11:07:20.410Z",
   "shops": [
     {
       "domain": "",
@@ -375,6 +375,15 @@
       "slug": "partyking",
       "name": "partyking",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/partyking/019b11f5-2adc-72f3-96b1-3428a999ce72",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "pergolux",
+      "name": "Pergolux",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
