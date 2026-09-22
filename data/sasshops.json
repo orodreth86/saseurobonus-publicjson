@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:47:23.200Z",
+  "generated_at": "2026-09-22T11:29:43.082Z",
   "shops": [
     {
       "domain": "",
@@ -159,15 +159,6 @@
       "slug": "guttelus",
       "name": "Guttelus",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/guttelus/019ea62f-5c27-71c4-b406-8227bbee4cab",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "haglofs",
-      "name": "Haglöfs",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/haglofs/018f1a0b-1749-708d-bbec-9aa03594b3b0",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -1235,6 +1226,15 @@
       "trumfbonus": ""
     },
     {
+      "domain": "devold.com",
+      "slug": "",
+      "name": "Devold",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/devold-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+    },
+    {
       "domain": "directferries.no",
       "slug": "",
       "name": "Direct Ferries",
@@ -2160,15 +2160,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/kokkeglede-trumf",
       "sasbonus": "",
       "trumfbonus": "7,8% (105.3 poeng / 100kr)"
-    },
-    {
-      "domain": "komplett.no",
-      "slug": "komplett-1",
-      "name": "Komplett",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/komplett-1/01896310-4cf5-73e3-ba30-14f26f67ddb9",
-      "trumfurl": "",
-      "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "kondomeriet.no",
