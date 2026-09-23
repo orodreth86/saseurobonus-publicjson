@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:39:25.074Z",
+  "generated_at": "2026-09-23T11:27:42.939Z",
   "shops": [
     {
       "domain": "",
@@ -3051,6 +3051,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/sephora-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 14% (189.0 poeng / 100kr)"
+    },
+    {
+      "domain": "sfanytime.com",
+      "slug": "",
+      "name": "SF Anytime",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/sf-anytime-trumf",
+      "sasbonus": "",
+      "trumfbonus": "5kr (67.5 poeng)"
     },
     {
       "domain": "shampoohuset.no",
