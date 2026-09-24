@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:38:24.495Z",
+  "generated_at": "2026-09-24T17:05:19.946Z",
   "shops": [
     {
       "domain": "",
@@ -483,6 +483,15 @@
       "slug": "sporttema",
       "name": "Sporttema",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sporttema/01896308-f18d-71b5-9064-ffc3c373972f",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "steamery",
+      "name": "Steamery",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/steamery/01a0d331-5c4e-716e-8bb1-57f2cb9a47d7",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
