@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T04:39:54.080Z",
+  "generated_at": "2026-09-24T11:38:24.495Z",
   "shops": [
     {
       "domain": "",
@@ -8,6 +8,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
       "trumfurl": "",
       "sasbonus": "15 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "aarke",
+      "name": "Aarke",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
