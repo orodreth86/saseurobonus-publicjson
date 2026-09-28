@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:16:12.225Z",
+  "generated_at": "2026-09-28T13:45:25.139Z",
   "shops": [
     {
       "domain": "",
@@ -435,6 +435,15 @@
     },
     {
       "domain": "",
+      "slug": "shark-gaming",
+      "name": "Shark Gaming",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/shark-gaming/01896310-6fe5-71d2-a915-4d9f58c8d27a",
+      "trumfurl": "",
+      "sasbonus": "20 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "sharkninja",
       "name": "SharkNinja",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sharkninja/019e4465-abe2-7069-a495-477ebb1168ba",
@@ -547,7 +556,7 @@
       "name": "Trøndermobil",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/trondermobil/019fdc53-27e8-718c-96ec-7a21ea0cc9f2",
       "trumfurl": "",
-      "sasbonus": "2500 poeng",
+      "sasbonus": "2000 poeng",
       "trumfbonus": ""
     },
     {
@@ -1746,15 +1755,6 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "hamphi.com",
-      "slug": "",
-      "name": "Hamphi",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/hamphi-trumf",
-      "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "hattehuset.no",
