@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:25:56.290Z",
+  "generated_at": "2026-09-30T12:27:46.239Z",
   "shops": [
     {
       "domain": "",
@@ -1043,7 +1043,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/bosch-trumf1",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "brilleland.no",
@@ -1539,6 +1539,15 @@
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "fjordline.com",
+      "slug": "",
+      "name": "Fjordline",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/fjord-line-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
     },
     {
       "domain": "floyd.no",
