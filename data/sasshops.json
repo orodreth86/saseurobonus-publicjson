@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:51:16.027Z",
+  "generated_at": "2026-10-08T13:20:28.177Z",
   "shops": [
     {
       "domain": "",
@@ -25,7 +25,7 @@
       "name": "Babybanden",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/babybanden/019fb246-096a-73ea-826f-90c50a2c9402",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -133,7 +133,7 @@
       "name": "Foto.no",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fotono/019f1dc6-1a6f-712c-9f9d-8b832b053cc4",
       "trumfurl": "",
-      "sasbonus": "10 poeng / 100kr",
+      "sasbonus": "20 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -754,7 +754,7 @@
       "name": "Autodude",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/autodude/018f57d7-5ba2-735f-97f3-c511b00c38bb",
       "trumfurl": "https://trumfnetthandel.no/cashback/autodude-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "7,8 % (105.3 poeng / 100kr)"
     },
     {
@@ -801,15 +801,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/babybanden-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
-    },
-    {
-      "domain": "babyland.no",
-      "slug": "babyland",
-      "name": "Babyland",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/babyland/018ec731-40cb-735f-8f7f-e6011f9828f1",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "babyshop.com",
@@ -1132,7 +1123,7 @@
       "name": "Christiania Glassmagasin",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/christiania-glasmagasin/01896309-850a-71db-86b3-69229f093274",
       "trumfurl": "https://trumfnetthandel.no/cashback/christiania-glasmagasintrumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
     },
     {
@@ -2131,7 +2122,7 @@
       "name": "Kajakk og Fritid",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kajakk-og-fritid/0192e744-9c9e-713b-abd2-3982d9fba326",
       "trumfurl": "https://trumfnetthandel.no/cashback/kajakk-og-fritid-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
     },
     {
@@ -2212,7 +2203,7 @@
       "name": "Kjell & Company",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kjell-co-no/0189630d-b8f2-71cc-9d1f-3070ccc4c33a",
       "trumfurl": "",
-      "sasbonus": "10 poeng / 100kr",
+      "sasbonus": "20 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -3067,7 +3058,7 @@
       "name": "Safira",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/safira/0192958a-3d0c-73f6-8808-283b59ffe62b",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -3481,7 +3472,7 @@
       "name": "Strim",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/strim/018abc11-7a28-71e0-bc8a-9e9617c71d80",
       "trumfurl": "https://trumfnetthandel.no/cashback/strim-trumf",
-      "sasbonus": "500 poeng",
+      "sasbonus": "2000 poeng",
       "trumfbonus": "Opptil 270 kr (3645.0 poeng)"
     },
     {
