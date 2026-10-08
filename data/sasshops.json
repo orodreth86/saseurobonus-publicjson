@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:25:05.748Z",
+  "generated_at": "2026-10-08T06:51:16.027Z",
   "shops": [
     {
       "domain": "",
@@ -16,7 +16,7 @@
       "name": "Aarke",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -241,7 +241,7 @@
       "name": "Lampemesteren",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -385,7 +385,7 @@
       "name": "Pergolux",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1222,7 +1222,7 @@
       "name": "Db Journey",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/db-journey/01896310-78d4-7290-bebb-ae80a7cd6ef1",
       "trumfurl": "https://trumfnetthandel.no/cashback/db-trumf1",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "7,8 % (105.3 poeng / 100kr)"
     },
     {
@@ -1240,7 +1240,7 @@
       "name": "dekkonline.com",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dekkonline.no/0189630a-e49b-73fa-b65e-eb736c28f11b",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfdekkonline",
-      "sasbonus": "10 poeng / 100kr",
+      "sasbonus": "20 poeng / 100kr",
       "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
@@ -1420,7 +1420,7 @@
       "name": "Ellos",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/ellos-3/0189630a-d108-712a-8856-644fdd60eedb",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1537,7 +1537,7 @@
       "name": "Fabel",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fabel/0189630f-ef16-7364-aef4-32a7e20009b8",
       "trumfurl": "https://trumfnetthandel.no/cashback/fabel-trumf",
-      "sasbonus": "250 poeng",
+      "sasbonus": "500 poeng",
       "trumfbonus": "35 kr (472.5 poeng)"
     },
     {
@@ -1699,7 +1699,7 @@
       "name": "Gents",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/gents/0189630d-2220-726e-b99d-9a1e16f855da",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2293,7 +2293,7 @@
       "name": "LEGO",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lego/01896310-5de4-71af-9cfa-190c9eebec97",
       "trumfurl": "https://trumfnetthandel.no/cashback/lego-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
     },
     {
@@ -2365,7 +2365,7 @@
       "name": "Lindex",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lindex/0189630a-9780-71c1-a269-e72cab65f2a4",
       "trumfurl": "https://trumfnetthandel.no/cashback/lindex-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
@@ -2455,7 +2455,7 @@
       "name": "LYKO",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lyko-dk/0189630f-41cb-714c-8b2f-cb2c7a900d0b",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2635,7 +2635,7 @@
       "name": "Nextory",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nextory/0189630c-56c3-7074-8394-13e45ce5c745",
       "trumfurl": "https://trumfnetthandel.no/cashback/nextory-trumfs",
-      "sasbonus": "250 poeng",
+      "sasbonus": "500 poeng",
       "trumfbonus": "35 kr (472.5 poeng)"
     },
     {
@@ -2752,7 +2752,7 @@
       "name": "NordVPN",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nordvpn/0189630e-2ae5-7184-adab-1a84e70c6254",
       "trumfurl": "",
-      "sasbonus": "100 poeng / 100kr",
+      "sasbonus": "300 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2761,7 +2761,7 @@
       "name": "Norli",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/norli/0189630a-a084-73fb-a865-8fda2d897a29",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2824,7 +2824,7 @@
       "name": "Outnorth",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/outnorth/01896307-cb70-7078-96e6-9379b454803c",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2878,7 +2878,7 @@
       "name": "PetXL",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/petxl/019c7b24-6555-7109-9f9b-b6675d9f3abb",
       "trumfurl": "https://trumfnetthandel.no/cashback/petxl-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "Opptil 6,2 % (83.7 poeng / 100kr)"
     },
     {
@@ -2887,7 +2887,7 @@
       "name": "Philips Hue",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/philips-hue/018ee1d2-896a-729f-932c-e9664dc0c907",
       "trumfurl": "https://trumfnetthandel.no/cashback/philips-hue-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "5,4 % (72.9 poeng / 100kr)"
     },
     {
@@ -3526,7 +3526,7 @@
       "name": "Telia",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/telia-bredband-og-tv/0189630b-94d9-73d6-9d65-2f31fd21738c",
       "trumfurl": "",
-      "sasbonus": "2000 poeng",
+      "sasbonus": "4000 poeng",
       "trumfbonus": ""
     },
     {
@@ -3544,7 +3544,7 @@
       "name": "Tibber",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/tibber/018abc11-cf42-731d-a74c-99b0c7398eef",
       "trumfurl": "",
-      "sasbonus": "1000 poeng",
+      "sasbonus": "2000 poeng",
       "trumfbonus": ""
     },
     {
@@ -3850,7 +3850,7 @@
       "name": "WEEKDAY",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/weekday/0189630f-1164-724e-add9-82aae07ee93f",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
