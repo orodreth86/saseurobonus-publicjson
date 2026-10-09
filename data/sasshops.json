@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:06:49.487Z",
+  "generated_at": "2026-10-09T13:08:56.359Z",
   "shops": [
     {
       "domain": "",
@@ -204,6 +204,15 @@
       "slug": "husqvarna",
       "name": "Husqvarna",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/husqvarna/019d713b-929f-7136-98ba-83fb547332ef",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "j-lindeberg",
+      "name": "J. Lindeberg",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/j-lindeberg/019363db-290f-7080-8385-8759d1562ff1",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
