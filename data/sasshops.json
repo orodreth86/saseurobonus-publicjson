@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:17:25.498Z",
+  "generated_at": "2026-10-09T07:06:49.487Z",
   "shops": [
     {
       "domain": "",
@@ -2184,9 +2184,9 @@
       "slug": "kitchentime",
       "name": "KitchenTime",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kitchentime/01896309-8d97-726b-baed-35342a0d0149",
-      "trumfurl": "https://trumfnetthandel.no/cashback/kitchentimetrumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "kitchn.no",
@@ -2418,9 +2418,9 @@
       "slug": "lunehjem.no",
       "name": "Lunehjem.no",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lunehjem.no/0189630a-a9bd-73fa-b304-a9602d7d424d",
-      "trumfurl": "https://trumfnetthandel.no/cashback/lunehjem-trumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "lusini.com",
@@ -2502,15 +2502,6 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "maxa.no",
-      "slug": "",
-      "name": "MAXA",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/maxa-trumf",
-      "sasbonus": "",
-      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
       "domain": "miinto.no",
@@ -3591,15 +3582,6 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "trendcarpet.no",
-      "slug": "",
-      "name": "Trendcarpet",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/trendcarpet-trumf",
-      "sasbonus": "",
-      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "treningspartner.no",
