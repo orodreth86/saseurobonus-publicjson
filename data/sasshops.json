@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:34:29.647Z",
+  "generated_at": "2026-10-13T14:04:41.373Z",
   "shops": [
     {
       "domain": "",
@@ -1224,6 +1224,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/db-trumf1",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "4,6 % (62.1 poeng / 100kr)"
+    },
+    {
+      "domain": "dekk.eu",
+      "slug": "",
+      "name": "Dekk.eu",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/dekkeu-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
       "domain": "dekkonline.com",
@@ -2519,7 +2528,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/miinto/01896308-a975-7164-aa9c-41b2ec9d89e2",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfsmiinto",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
+      "trumfbonus": "10,1 % (136.3 poeng / 100kr)"
     },
     {
       "domain": "mimmis.no",
@@ -2691,15 +2700,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/oakley-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
-    },
-    {
-      "domain": "no.tempur.com",
-      "slug": "",
-      "name": "Tempur",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/tempur-trumf",
-      "sasbonus": "",
-      "trumfbonus": "Opptil 7,8 % (105.3 poeng / 100kr)"
     },
     {
       "domain": "nor-way.no",
