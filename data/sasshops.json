@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:39:18.578Z",
+  "generated_at": "2026-10-14T04:46:06.644Z",
   "shops": [
     {
       "domain": "",
@@ -2702,6 +2702,15 @@
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
+      "domain": "no.tempur.com",
+      "slug": "",
+      "name": "Tempur",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/tempur-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 7,8 % (105.3 poeng / 100kr)"
+    },
+    {
       "domain": "nor-way.no",
       "slug": "",
       "name": "NOR-WAY Bussekspress",
@@ -3723,9 +3732,9 @@
       "slug": "vida-xl-se",
       "name": "VidaXL",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vida-xl-se/01896309-1356-70ef-9d7f-f03e87d2ee25",
-      "trumfurl": "https://trumfnetthandel.no/cashback/vidaxl-trumf2",
+      "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "vikingfootwear.com",
