@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:36:47.653Z",
+  "generated_at": "2026-10-15T04:28:57.179Z",
   "shops": [
     {
       "domain": "",
@@ -1177,7 +1177,7 @@
       "name": "COS",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/cos/0189630e-0bd3-72c2-a84d-9bc1f40f4a70",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1691,7 +1691,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/g-star/018ce8ef-9005-73b2-9eab-aa62d65c537a",
       "trumfurl": "https://trumfnetthandel.no/cashback/g-star-raw-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 7 % (94.5 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "gents.no",
@@ -2259,15 +2259,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/trumflampegiganten",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
-    },
-    {
-      "domain": "lampemesteren.no",
-      "slug": "",
-      "name": "Lampemesteren",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/lampemesteren-trumf",
-      "sasbonus": "",
-      "trumfbonus": "Opptil 6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "lappeliten.no",
@@ -3732,9 +3723,9 @@
       "slug": "vida-xl-se",
       "name": "VidaXL",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vida-xl-se/01896309-1356-70ef-9d7f-f03e87d2ee25",
-      "trumfurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/vidaxl-trumf2",
       "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": ""
+      "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
     },
     {
       "domain": "vikingfootwear.com",
