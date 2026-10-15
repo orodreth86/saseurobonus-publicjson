@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:20:25.234Z",
+  "generated_at": "2026-10-15T16:53:33.328Z",
   "shops": [
     {
       "domain": "",
@@ -210,6 +210,15 @@
     },
     {
       "domain": "",
+      "slug": "irobot",
+      "name": "iRobot",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/irobot/01a13f7b-f1a0-7345-8750-1411c32e7f85",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "j-lindeberg",
       "name": "J. Lindeberg",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/j-lindeberg/019363db-290f-7080-8385-8759d1562ff1",
@@ -303,6 +312,15 @@
       "slug": "nespresso",
       "name": "Nespresso",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "new-balance",
+      "name": "New Balance",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
@@ -438,6 +456,15 @@
       "slug": "revolution-race",
       "name": "Revolution Race",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/revolution-race/019a5e2b-866b-702d-b295-e28101b5ba41",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "selected",
+      "name": "Selected",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
