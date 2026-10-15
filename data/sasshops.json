@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:28:57.179Z",
+  "generated_at": "2026-10-15T11:20:25.234Z",
   "shops": [
     {
       "domain": "",
@@ -1278,6 +1278,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/devold-trumf",
       "sasbonus": "",
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "didriksons.com",
+      "slug": "",
+      "name": "Didriksons",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/didriksons-trumf",
+      "sasbonus": "",
+      "trumfbonus": "4,6 % (62.1 poeng / 100kr)"
     },
     {
       "domain": "directferries.no",
@@ -2815,7 +2824,7 @@
       "name": "Outnorth",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/outnorth/01896307-cb70-7078-96e6-9379b454803c",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
