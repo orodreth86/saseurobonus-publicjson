@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:23:47.406Z",
+  "generated_at": "2026-10-16T11:15:11.593Z",
   "shops": [
     {
       "domain": "",
@@ -466,7 +466,7 @@
       "name": "Selected",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1116,15 +1116,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/budget-trumf",
       "sasbonus": "",
       "trumfbonus": "Opptil 9,3 % (125.6 poeng / 100kr)"
-    },
-    {
-      "domain": "caiacosmetics.no",
-      "slug": "caia-cosmetics",
-      "name": "CAIA Cosmetics",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/caia-cosmetics/019b939e-7e05-71c0-a5c6-2fb15815f053",
-      "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "campanyon.com",
@@ -2630,6 +2621,15 @@
       "trumfbonus": "1,5 % (20.3 poeng / 100kr)"
     },
     {
+      "domain": "nelly.com",
+      "slug": "",
+      "name": "Nelly",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/trumfnelly-no",
+      "sasbonus": "",
+      "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
+    },
+    {
       "domain": "newbalance.no",
       "slug": "",
       "name": "New Balance",
@@ -2682,6 +2682,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/nicebeauty-trumf",
       "sasbonus": "",
       "trumfbonus": "5,4 % (72.9 poeng / 100kr)"
+    },
+    {
+      "domain": "nlyman.com",
+      "slug": "",
+      "name": "NLY MAN",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/trumfnly-man",
+      "sasbonus": "",
+      "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
     },
     {
       "domain": "no.boohoo.com",
