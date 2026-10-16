@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:18:17.019Z",
+  "generated_at": "2026-10-16T04:23:47.406Z",
   "shops": [
     {
       "domain": "",
@@ -2295,6 +2295,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/trumflampegiganten",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
+    },
+    {
+      "domain": "lampemesteren.no",
+      "slug": "",
+      "name": "Lampemesteren",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/lampemesteren-trumf",
+      "sasbonus": "",
+      "trumfbonus": "Opptil 6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "lappeliten.no",
