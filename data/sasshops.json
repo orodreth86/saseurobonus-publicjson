@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:15:11.593Z",
+  "generated_at": "2026-10-16T16:33:11.656Z",
   "shops": [
     {
       "domain": "",
@@ -15,6 +15,15 @@
       "slug": "aarke",
       "name": "Aarke",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "authentic-europe",
+      "name": "Authentic Europe",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-europe/01a1447d-94dd-7090-a4ae-22c7b348afe1",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
