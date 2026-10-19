@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:00:09.183Z",
+  "generated_at": "2026-10-19T22:17:45.944Z",
   "shops": [
     {
       "domain": "",
@@ -24,6 +24,15 @@
       "slug": "authentic-europe",
       "name": "Authentic Europe",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-europe/01a1447d-94dd-7090-a4ae-22c7b348afe1",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "authentic-scandinavia",
+      "name": "Authentic Scandinavia",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-scandinavia/01a15438-70cb-7210-8da5-737a9df69135",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
@@ -2033,7 +2042,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/nordic-nest-trumf",
       "sasbonus": "",
-      "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
+      "trumfbonus": "1,5 % (20.3 poeng / 100kr)"
     },
     {
       "domain": "idealofsweden.no",
@@ -3302,7 +3311,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/skeidar-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
+      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
       "domain": "skistart.com",
