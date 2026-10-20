@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:27:38.511Z",
+  "generated_at": "2026-10-20T16:55:08.589Z",
   "shops": [
     {
       "domain": "",
@@ -600,6 +600,15 @@
       "slug": "suitable",
       "name": "Suitable",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/suitable/019eda5d-3529-7322-ad1a-5e48a90c686f",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "tempur",
+      "name": "Tempur",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/tempur/0189630a-48b2-739f-8a99-02b1c54808a4",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
