@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:41:24.996Z",
+  "generated_at": "2026-10-20T11:27:38.511Z",
   "shops": [
     {
       "domain": "",
@@ -2004,9 +2004,9 @@
       "slug": "hunkemoller",
       "name": "Hunkemøller",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/hunkemoller/0189630a-b3f1-7132-b07f-16beb096de9f",
-      "trumfurl": "https://trumfnetthandel.no/cashback/hunkemoller-trumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "5,4 % (72.9 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "husqvarna.com",
@@ -2277,15 +2277,6 @@
       "trumfurl": "",
       "sasbonus": "10 poeng / 100kr",
       "trumfbonus": ""
-    },
-    {
-      "domain": "kokkeglede.no",
-      "slug": "",
-      "name": "Kokkeglede",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/kokkeglede-trumf",
-      "sasbonus": "",
-      "trumfbonus": "7,8 % (105.3 poeng / 100kr)"
     },
     {
       "domain": "kondomeriet.no",
