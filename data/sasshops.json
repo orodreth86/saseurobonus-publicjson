@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:36:25.416Z",
+  "generated_at": "2026-10-21T10:04:39.325Z",
   "shops": [
     {
       "domain": "",
@@ -107,6 +107,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/comforth-scandinavia/01896312-2b46-7190-8308-27d42e9778ca",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "computersalg",
+      "name": "CS Megastore",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/computersalg/0189630e-21d9-70b4-9f7a-92a6704964ac",
+      "trumfurl": "",
+      "sasbonus": "20 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1224,15 +1233,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/comforth-scandinavia-trumf",
       "sasbonus": "",
       "trumfbonus": "17,1 % (230.9 poeng / 100kr)"
-    },
-    {
-      "domain": "computersalg.no",
-      "slug": "computersalg",
-      "name": "CS Megastore",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/computersalg/0189630e-21d9-70b4-9f7a-92a6704964ac",
-      "trumfurl": "",
-      "sasbonus": "20 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "cos.no",
@@ -3420,6 +3420,24 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "sportmann.no",
+      "slug": "",
+      "name": "Sportmann",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/sportmann-trumf",
+      "sasbonus": "",
+      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
+    },
+    {
+      "domain": "sportsmagasinet.no",
+      "slug": "",
+      "name": "Sportsmagasinet",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/sportsmagasinet-trumf",
+      "sasbonus": "",
+      "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
     },
     {
       "domain": "stay-in-place.com",
