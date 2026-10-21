@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:04:39.325Z",
+  "generated_at": "2026-10-21T10:06:22.312Z",
   "shops": [
     {
       "domain": "",
@@ -107,15 +107,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/comforth-scandinavia/01896312-2b46-7190-8308-27d42e9778ca",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "computersalg",
-      "name": "CS Megastore",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/computersalg/0189630e-21d9-70b4-9f7a-92a6704964ac",
-      "trumfurl": "",
-      "sasbonus": "20 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1254,11 +1245,11 @@
     },
     {
       "domain": "csmegastore.no",
-      "slug": "",
-      "name": "CS MEGASTORE",
-      "sasurl": "",
+      "slug": "computersalg",
+      "name": "CS Megastore",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/computersalg/0189630e-21d9-70b4-9f7a-92a6704964ac",
       "trumfurl": "https://trumfnetthandel.no/cashback/cs-megastore-trumf",
-      "sasbonus": "",
+      "sasbonus": "20 poeng / 100kr",
       "trumfbonus": "1,5 % (20.3 poeng / 100kr)"
     },
     {
