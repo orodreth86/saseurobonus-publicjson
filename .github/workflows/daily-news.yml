@@ -34,7 +34,7 @@ jobs:
         run: node --test tests/daily-news.test.mjs
       - name: Configure Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6.0.0
       - name: Read previous daily history
         shell: bash
         run: |
