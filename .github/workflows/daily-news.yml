@@ -71,4 +71,4 @@ jobs:
           path: _site
       - name: Deploy site
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v6.0.0
