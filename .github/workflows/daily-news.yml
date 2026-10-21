@@ -1,0 +1,74 @@
+name: Daily bonus news and RSS
+
+on:
+  schedule:
+    # 23:45 Norway summer time / 22:45 winter time. GitHub schedules can be delayed.
+    - cron: '45 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-bonus-news
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          package-manager-cache: false
+      - name: Check generator
+        run: node --test tests/daily-news.test.mjs
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Read previous daily history
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p .daily-news
+          # ls-remote errors are fatal; a missing branch is only expected on the first run.
+          REMOTE_HISTORY="$(git ls-remote --heads origin refs/heads/daily-news-history)"
+          if [[ -n "$REMOTE_HISTORY" ]]; then
+            git fetch origin refs/heads/daily-news-history:refs/remotes/origin/daily-news-history
+            git show refs/remotes/origin/daily-news-history:history.json > .daily-news/history.json
+          fi
+      - name: Build daily page, archive and RSS
+        run: node scripts/build-daily-news.mjs
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}/
+      - name: Save history on its own branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          # A one-file tree avoids touching main or racing with the feed publisher.
+          HISTORY_BLOB="$(git hash-object -w .daily-news/history.json)"
+          HISTORY_TREE="$(printf '100644 blob %s\thistory.json\n' "$HISTORY_BLOB" | git mktree)"
+          PARENT_ARGS=()
+          if git rev-parse --verify refs/remotes/origin/daily-news-history >/dev/null 2>&1; then
+            PARENT_ARGS=(-p refs/remotes/origin/daily-news-history)
+          fi
+          HISTORY_COMMIT="$(git commit-tree "$HISTORY_TREE" "${PARENT_ARGS[@]}" -m 'chore: daily bonus news snapshot')"
+          git push origin "$HISTORY_COMMIT:refs/heads/daily-news-history"
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+      - name: Deploy site
+        id: deployment
+        uses: actions/deploy-pages@v4
