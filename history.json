@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-10-22",
-      "sourceAt": "2026-10-21T21:35:42.124Z",
+      "sourceAt": "2026-10-22T04:34:57.468Z",
       "shops": [
         {
           "key": "domain:acer.com",
@@ -1219,15 +1219,6 @@
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/holdit/01896310-de2d-7039-a4f2-7938c62656a5",
           "trumfURL": ""
-        },
-        {
-          "key": "domain:holidu.no",
-          "domain": "holidu.no",
-          "name": "Holidu",
-          "flight": "",
-          "trumf": "3,9 % (52.6 poeng / 100kr)",
-          "flightURL": "",
-          "trumfURL": "https://trumfnetthandel.no/cashback/holidu-trumf"
         },
         {
           "key": "domain:holzweiler.no",
@@ -3241,9 +3232,9 @@
           "domain": "xplora.no",
           "name": "Xplora",
           "flight": "1000 poeng",
-          "trumf": "Opptil 195 kr (2632.5 poeng)",
+          "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
-          "trumfURL": "https://trumfnetthandel.no/cashback/xplora-trumf"
+          "trumfURL": ""
         },
         {
           "key": "domain:yoursurprise.no",
@@ -8011,11 +8002,21 @@
       "date": "2026-10-22",
       "comparedWith": "2026-10-21",
       "baseline": false,
-      "sourceAt": "2026-10-21T21:35:42.124Z",
-      "publishedAt": "2026-10-22T00:11:52.846Z",
-      "shopCount": 444,
+      "sourceAt": "2026-10-22T04:34:57.468Z",
+      "publishedAt": "2026-10-22T11:31:22.884Z",
+      "shopCount": 443,
       "added": [],
-      "removed": [],
+      "removed": [
+        {
+          "key": "domain:holidu.no",
+          "domain": "holidu.no",
+          "name": "Holidu",
+          "flight": "",
+          "trumf": "3,9 % (52.6 poeng / 100kr)",
+          "flightURL": "",
+          "trumfURL": "https://trumfnetthandel.no/cashback/holidu-trumf"
+        }
+      ],
       "changed": [
         {
           "key": "slug:bosch-home",
@@ -8031,6 +8032,23 @@
               "before": "25 poeng / 100kr",
               "after": "100 poeng / 100kr",
               "url": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068"
+            }
+          ]
+        },
+        {
+          "key": "domain:xplora.no",
+          "domain": "xplora.no",
+          "name": "Xplora",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "trumf",
+              "before": "Opptil 195 kr (2632.5 poeng)",
+              "after": "",
+              "url": ""
             }
           ]
         }
