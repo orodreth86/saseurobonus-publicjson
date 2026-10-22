@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:43:52.127Z",
+  "generated_at": "2026-10-22T17:05:27.113Z",
   "shops": [
     {
       "domain": "",
@@ -44,6 +44,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-scandinavia/01a15438-70cb-7210-8da5-737a9df69135",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "autodeler",
+      "name": "Autodeler",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/autodeler/01a163d8-2fe4-72a7-8c0c-ba042bc82dd0",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
