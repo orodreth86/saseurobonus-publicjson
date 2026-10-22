@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:43:05.256Z",
+  "generated_at": "2026-10-22T11:43:52.127Z",
   "shops": [
     {
       "domain": "",
@@ -1944,6 +1944,15 @@
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
+    },
+    {
+      "domain": "holidu.no",
+      "slug": "",
+      "name": "Holidu",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/holidu-trumf",
+      "sasbonus": "",
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "holzweiler.no",
@@ -3957,9 +3966,9 @@
       "slug": "xplora",
       "name": "Xplora",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
-      "trumfurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/xplora-trumf",
       "sasbonus": "1000 poeng",
-      "trumfbonus": ""
+      "trumfbonus": "Opptil 195kr (2632.5 poeng)"
     },
     {
       "domain": "yoursurprise.no",
