@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:34:57.468Z",
+  "generated_at": "2026-10-22T11:35:44.738Z",
   "shops": [
     {
       "domain": "",
@@ -17,6 +17,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "aktivvinterno",
+      "name": "Aktivvinter.no",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/aktivvinterno/01a16286-1d6b-7005-8fd7-a4c11e525a76",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
