@@ -1,20 +1,11 @@
 {
-  "generated_at": "2026-10-23T12:00:04.531Z",
+  "generated_at": "2026-10-23T16:59:50.104Z",
   "shops": [
     {
       "domain": "",
       "slug": "charlies-hus",
       "name": "Charlies hus",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "pace",
-      "name": "Pace",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/pace/01a0afae-eb49-7379-b85b-a13ca010d7fa",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
@@ -1151,6 +1142,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/gents/0189630d-2220-726e-b99d-9a1e16f855da",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "getpace.no",
+      "slug": "pace",
+      "name": "Pace",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/pace/01a0afae-eb49-7379-b85b-a13ca010d7fa",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
