@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:29:50.749Z",
+  "generated_at": "2026-10-23T04:40:12.198Z",
   "shops": [
     {
       "domain": "",
@@ -989,7 +989,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/barbershop.no/0189630b-f3fb-73c9-b1ca-bb8ea16bb6c9",
       "trumfurl": "https://trumfnetthandel.no/cashback/barbershop-trumf",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "1,9 % (25.6 poeng / 100kr)"
+      "trumfbonus": "1,9% (25.6 poeng / 100kr)"
     },
     {
       "domain": "batteriexperten.com",
@@ -1421,7 +1421,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/dyson/01896310-bb05-734c-87c7-a0d8eadfe399",
       "trumfurl": "https://trumfnetthandel.no/cashback/dyson-trumf",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "4,6 % (62.1 poeng / 100kr)"
+      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
       "domain": "e-wheels.no",
@@ -1961,7 +1961,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/holidu-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
     },
     {
       "domain": "holzweiler.no",
@@ -1988,7 +1988,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/homeroom/0189630c-993e-7061-bb1a-d41d2272a9bf",
       "trumfurl": "https://trumfnetthandel.no/cashback/homeroom-trumf",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "Opptil 5,4 % (72.9 poeng / 100kr)"
+      "trumfbonus": "Opptil 3,9 % (52.6 poeng / 100kr)"
     },
     {
       "domain": "hotels.com",
@@ -3401,7 +3401,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/sofas-and-more-trumf",
       "sasbonus": "",
-      "trumfbonus": "10,9 % (147.2 poeng / 100kr)"
+      "trumfbonus": "10,9% (147.2 poeng / 100kr)"
     },
     {
       "domain": "soma.no",
@@ -3977,7 +3977,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
       "trumfurl": "https://trumfnetthandel.no/cashback/xplora-trumf",
       "sasbonus": "1000 poeng",
-      "trumfbonus": "Opptil 195kr (2632.5 poeng)"
+      "trumfbonus": "Opptil 195 kr (2632.5 poeng)"
     },
     {
       "domain": "yoursurprise.no",
