@@ -3,8 +3,17 @@
   "snapshots": [
     {
       "date": "2026-10-23",
-      "sourceAt": "2026-10-22T21:29:50.749Z",
+      "sourceAt": "2026-10-23T12:00:04.531Z",
       "shops": [
+        {
+          "key": "domain:aarke.com",
+          "domain": "aarke.com",
+          "name": "Aarke",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
+          "trumfURL": ""
+        },
         {
           "key": "domain:acer.com",
           "domain": "acer.com",
@@ -51,6 +60,15 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/aimn-trumf"
         },
         {
+          "key": "domain:aktivvinter.no",
+          "domain": "aktivvinter.no",
+          "name": "Aktivvinter.no",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aktivvinterno/01a16286-1d6b-7005-8fd7-a4c11e525a76",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:albert.no",
           "domain": "albert.no",
           "name": "Albert",
@@ -87,6 +105,15 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfapple-store"
         },
         {
+          "key": "domain:aretrotale.com",
+          "domain": "aretrotale.com",
+          "name": "A Retro Tale",
+          "flight": "30 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:asics.com",
           "domain": "asics.com",
           "name": "ASICS",
@@ -96,12 +123,30 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/asics-trumf"
         },
         {
+          "key": "domain:authentic-europe.com",
+          "domain": "authentic-europe.com",
+          "name": "Authentic Europe",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-europe/01a1447d-94dd-7090-a4ae-22c7b348afe1",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:authentic-scandinavia.com",
+          "domain": "authentic-scandinavia.com",
+          "name": "Authentic Scandinavia",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-scandinavia/01a15438-70cb-7210-8da5-737a9df69135",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:autodeler.co.no",
           "domain": "autodeler.co.no",
           "name": "Autodeler",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/autodeler/01a163d8-2fe4-72a7-8c0c-ba042bc82dd0",
           "trumfURL": "https://trumfnetthandel.no/cashback/autodeler-trumf"
         },
         {
@@ -162,9 +207,9 @@
           "key": "domain:babybanden.no",
           "domain": "babybanden.no",
           "name": "Babybanden",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "6,2 % (83.7 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/babybanden/019fb246-096a-73ea-826f-90c50a2c9402",
           "trumfURL": "https://trumfnetthandel.no/cashback/babybanden-trumf"
         },
         {
@@ -253,7 +298,7 @@
           "domain": "barbershop.no",
           "name": "Barbershop.no",
           "flight": "15 poeng / 100kr",
-          "trumf": "1,9 % (25.6 poeng / 100kr)",
+          "trumf": "1,9% (25.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/barbershop.no/0189630b-f3fb-73c9-b1ca-bb8ea16bb6c9",
           "trumfURL": "https://trumfnetthandel.no/cashback/barbershop-trumf"
         },
@@ -378,9 +423,9 @@
           "key": "domain:bokia.no",
           "domain": "bokia.no",
           "name": "Bokia",
-          "flight": "",
+          "flight": "50 poeng / 100kr",
           "trumf": "11,7 % (157.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bokia/019f4b4d-3fc9-7184-a233-bc63156570b5",
           "trumfURL": "https://trumfnetthandel.no/cashback/bokia-trumf"
         },
         {
@@ -413,10 +458,10 @@
         {
           "key": "domain:bosch-home.no",
           "domain": "bosch-home.no",
-          "name": "Bosch",
-          "flight": "",
+          "name": "Bosch Home",
+          "flight": "100 poeng / 100kr",
           "trumf": "9,3 % (125.6 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
           "trumfURL": "https://trumfnetthandel.no/cashback/bosch-trumf1"
         },
         {
@@ -445,6 +490,24 @@
           "trumf": "Opptil 9,3 % (125.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/budget-trumf"
+        },
+        {
+          "key": "domain:calstop.no",
+          "domain": "calstop.no",
+          "name": "Calstop",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/calstop/01a04336-ca3e-71d5-b2f0-057119b7ac92",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:camillapihl.com",
+          "domain": "camillapihl.com",
+          "name": "Camilla Phil",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/camilla-phil/019f4b0f-a8c1-71dc-909b-e1fbbe655a13",
+          "trumfURL": ""
         },
         {
           "key": "domain:campanyon.com",
@@ -492,6 +555,15 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/chicastore-trumf"
         },
         {
+          "key": "domain:clarins.no",
+          "domain": "clarins.no",
+          "name": "Clarins",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/clarins/01896310-8cfb-7268-9af3-ca37f496484c",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:clickandboat.com",
           "domain": "clickandboat.com",
           "name": "Click&Boat",
@@ -504,9 +576,9 @@
           "key": "domain:comforth.no",
           "domain": "comforth.no",
           "name": "Comforth Scandinavia",
-          "flight": "",
+          "flight": "50 poeng / 100kr",
           "trumf": "17,1 % (230.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/comforth-scandinavia/01896312-2b46-7190-8308-27d42e9778ca",
           "trumfURL": "https://trumfnetthandel.no/cashback/comforth-scandinavia-trumf"
         },
         {
@@ -685,7 +757,7 @@
           "domain": "dyson.no",
           "name": "Dyson",
           "flight": "15 poeng / 100kr",
-          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/dyson/01896310-bb05-734c-87c7-a0d8eadfe399",
           "trumfURL": "https://trumfnetthandel.no/cashback/dyson-trumf"
         },
@@ -926,19 +998,28 @@
         {
           "key": "domain:fjordline.com",
           "domain": "fjordline.com",
-          "name": "Fjord Line",
-          "flight": "",
+          "name": "Fjordline",
+          "flight": "15 poeng / 100kr",
           "trumf": "3,1 % (41.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1",
           "trumfURL": "https://trumfnetthandel.no/cashback/fjord-line-trumf"
+        },
+        {
+          "key": "domain:flowlife.com",
+          "domain": "flowlife.com",
+          "name": "Flowlife",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/flowlife/019a1174-de0b-7066-a09b-15833c2450d4",
+          "trumfURL": ""
         },
         {
           "key": "domain:floyd.no",
           "domain": "floyd.no",
           "name": "Floyd",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "4,6 % (62.1 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/floyd/01a06151-88c0-71f9-b828-a3dee7388d69",
           "trumfURL": "https://trumfnetthandel.no/cashback/floyd-trumf"
         },
         {
@@ -958,6 +1039,15 @@
           "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/foodstuff-trumf"
+        },
+        {
+          "key": "domain:footballtravel.no",
+          "domain": "footballtravel.no",
+          "name": "Football Travel",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
+          "trumfURL": ""
         },
         {
           "key": "domain:footshop.no",
@@ -990,9 +1080,9 @@
           "key": "domain:foto.no",
           "domain": "foto.no",
           "name": "Foto.no",
-          "flight": "",
+          "flight": "10 poeng / 100kr",
           "trumf": "Opptil 4,6 % (62.1 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fotono/019f1dc6-1a6f-712c-9f9d-8b832b053cc4",
           "trumfURL": "https://trumfnetthandel.no/cashback/fotono-trumf"
         },
         {
@@ -1008,9 +1098,9 @@
           "key": "domain:framsport.no",
           "domain": "framsport.no",
           "name": "Framsport",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "4,6 % (62.1 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/framsport/019df344-65af-7038-85ad-f58532b5b50a",
           "trumfURL": "https://trumfnetthandel.no/cashback/framsport-trumf"
         },
         {
@@ -1098,10 +1188,19 @@
           "key": "domain:gonordiccruiseline.no",
           "domain": "gonordiccruiseline.no",
           "name": "Go Nordic Cruiseline",
-          "flight": "",
+          "flight": "15 poeng / 100kr",
           "trumf": "3,7 % (50.0 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b",
           "trumfURL": "https://trumfnetthandel.no/cashback/go-nordic-cruiseline-trumf"
+        },
+        {
+          "key": "domain:greatlife.no",
+          "domain": "greatlife.no",
+          "name": "Greatlife",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/greatlife/0189630b-10b8-708b-b9e7-cd96f178c7c2",
+          "trumfURL": ""
         },
         {
           "key": "domain:grontfokus.no",
@@ -1125,9 +1224,9 @@
           "key": "domain:guttelus.no",
           "domain": "guttelus.no",
           "name": "Guttelus",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "6,2 % (83.7 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/guttelus/019ea62f-5c27-71c4-b406-8227bbee4cab",
           "trumfURL": "https://trumfnetthandel.no/cashback/guttelus-trumf"
         },
         {
@@ -1146,6 +1245,15 @@
           "flight": "25 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hairlust/01896310-495b-7167-9bb1-1bb2f17b7094",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:hamphi.com",
+          "domain": "hamphi.com",
+          "name": "Hamphi",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hamphi/0199c410-ed9b-72f0-ae61-3e87d9179fc8",
           "trumfURL": ""
         },
         {
@@ -1225,7 +1333,7 @@
           "domain": "holidu.no",
           "name": "Holidu",
           "flight": "",
-          "trumf": "3,9% (52.6 poeng / 100kr)",
+          "trumf": "3,9 % (52.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/holidu-trumf"
         },
@@ -1252,7 +1360,7 @@
           "domain": "homeroom.no",
           "name": "Homeroom",
           "flight": "15 poeng / 100kr",
-          "trumf": "Opptil 5,4 % (72.9 poeng / 100kr)",
+          "trumf": "Opptil 3,9 % (52.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/homeroom/0189630c-993e-7061-bb1a-d41d2272a9bf",
           "trumfURL": "https://trumfnetthandel.no/cashback/homeroom-trumf"
         },
@@ -1278,9 +1386,9 @@
           "key": "domain:hultens.no",
           "domain": "hultens.no",
           "name": "Hulténs",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "3,9 % (52.6 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hultens/0189630a-c6f7-7291-8c71-3010f6b9bab2",
           "trumfURL": "https://trumfnetthandel.no/cashback/hultens-trumf"
         },
         {
@@ -1296,9 +1404,9 @@
           "key": "domain:husqvarna.com",
           "domain": "husqvarna.com",
           "name": "Husqvarna",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "3,9 % (52.6 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/husqvarna/019d713b-929f-7136-98ba-83fb547332ef",
           "trumfURL": "https://trumfnetthandel.no/cashback/husqvarna-trumf"
         },
         {
@@ -1410,6 +1518,15 @@
           "trumfURL": ""
         },
         {
+          "key": "domain:irobot.no",
+          "domain": "irobot.no",
+          "name": "iRobot",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/irobot/01a13f7b-f1a0-7345-8750-1411c32e7f85",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:ishavskraft.no",
           "domain": "ishavskraft.no",
           "name": "Ishavskraft strøm",
@@ -1439,10 +1556,10 @@
         {
           "key": "domain:jlindeberg.com",
           "domain": "jlindeberg.com",
-          "name": "J.Lindeberg",
-          "flight": "",
+          "name": "J. Lindeberg",
+          "flight": "25 poeng / 100kr",
           "trumf": "4,6 % (62.1 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/j-lindeberg/019363db-290f-7080-8385-8759d1562ff1",
           "trumfURL": "https://trumfnetthandel.no/cashback/jlindeberg-trumf"
         },
         {
@@ -1511,10 +1628,10 @@
         {
           "key": "domain:kicks.no",
           "domain": "kicks.no",
-          "name": "Kicks",
-          "flight": "",
+          "name": "KICKS",
+          "flight": "50 poeng / 100kr",
           "trumf": "4,6 % (62.1 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kicks/01932f75-1211-7244-b60c-0fe79fd03b46",
           "trumfURL": "https://trumfnetthandel.no/cashback/kicks-trumf"
         },
         {
@@ -1563,6 +1680,15 @@
           "trumfURL": ""
         },
         {
+          "key": "domain:kokkeglede.no",
+          "domain": "kokkeglede.no",
+          "name": "Kokkeglede",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kokkeglede/019c9e5b-4248-7122-8cf8-20e9b93bff42",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:kondomeriet.no",
           "domain": "kondomeriet.no",
           "name": "Kondomeriet",
@@ -1575,9 +1701,9 @@
           "key": "domain:kost1.no",
           "domain": "kost1.no",
           "name": "Kost1",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "6,2 % (83.7 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kost1/019f374b-74f0-73aa-82f5-e11c748d36c2",
           "trumfURL": "https://trumfnetthandel.no/cashback/kost1-trumf"
         },
         {
@@ -1602,10 +1728,19 @@
           "key": "domain:lampemesteren.no",
           "domain": "lampemesteren.no",
           "name": "Lampemesteren",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
           "trumfURL": "https://trumfnetthandel.no/cashback/lampemesteren-trumf"
+        },
+        {
+          "key": "domain:lanna.no",
+          "domain": "lanna.no",
+          "name": "Länna Møbler",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lanna-mobler/01896312-5ad6-728c-816e-b50fd3b1f767",
+          "trumfURL": ""
         },
         {
           "key": "domain:lappeliten.no",
@@ -1719,9 +1854,9 @@
           "key": "domain:loepeshop.no",
           "domain": "loepeshop.no",
           "name": "Løpeshop",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "2,3 % (31.0 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lopeshop/01a08fd2-1819-70b7-81f3-9f75698f9f77",
           "trumfURL": "https://trumfnetthandel.no/cashback/lopeshop-trumf"
         },
         {
@@ -1860,10 +1995,28 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/maxa-trumf"
         },
         {
+          "key": "domain:maxulin.no",
+          "domain": "maxulin.no",
+          "name": "Maxulin",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/maxulin/019662cf-bd3a-73ba-840e-37bb81369e8e",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:memira.no",
+          "domain": "memira.no",
+          "name": "Memira",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:miinto.no",
           "domain": "miinto.no",
           "name": "Miinto",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "10,1 % (136.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/miinto/01896308-a975-7164-aa9c-41b2ec9d89e2",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfsmiinto"
@@ -1905,6 +2058,15 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/moniker-man-trumf"
         },
         {
+          "key": "domain:mulberry.com",
+          "domain": "mulberry.com",
+          "name": "Mulberry",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/mulberry/019fea7f-5064-716a-a6fc-b1c734643089",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:myprotein.no",
           "domain": "myprotein.no",
           "name": "MyProtein",
@@ -1934,19 +2096,28 @@
         {
           "key": "domain:nelly.com",
           "domain": "nelly.com",
-          "name": "Nelly",
-          "flight": "",
+          "name": "Nelly.com",
+          "flight": "30 poeng / 100kr",
           "trumf": "2,3 % (31.0 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nelly.com/01896307-c614-73bf-be00-aed08d7bb87d",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfnelly-no"
+        },
+        {
+          "key": "domain:nespresso.com",
+          "domain": "nespresso.com",
+          "name": "Nespresso",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
+          "trumfURL": ""
         },
         {
           "key": "domain:newbalance.no",
           "domain": "newbalance.no",
           "name": "New Balance",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "3,9 % (52.6 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874",
           "trumfURL": "https://trumfnetthandel.no/cashback/new-balance-trumf"
         },
         {
@@ -1989,18 +2160,27 @@
           "key": "domain:nicebeauty.com",
           "domain": "nicebeauty.com",
           "name": "NiceBeauty",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "5,4 % (72.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nicebeauty/01896311-cd52-7367-8aae-0c4b46a3188e",
           "trumfURL": "https://trumfnetthandel.no/cashback/nicebeauty-trumf"
+        },
+        {
+          "key": "domain:nitecaps.no",
+          "domain": "nitecaps.no",
+          "name": "NiteCaps",
+          "flight": "1500 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nitecaps/01a06254-4da1-718d-ba69-19bd7032d35c",
+          "trumfURL": ""
         },
         {
           "key": "domain:nlyman.com",
           "domain": "nlyman.com",
-          "name": "NLY MAN",
-          "flight": "",
+          "name": "NLY Man",
+          "flight": "15 poeng / 100kr",
           "trumf": "2,3 % (31.0 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nly-man/01896308-4663-73e3-8cc3-29f29f166566",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfnly-man"
         },
         {
@@ -2016,9 +2196,9 @@
           "key": "domain:no.harmankardon.com",
           "domain": "no.harmankardon.com",
           "name": "Harman Kardon",
-          "flight": "",
+          "flight": "15 poeng / 100kr",
           "trumf": "3,1 % (41.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
           "trumfURL": "https://trumfnetthandel.no/cashback/harman-kardon-trumf"
         },
         {
@@ -2052,18 +2232,27 @@
           "key": "domain:no.oakley.com",
           "domain": "no.oakley.com",
           "name": "Oakley",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "6,2 % (83.7 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
           "trumfURL": "https://trumfnetthandel.no/cashback/oakley-trumf"
+        },
+        {
+          "key": "domain:no.readly.com",
+          "domain": "no.readly.com",
+          "name": "Readly",
+          "flight": "250 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/readly/019bc664-90ed-7386-a14b-4ee847a35168",
+          "trumfURL": ""
         },
         {
           "key": "domain:no.tempur.com",
           "domain": "no.tempur.com",
           "name": "Tempur",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "Opptil 7,8 % (105.3 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tempur/0189630a-48b2-739f-8a99-02b1c54808a4",
           "trumfURL": "https://trumfnetthandel.no/cashback/tempur-trumf"
         },
         {
@@ -2074,6 +2263,15 @@
           "trumf": "2,8 % (37.8 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/nor-way-bussekspress-trumf"
+        },
+        {
+          "key": "domain:nordhost.no",
+          "domain": "nordhost.no",
+          "name": "Nordhost",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordhost/019dbf16-b3c9-7016-8fbf-a877d50c1123",
+          "trumfURL": ""
         },
         {
           "key": "domain:nordicfeel.no",
@@ -2101,6 +2299,15 @@
           "trumf": "15,6 % (210.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordic-print/0189630f-e7ef-728b-81eb-be251fef4eb5",
           "trumfURL": "https://trumfnetthandel.no/cashback/nordic-print-trumf"
+        },
+        {
+          "key": "domain:nordiskagalleriet.no",
+          "domain": "nordiskagalleriet.no",
+          "name": "Nordiska Galleriet",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordiska-galleriet/01896311-818d-7114-be42-ed67319052a1",
+          "trumfURL": ""
         },
         {
           "key": "domain:nordvpn.com",
@@ -2141,19 +2348,19 @@
         {
           "key": "domain:onyxcookware.no",
           "domain": "onyxcookware.no",
-          "name": "ONYX Cookware",
-          "flight": "",
+          "name": "Onyx Cookware",
+          "flight": "75 poeng / 100kr",
           "trumf": "4,6 % (62.1 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/onyx-cookware/01a04319-8c3e-70f1-80fb-7c2cdc036ea8",
           "trumfURL": "https://trumfnetthandel.no/cashback/onyx-cookware-trumf"
         },
         {
           "key": "domain:osloskinlab.no",
           "domain": "osloskinlab.no",
           "name": "Oslo Skin Lab",
-          "flight": "",
+          "flight": "500 poeng",
           "trumf": "5,4 % (72.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oslo-skin-lab/0189630d-de8e-70ab-86a4-6a9fa9db16c6",
           "trumfURL": "https://trumfnetthandel.no/cashback/oslo-skin-lab"
         },
         {
@@ -2211,6 +2418,15 @@
           "trumfURL": ""
         },
         {
+          "key": "domain:partyking.no",
+          "domain": "partyking.no",
+          "name": "partyking",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/partyking/019b11f5-2adc-72f3-96b1-3428a999ce72",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:patpat.com",
           "domain": "patpat.com",
           "name": "PatPat",
@@ -2223,9 +2439,9 @@
           "key": "domain:pergolux.no",
           "domain": "pergolux.no",
           "name": "Pergolux",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "2,3 % (31.0 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb",
           "trumfURL": "https://trumfnetthandel.no/cashback/pergolux-trumf"
         },
         {
@@ -2259,9 +2475,9 @@
           "key": "domain:pilgrim.net",
           "domain": "pilgrim.net",
           "name": "Pilgrim",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "7,8 % (105.3 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pilgrim/0196b513-2638-7036-83ce-676479acc9ff",
           "trumfURL": "https://trumfnetthandel.no/cashback/pilgrim-trumf"
         },
         {
@@ -2271,6 +2487,15 @@
           "flight": "25 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pink-or-blue/0189630a-69cf-7169-9e2f-cecf113e05cf",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:plussmobil.no",
+          "domain": "plussmobil.no",
+          "name": "PlussMobil",
+          "flight": "4000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/plussmobil/01896310-a654-73e1-a4f7-591156fc522f",
           "trumfURL": ""
         },
         {
@@ -2308,6 +2533,15 @@
           "trumf": "Opptil 4,6 % (62.1 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/proteinfabrikken/019c66f8-8151-7274-bf0b-ddf7bca7de59",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfproteinfabrikken"
+        },
+        {
+          "key": "domain:prydligt.com",
+          "domain": "prydligt.com",
+          "name": "Prydligt",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/prydligt/0197171b-d561-735c-8a71-68a206e1f207",
+          "trumfURL": ""
         },
         {
           "key": "domain:pyretosnackan.no",
@@ -2370,6 +2604,15 @@
           "flight": "10 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/razer/01896311-b046-7318-82e2-70f8379afdbf",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:revolutionrace.no",
+          "domain": "revolutionrace.no",
+          "name": "Revolution Race",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/revolution-race/019a5e2b-866b-702d-b295-e28101b5ba41",
           "trumfURL": ""
         },
         {
@@ -2463,6 +2706,15 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/lastminute-trumf"
         },
         {
+          "key": "domain:selected.com",
+          "domain": "selected.com",
+          "name": "Selected",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:sembo.no",
           "domain": "sembo.no",
           "name": "Sembo",
@@ -2508,12 +2760,21 @@
           "trumfURL": ""
         },
         {
+          "key": "domain:sharkgaming.no",
+          "domain": "sharkgaming.no",
+          "name": "Shark Gaming",
+          "flight": "20 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/shark-gaming/01896310-6fe5-71d2-a915-4d9f58c8d27a",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:sharkninja.no",
           "domain": "sharkninja.no",
           "name": "SharkNinja",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "3,9 % (52.6 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sharkninja/019e4465-abe2-7069-a495-477ebb1168ba",
           "trumfURL": "https://trumfnetthandel.no/cashback/sharkninja-trumf"
         },
         {
@@ -2553,12 +2814,21 @@
           "trumfURL": ""
         },
         {
+          "key": "domain:shopunderstatement.com",
+          "domain": "shopunderstatement.com",
+          "name": "Understatement",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/understatement/019957dd-6de6-7224-a879-98343db6082c",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:siemens-home.bsh-group.com",
           "domain": "siemens-home.bsh-group.com",
           "name": "Siemens Home",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "11,7 % (157.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
           "trumfURL": "https://trumfnetthandel.no/cashback/siemens-trumf"
         },
         {
@@ -2583,9 +2853,9 @@
           "key": "domain:skeidar.no",
           "domain": "skeidar.no",
           "name": "Skeidar",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "3,1 % (41.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/skeidar/019cd736-905a-7300-8d5d-ae68b2a4bb95",
           "trumfURL": "https://trumfnetthandel.no/cashback/skeidar-trumf"
         },
         {
@@ -2663,10 +2933,10 @@
         {
           "key": "domain:sofasandmore.no",
           "domain": "sofasandmore.no",
-          "name": "Sofas and More",
-          "flight": "",
-          "trumf": "10,9 % (147.2 poeng / 100kr)",
-          "flightURL": "",
+          "name": "Sofas & More",
+          "flight": "25 poeng / 100kr",
+          "trumf": "10,9% (147.2 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09",
           "trumfURL": "https://trumfnetthandel.no/cashback/sofas-and-more-trumf"
         },
         {
@@ -2706,6 +2976,15 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/sportmann-trumf"
         },
         {
+          "key": "domain:sportshopen.com",
+          "domain": "sportshopen.com",
+          "name": "Sportshopen",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sportshopen/01896312-535c-73f5-9520-e146c104138d",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:sportsmagasinet.no",
           "domain": "sportsmagasinet.no",
           "name": "Sportsmagasinet",
@@ -2713,6 +2992,15 @@
           "trumf": "9,3 % (125.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/sportsmagasinet-trumf"
+        },
+        {
+          "key": "domain:sporttema.no",
+          "domain": "sporttema.no",
+          "name": "Sporttema",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sporttema/01896308-f18d-71b5-9064-ffc3c373972f",
+          "trumfURL": ""
         },
         {
           "key": "domain:stay-in-place.com",
@@ -2731,6 +3019,24 @@
           "trumf": "2,3 % (31.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/staypro/0189630c-f505-7383-a3ca-f070bfb00deb",
           "trumfURL": "https://trumfnetthandel.no/cashback/staypro-trumf"
+        },
+        {
+          "key": "domain:steamerystockholm.com",
+          "domain": "steamerystockholm.com",
+          "name": "Steamery",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/steamery/01a0d331-5c4e-716e-8bb1-57f2cb9a47d7",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:steelseries.com",
+          "domain": "steelseries.com",
+          "name": "Steelseries",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/steelseries/019cdce7-2ed7-7005-8f10-66221e21be2f",
+          "trumfURL": ""
         },
         {
           "key": "domain:stellamccartney.com",
@@ -2754,9 +3060,9 @@
           "key": "domain:stille.no",
           "domain": "stille.no",
           "name": "Stille",
-          "flight": "",
+          "flight": "50 poeng / 100kr",
           "trumf": "9,3 % (125.6 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/stille/01a0626b-0766-7033-9d44-671023ec93f5",
           "trumfURL": "https://trumfnetthandel.no/cashback/stille-trumf"
         },
         {
@@ -2839,6 +3145,15 @@
           "trumf": "Opptil 270 kr (3645.0 poeng)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/strim/018abc11-7a28-71e0-bc8a-9e9617c71d80",
           "trumfURL": "https://trumfnetthandel.no/cashback/strim-trumf"
+        },
+        {
+          "key": "domain:suitableshop.no",
+          "domain": "suitableshop.no",
+          "name": "Suitable",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/suitable/019eda5d-3529-7322-ad1a-5e48a90c686f",
+          "trumfURL": ""
         },
         {
           "key": "domain:superdrystore.no",
@@ -2961,9 +3276,9 @@
           "key": "domain:trendcarpet.no",
           "domain": "trendcarpet.no",
           "name": "Trendcarpet",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "6,2 % (83.7 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
           "trumfURL": "https://trumfnetthandel.no/cashback/trendcarpet-trumf"
         },
         {
@@ -2992,6 +3307,33 @@
           "trumf": "3,9 % (52.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/tripx-trumf"
+        },
+        {
+          "key": "domain:trivelia.no",
+          "domain": "trivelia.no",
+          "name": "Trivelia",
+          "flight": "1500 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trivelia/01a06263-e39a-72ab-9591-1510a9b90548",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:truestory.no",
+          "domain": "truestory.no",
+          "name": "Truestory",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/truestory/01896310-c5df-7232-a2dc-589b6cddbee7",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:ttline.com",
+          "domain": "ttline.com",
+          "name": "TT-line",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tt-line/0189630e-4f4f-71df-be38-d7c5987f8c1e",
+          "trumfURL": ""
         },
         {
           "key": "domain:under-amour.com",
@@ -3051,9 +3393,9 @@
           "key": "domain:vakrevene.no",
           "domain": "vakrevene.no",
           "name": "Vakre Vene",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "5,4 % (72.9 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vakre-vene/019be5ba-a3a8-7123-9165-fc4aa24f2604",
           "trumfURL": "https://trumfnetthandel.no/cashback/vakre-vene-trumf"
         },
         {
@@ -3120,6 +3462,15 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/viking-footwear"
         },
         {
+          "key": "domain:vinlagringskompaniet.no",
+          "domain": "vinlagringskompaniet.no",
+          "name": "Vinlagringskompaniet",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:vistaprint.no",
           "domain": "vistaprint.no",
           "name": "Vistaprint",
@@ -3147,6 +3498,15 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/vivara-trumf"
         },
         {
+          "key": "domain:voltfashion.com",
+          "domain": "voltfashion.com",
+          "name": "VOLT",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/volt/019e970d-0495-7157-9e54-8ca85e468634",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:vpg.no",
           "domain": "vpg.no",
           "name": "VPG.no",
@@ -3167,10 +3527,10 @@
         {
           "key": "domain:vybuss.no",
           "domain": "vybuss.no",
-          "name": "VY Express",
-          "flight": "",
+          "name": "Vy Buss",
+          "flight": "25 poeng / 100kr",
           "trumf": "2,7 % (36.5 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vy-buss/01896311-ed1e-72a2-b624-0b81184ec29e",
           "trumfURL": "https://trumfnetthandel.no/cashback/vy-trumf"
         },
         {
@@ -3186,9 +3546,9 @@
           "key": "domain:watery.no",
           "domain": "watery.no",
           "name": "Watery",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "Opptil 9,3 % (125.6 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
           "trumfURL": "https://trumfnetthandel.no/cashback/watery-trumf"
         },
         {
@@ -3228,6 +3588,15 @@
           "trumfURL": ""
         },
         {
+          "key": "domain:xlash.com",
+          "domain": "xlash.com",
+          "name": "Xlash",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xlash/01a03912-eef1-71ec-886b-3915314acf5f",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:xn--smungene-b0a.no",
           "domain": "xn--smungene-b0a.no",
           "name": "Småungene",
@@ -3237,11 +3606,20 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/smaungene-trumf"
         },
         {
+          "key": "domain:xn--trndermobil-hgb.no",
+          "domain": "xn--trndermobil-hgb.no",
+          "name": "Trøndermobil",
+          "flight": "2000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trondermobil/019fdc53-27e8-718c-96ec-7a21ea0cc9f2",
+          "trumfURL": ""
+        },
+        {
           "key": "domain:xplora.no",
           "domain": "xplora.no",
           "name": "Xplora",
           "flight": "1000 poeng",
-          "trumf": "Opptil 195kr (2632.5 poeng)",
+          "trumf": "Opptil 195 kr (2632.5 poeng)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
           "trumfURL": "https://trumfnetthandel.no/cashback/xplora-trumf"
         },
@@ -3282,105 +3660,6 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/zooplus"
         },
         {
-          "key": "slug:a-retro-tale",
-          "domain": "",
-          "name": "A Retro Tale",
-          "flight": "30 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:aarke",
-          "domain": "",
-          "name": "Aarke",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:aktivvinterno",
-          "domain": "",
-          "name": "Aktivvinter.no",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aktivvinterno/01a16286-1d6b-7005-8fd7-a4c11e525a76",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:authentic-europe",
-          "domain": "",
-          "name": "Authentic Europe",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-europe/01a1447d-94dd-7090-a4ae-22c7b348afe1",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:authentic-scandinavia",
-          "domain": "",
-          "name": "Authentic Scandinavia",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-scandinavia/01a15438-70cb-7210-8da5-737a9df69135",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:autodeler",
-          "domain": "",
-          "name": "Autodeler",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/autodeler/01a163d8-2fe4-72a7-8c0c-ba042bc82dd0",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:babybanden",
-          "domain": "",
-          "name": "Babybanden",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/babybanden/019fb246-096a-73ea-826f-90c50a2c9402",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:bokia",
-          "domain": "",
-          "name": "Bokia",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bokia/019f4b4d-3fc9-7184-a233-bc63156570b5",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:bosch-home",
-          "domain": "",
-          "name": "Bosch Home",
-          "flight": "100 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:calstop",
-          "domain": "",
-          "name": "Calstop",
-          "flight": "1000 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/calstop/01a04336-ca3e-71d5-b2f0-057119b7ac92",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:camilla-phil",
-          "domain": "",
-          "name": "Camilla Phil",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/camilla-phil/019f4b0f-a8c1-71dc-909b-e1fbbe655a13",
-          "trumfURL": ""
-        },
-        {
           "key": "slug:charlies-hus",
           "domain": "",
           "name": "Charlies hus",
@@ -3390,633 +3669,12 @@
           "trumfURL": ""
         },
         {
-          "key": "slug:clarins",
-          "domain": "",
-          "name": "Clarins",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/clarins/01896310-8cfb-7268-9af3-ca37f496484c",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:comforth-scandinavia",
-          "domain": "",
-          "name": "Comforth Scandinavia",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/comforth-scandinavia/01896312-2b46-7190-8308-27d42e9778ca",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:fjordline",
-          "domain": "",
-          "name": "Fjordline",
-          "flight": "15 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:flowlife",
-          "domain": "",
-          "name": "Flowlife",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/flowlife/019a1174-de0b-7066-a09b-15833c2450d4",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:floyd",
-          "domain": "",
-          "name": "Floyd",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/floyd/01a06151-88c0-71f9-b828-a3dee7388d69",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:football-travel",
-          "domain": "",
-          "name": "Football Travel",
-          "flight": "15 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:fotono",
-          "domain": "",
-          "name": "Foto.no",
-          "flight": "10 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fotono/019f1dc6-1a6f-712c-9f9d-8b832b053cc4",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:framsport",
-          "domain": "",
-          "name": "Framsport",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/framsport/019df344-65af-7038-85ad-f58532b5b50a",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:go-nordic-cruiseline",
-          "domain": "",
-          "name": "Go Nordic Cruiseline",
-          "flight": "15 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:greatlife",
-          "domain": "",
-          "name": "Greatlife",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/greatlife/0189630b-10b8-708b-b9e7-cd96f178c7c2",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:guttelus",
-          "domain": "",
-          "name": "Guttelus",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/guttelus/019ea62f-5c27-71c4-b406-8227bbee4cab",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:hamphi",
-          "domain": "",
-          "name": "Hamphi",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hamphi/0199c410-ed9b-72f0-ae61-3e87d9179fc8",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:harman-kardon",
-          "domain": "",
-          "name": "Harman Kardon",
-          "flight": "15 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:hultens",
-          "domain": "",
-          "name": "Hulténs",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hultens/0189630a-c6f7-7291-8c71-3010f6b9bab2",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:husqvarna",
-          "domain": "",
-          "name": "Husqvarna",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/husqvarna/019d713b-929f-7136-98ba-83fb547332ef",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:irobot",
-          "domain": "",
-          "name": "iRobot",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/irobot/01a13f7b-f1a0-7345-8750-1411c32e7f85",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:j-lindeberg",
-          "domain": "",
-          "name": "J. Lindeberg",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/j-lindeberg/019363db-290f-7080-8385-8759d1562ff1",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:kicks",
-          "domain": "",
-          "name": "KICKS",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kicks/01932f75-1211-7244-b60c-0fe79fd03b46",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:kokkeglede",
-          "domain": "",
-          "name": "Kokkeglede",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kokkeglede/019c9e5b-4248-7122-8cf8-20e9b93bff42",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:kost1",
-          "domain": "",
-          "name": "Kost1",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kost1/019f374b-74f0-73aa-82f5-e11c748d36c2",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:lampemesteren",
-          "domain": "",
-          "name": "Lampemesteren",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:lanna-mobler",
-          "domain": "",
-          "name": "Länna Møbler",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lanna-mobler/01896312-5ad6-728c-816e-b50fd3b1f767",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:lopeshop",
-          "domain": "",
-          "name": "Løpeshop",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lopeshop/01a08fd2-1819-70b7-81f3-9f75698f9f77",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:maxulin",
-          "domain": "",
-          "name": "Maxulin",
-          "flight": "1000 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/maxulin/019662cf-bd3a-73ba-840e-37bb81369e8e",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:memira",
-          "domain": "",
-          "name": "Memira",
-          "flight": "1000 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:mulberry",
-          "domain": "",
-          "name": "Mulberry",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/mulberry/019fea7f-5064-716a-a6fc-b1c734643089",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:nelly.com",
-          "domain": "",
-          "name": "Nelly.com",
-          "flight": "30 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nelly.com/01896307-c614-73bf-be00-aed08d7bb87d",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:nespresso",
-          "domain": "",
-          "name": "Nespresso",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:new-balance",
-          "domain": "",
-          "name": "New Balance",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:nicebeauty",
-          "domain": "",
-          "name": "NiceBeauty",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nicebeauty/01896311-cd52-7367-8aae-0c4b46a3188e",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:nitecaps",
-          "domain": "",
-          "name": "NiteCaps",
-          "flight": "1500 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nitecaps/01a06254-4da1-718d-ba69-19bd7032d35c",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:nly-man",
-          "domain": "",
-          "name": "NLY Man",
-          "flight": "15 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nly-man/01896308-4663-73e3-8cc3-29f29f166566",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:nordhost",
-          "domain": "",
-          "name": "Nordhost",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordhost/019dbf16-b3c9-7016-8fbf-a877d50c1123",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:nordiska-galleriet",
-          "domain": "",
-          "name": "Nordiska Galleriet",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordiska-galleriet/01896311-818d-7114-be42-ed67319052a1",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:oakley",
-          "domain": "",
-          "name": "Oakley",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:onyx-cookware",
-          "domain": "",
-          "name": "Onyx Cookware",
-          "flight": "75 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/onyx-cookware/01a04319-8c3e-70f1-80fb-7c2cdc036ea8",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:oslo-skin-lab",
-          "domain": "",
-          "name": "Oslo Skin Lab",
-          "flight": "500 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oslo-skin-lab/0189630d-de8e-70ab-86a4-6a9fa9db16c6",
-          "trumfURL": ""
-        },
-        {
           "key": "slug:pace",
           "domain": "",
           "name": "Pace",
           "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pace/01a0afae-eb49-7379-b85b-a13ca010d7fa",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:partyking",
-          "domain": "",
-          "name": "partyking",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/partyking/019b11f5-2adc-72f3-96b1-3428a999ce72",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:pergolux",
-          "domain": "",
-          "name": "Pergolux",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:pilgrim",
-          "domain": "",
-          "name": "Pilgrim",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pilgrim/0196b513-2638-7036-83ce-676479acc9ff",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:plussmobil",
-          "domain": "",
-          "name": "PlussMobil",
-          "flight": "4000 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/plussmobil/01896310-a654-73e1-a4f7-591156fc522f",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:prydligt",
-          "domain": "",
-          "name": "Prydligt",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/prydligt/0197171b-d561-735c-8a71-68a206e1f207",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:readly",
-          "domain": "",
-          "name": "Readly",
-          "flight": "250 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/readly/019bc664-90ed-7386-a14b-4ee847a35168",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:revolution-race",
-          "domain": "",
-          "name": "Revolution Race",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/revolution-race/019a5e2b-866b-702d-b295-e28101b5ba41",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:selected",
-          "domain": "",
-          "name": "Selected",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:shark-gaming",
-          "domain": "",
-          "name": "Shark Gaming",
-          "flight": "20 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/shark-gaming/01896310-6fe5-71d2-a915-4d9f58c8d27a",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:sharkninja",
-          "domain": "",
-          "name": "SharkNinja",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sharkninja/019e4465-abe2-7069-a495-477ebb1168ba",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:siemens",
-          "domain": "",
-          "name": "Siemens Home",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:skeidar",
-          "domain": "",
-          "name": "Skeidar",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/skeidar/019cd736-905a-7300-8d5d-ae68b2a4bb95",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:sofas-more",
-          "domain": "",
-          "name": "Sofas & More",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:sportshopen",
-          "domain": "",
-          "name": "Sportshopen",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sportshopen/01896312-535c-73f5-9520-e146c104138d",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:sporttema",
-          "domain": "",
-          "name": "Sporttema",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sporttema/01896308-f18d-71b5-9064-ffc3c373972f",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:steamery",
-          "domain": "",
-          "name": "Steamery",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/steamery/01a0d331-5c4e-716e-8bb1-57f2cb9a47d7",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:steelseries",
-          "domain": "",
-          "name": "Steelseries",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/steelseries/019cdce7-2ed7-7005-8f10-66221e21be2f",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:stille",
-          "domain": "",
-          "name": "Stille",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/stille/01a0626b-0766-7033-9d44-671023ec93f5",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:suitable",
-          "domain": "",
-          "name": "Suitable",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/suitable/019eda5d-3529-7322-ad1a-5e48a90c686f",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:tempur",
-          "domain": "",
-          "name": "Tempur",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tempur/0189630a-48b2-739f-8a99-02b1c54808a4",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:trendcarpet",
-          "domain": "",
-          "name": "Trendcarpet",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:trivelia",
-          "domain": "",
-          "name": "Trivelia",
-          "flight": "1500 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trivelia/01a06263-e39a-72ab-9591-1510a9b90548",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:trondermobil",
-          "domain": "",
-          "name": "Trøndermobil",
-          "flight": "2000 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trondermobil/019fdc53-27e8-718c-96ec-7a21ea0cc9f2",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:truestory",
-          "domain": "",
-          "name": "Truestory",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/truestory/01896310-c5df-7232-a2dc-589b6cddbee7",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:tt-line",
-          "domain": "",
-          "name": "TT-line",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tt-line/0189630e-4f4f-71df-be38-d7c5987f8c1e",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:understatement",
-          "domain": "",
-          "name": "Understatement",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/understatement/019957dd-6de6-7224-a879-98343db6082c",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:vakre-vene",
-          "domain": "",
-          "name": "Vakre Vene",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vakre-vene/019be5ba-a3a8-7123-9165-fc4aa24f2604",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:vinlagringskompaniet",
-          "domain": "",
-          "name": "Vinlagringskompaniet",
-          "flight": "15 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:volt",
-          "domain": "",
-          "name": "VOLT",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/volt/019e970d-0495-7157-9e54-8ca85e468634",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:vy-buss",
-          "domain": "",
-          "name": "Vy Buss",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vy-buss/01896311-ed1e-72a2-b624-0b81184ec29e",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:watery",
-          "domain": "",
-          "name": "Watery",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:xlash",
-          "domain": "",
-          "name": "Xlash",
-          "flight": "25 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xlash/01a03912-eef1-71ec-886b-3915314acf5f",
           "trumfURL": ""
         }
       ]
@@ -8038,22 +7696,1801 @@
       "date": "2026-10-23",
       "comparedWith": "2026-10-22",
       "baseline": false,
-      "sourceAt": "2026-10-22T21:29:50.749Z",
-      "publishedAt": "2026-10-23T00:09:17.295Z",
-      "shopCount": 446,
+      "sourceAt": "2026-10-23T12:00:04.531Z",
+      "publishedAt": "2026-10-23T12:04:37.931Z",
+      "shopCount": 408,
       "added": [
         {
-          "key": "slug:autodeler",
-          "domain": "",
-          "name": "Autodeler",
+          "key": "domain:aretrotale.com",
+          "domain": "aretrotale.com",
+          "name": "A Retro Tale",
+          "flight": "30 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:aktivvinter.no",
+          "domain": "aktivvinter.no",
+          "name": "Aktivvinter.no",
           "flight": "25 poeng / 100kr",
           "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/autodeler/01a163d8-2fe4-72a7-8c0c-ba042bc82dd0",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aktivvinterno/01a16286-1d6b-7005-8fd7-a4c11e525a76",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:authentic-europe.com",
+          "domain": "authentic-europe.com",
+          "name": "Authentic Europe",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-europe/01a1447d-94dd-7090-a4ae-22c7b348afe1",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:authentic-scandinavia.com",
+          "domain": "authentic-scandinavia.com",
+          "name": "Authentic Scandinavia",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-scandinavia/01a15438-70cb-7210-8da5-737a9df69135",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:calstop.no",
+          "domain": "calstop.no",
+          "name": "Calstop",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/calstop/01a04336-ca3e-71d5-b2f0-057119b7ac92",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:camillapihl.com",
+          "domain": "camillapihl.com",
+          "name": "Camilla Phil",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/camilla-phil/019f4b0f-a8c1-71dc-909b-e1fbbe655a13",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:clarins.no",
+          "domain": "clarins.no",
+          "name": "Clarins",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/clarins/01896310-8cfb-7268-9af3-ca37f496484c",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:flowlife.com",
+          "domain": "flowlife.com",
+          "name": "Flowlife",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/flowlife/019a1174-de0b-7066-a09b-15833c2450d4",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:footballtravel.no",
+          "domain": "footballtravel.no",
+          "name": "Football Travel",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:greatlife.no",
+          "domain": "greatlife.no",
+          "name": "Greatlife",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/greatlife/0189630b-10b8-708b-b9e7-cd96f178c7c2",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:hamphi.com",
+          "domain": "hamphi.com",
+          "name": "Hamphi",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hamphi/0199c410-ed9b-72f0-ae61-3e87d9179fc8",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:irobot.no",
+          "domain": "irobot.no",
+          "name": "iRobot",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/irobot/01a13f7b-f1a0-7345-8750-1411c32e7f85",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:kokkeglede.no",
+          "domain": "kokkeglede.no",
+          "name": "Kokkeglede",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kokkeglede/019c9e5b-4248-7122-8cf8-20e9b93bff42",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:lanna.no",
+          "domain": "lanna.no",
+          "name": "Länna Møbler",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lanna-mobler/01896312-5ad6-728c-816e-b50fd3b1f767",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:maxulin.no",
+          "domain": "maxulin.no",
+          "name": "Maxulin",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/maxulin/019662cf-bd3a-73ba-840e-37bb81369e8e",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:memira.no",
+          "domain": "memira.no",
+          "name": "Memira",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:mulberry.com",
+          "domain": "mulberry.com",
+          "name": "Mulberry",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/mulberry/019fea7f-5064-716a-a6fc-b1c734643089",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:nespresso.com",
+          "domain": "nespresso.com",
+          "name": "Nespresso",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:nitecaps.no",
+          "domain": "nitecaps.no",
+          "name": "NiteCaps",
+          "flight": "1500 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nitecaps/01a06254-4da1-718d-ba69-19bd7032d35c",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:nordhost.no",
+          "domain": "nordhost.no",
+          "name": "Nordhost",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordhost/019dbf16-b3c9-7016-8fbf-a877d50c1123",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:nordiskagalleriet.no",
+          "domain": "nordiskagalleriet.no",
+          "name": "Nordiska Galleriet",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordiska-galleriet/01896311-818d-7114-be42-ed67319052a1",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:partyking.no",
+          "domain": "partyking.no",
+          "name": "partyking",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/partyking/019b11f5-2adc-72f3-96b1-3428a999ce72",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:plussmobil.no",
+          "domain": "plussmobil.no",
+          "name": "PlussMobil",
+          "flight": "4000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/plussmobil/01896310-a654-73e1-a4f7-591156fc522f",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:prydligt.com",
+          "domain": "prydligt.com",
+          "name": "Prydligt",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/prydligt/0197171b-d561-735c-8a71-68a206e1f207",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:no.readly.com",
+          "domain": "no.readly.com",
+          "name": "Readly",
+          "flight": "250 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/readly/019bc664-90ed-7386-a14b-4ee847a35168",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:revolutionrace.no",
+          "domain": "revolutionrace.no",
+          "name": "Revolution Race",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/revolution-race/019a5e2b-866b-702d-b295-e28101b5ba41",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:selected.com",
+          "domain": "selected.com",
+          "name": "Selected",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:sharkgaming.no",
+          "domain": "sharkgaming.no",
+          "name": "Shark Gaming",
+          "flight": "20 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/shark-gaming/01896310-6fe5-71d2-a915-4d9f58c8d27a",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:sportshopen.com",
+          "domain": "sportshopen.com",
+          "name": "Sportshopen",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sportshopen/01896312-535c-73f5-9520-e146c104138d",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:sporttema.no",
+          "domain": "sporttema.no",
+          "name": "Sporttema",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sporttema/01896308-f18d-71b5-9064-ffc3c373972f",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:steamerystockholm.com",
+          "domain": "steamerystockholm.com",
+          "name": "Steamery",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/steamery/01a0d331-5c4e-716e-8bb1-57f2cb9a47d7",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:steelseries.com",
+          "domain": "steelseries.com",
+          "name": "Steelseries",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/steelseries/019cdce7-2ed7-7005-8f10-66221e21be2f",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:suitableshop.no",
+          "domain": "suitableshop.no",
+          "name": "Suitable",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/suitable/019eda5d-3529-7322-ad1a-5e48a90c686f",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:trivelia.no",
+          "domain": "trivelia.no",
+          "name": "Trivelia",
+          "flight": "1500 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trivelia/01a06263-e39a-72ab-9591-1510a9b90548",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:truestory.no",
+          "domain": "truestory.no",
+          "name": "Truestory",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/truestory/01896310-c5df-7232-a2dc-589b6cddbee7",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:xn--trndermobil-hgb.no",
+          "domain": "xn--trndermobil-hgb.no",
+          "name": "Trøndermobil",
+          "flight": "2000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trondermobil/019fdc53-27e8-718c-96ec-7a21ea0cc9f2",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:ttline.com",
+          "domain": "ttline.com",
+          "name": "TT-line",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tt-line/0189630e-4f4f-71df-be38-d7c5987f8c1e",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:shopunderstatement.com",
+          "domain": "shopunderstatement.com",
+          "name": "Understatement",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/understatement/019957dd-6de6-7224-a879-98343db6082c",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:vinlagringskompaniet.no",
+          "domain": "vinlagringskompaniet.no",
+          "name": "Vinlagringskompaniet",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:voltfashion.com",
+          "domain": "voltfashion.com",
+          "name": "VOLT",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/volt/019e970d-0495-7157-9e54-8ca85e468634",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:xlash.com",
+          "domain": "xlash.com",
+          "name": "Xlash",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xlash/01a03912-eef1-71ec-886b-3915314acf5f",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:aarke.com",
+          "domain": "aarke.com",
+          "name": "Aarke",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
           "trumfURL": ""
         }
       ],
-      "removed": [],
-      "changed": []
+      "removed": [
+        {
+          "key": "slug:a-retro-tale",
+          "domain": "",
+          "name": "A Retro Tale",
+          "flight": "30 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:aktivvinterno",
+          "domain": "",
+          "name": "Aktivvinter.no",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aktivvinterno/01a16286-1d6b-7005-8fd7-a4c11e525a76",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:authentic-europe",
+          "domain": "",
+          "name": "Authentic Europe",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-europe/01a1447d-94dd-7090-a4ae-22c7b348afe1",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:authentic-scandinavia",
+          "domain": "",
+          "name": "Authentic Scandinavia",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-scandinavia/01a15438-70cb-7210-8da5-737a9df69135",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:babybanden",
+          "domain": "",
+          "name": "Babybanden",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/babybanden/019fb246-096a-73ea-826f-90c50a2c9402",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:bokia",
+          "domain": "",
+          "name": "Bokia",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bokia/019f4b4d-3fc9-7184-a233-bc63156570b5",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:bosch-home",
+          "domain": "",
+          "name": "Bosch Home",
+          "flight": "100 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:calstop",
+          "domain": "",
+          "name": "Calstop",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/calstop/01a04336-ca3e-71d5-b2f0-057119b7ac92",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:camilla-phil",
+          "domain": "",
+          "name": "Camilla Phil",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/camilla-phil/019f4b0f-a8c1-71dc-909b-e1fbbe655a13",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:clarins",
+          "domain": "",
+          "name": "Clarins",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/clarins/01896310-8cfb-7268-9af3-ca37f496484c",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:comforth-scandinavia",
+          "domain": "",
+          "name": "Comforth Scandinavia",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/comforth-scandinavia/01896312-2b46-7190-8308-27d42e9778ca",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:fjordline",
+          "domain": "",
+          "name": "Fjordline",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:flowlife",
+          "domain": "",
+          "name": "Flowlife",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/flowlife/019a1174-de0b-7066-a09b-15833c2450d4",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:floyd",
+          "domain": "",
+          "name": "Floyd",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/floyd/01a06151-88c0-71f9-b828-a3dee7388d69",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:football-travel",
+          "domain": "",
+          "name": "Football Travel",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:fotono",
+          "domain": "",
+          "name": "Foto.no",
+          "flight": "10 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fotono/019f1dc6-1a6f-712c-9f9d-8b832b053cc4",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:framsport",
+          "domain": "",
+          "name": "Framsport",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/framsport/019df344-65af-7038-85ad-f58532b5b50a",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:go-nordic-cruiseline",
+          "domain": "",
+          "name": "Go Nordic Cruiseline",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:greatlife",
+          "domain": "",
+          "name": "Greatlife",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/greatlife/0189630b-10b8-708b-b9e7-cd96f178c7c2",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:guttelus",
+          "domain": "",
+          "name": "Guttelus",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/guttelus/019ea62f-5c27-71c4-b406-8227bbee4cab",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:hamphi",
+          "domain": "",
+          "name": "Hamphi",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hamphi/0199c410-ed9b-72f0-ae61-3e87d9179fc8",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:harman-kardon",
+          "domain": "",
+          "name": "Harman Kardon",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:hultens",
+          "domain": "",
+          "name": "Hulténs",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hultens/0189630a-c6f7-7291-8c71-3010f6b9bab2",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:husqvarna",
+          "domain": "",
+          "name": "Husqvarna",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/husqvarna/019d713b-929f-7136-98ba-83fb547332ef",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:irobot",
+          "domain": "",
+          "name": "iRobot",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/irobot/01a13f7b-f1a0-7345-8750-1411c32e7f85",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:j-lindeberg",
+          "domain": "",
+          "name": "J. Lindeberg",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/j-lindeberg/019363db-290f-7080-8385-8759d1562ff1",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:kicks",
+          "domain": "",
+          "name": "KICKS",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kicks/01932f75-1211-7244-b60c-0fe79fd03b46",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:kokkeglede",
+          "domain": "",
+          "name": "Kokkeglede",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kokkeglede/019c9e5b-4248-7122-8cf8-20e9b93bff42",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:kost1",
+          "domain": "",
+          "name": "Kost1",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kost1/019f374b-74f0-73aa-82f5-e11c748d36c2",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:lampemesteren",
+          "domain": "",
+          "name": "Lampemesteren",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:lanna-mobler",
+          "domain": "",
+          "name": "Länna Møbler",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lanna-mobler/01896312-5ad6-728c-816e-b50fd3b1f767",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:lopeshop",
+          "domain": "",
+          "name": "Løpeshop",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lopeshop/01a08fd2-1819-70b7-81f3-9f75698f9f77",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:maxulin",
+          "domain": "",
+          "name": "Maxulin",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/maxulin/019662cf-bd3a-73ba-840e-37bb81369e8e",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:memira",
+          "domain": "",
+          "name": "Memira",
+          "flight": "1000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/memira/01896310-a12c-72d3-94cf-a00f63cc73ed",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:mulberry",
+          "domain": "",
+          "name": "Mulberry",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/mulberry/019fea7f-5064-716a-a6fc-b1c734643089",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:nelly.com",
+          "domain": "",
+          "name": "Nelly.com",
+          "flight": "30 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nelly.com/01896307-c614-73bf-be00-aed08d7bb87d",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:nespresso",
+          "domain": "",
+          "name": "Nespresso",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:new-balance",
+          "domain": "",
+          "name": "New Balance",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:nicebeauty",
+          "domain": "",
+          "name": "NiceBeauty",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nicebeauty/01896311-cd52-7367-8aae-0c4b46a3188e",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:nitecaps",
+          "domain": "",
+          "name": "NiteCaps",
+          "flight": "1500 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nitecaps/01a06254-4da1-718d-ba69-19bd7032d35c",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:nly-man",
+          "domain": "",
+          "name": "NLY Man",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nly-man/01896308-4663-73e3-8cc3-29f29f166566",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:nordhost",
+          "domain": "",
+          "name": "Nordhost",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordhost/019dbf16-b3c9-7016-8fbf-a877d50c1123",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:nordiska-galleriet",
+          "domain": "",
+          "name": "Nordiska Galleriet",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nordiska-galleriet/01896311-818d-7114-be42-ed67319052a1",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:oakley",
+          "domain": "",
+          "name": "Oakley",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:onyx-cookware",
+          "domain": "",
+          "name": "Onyx Cookware",
+          "flight": "75 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/onyx-cookware/01a04319-8c3e-70f1-80fb-7c2cdc036ea8",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:oslo-skin-lab",
+          "domain": "",
+          "name": "Oslo Skin Lab",
+          "flight": "500 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oslo-skin-lab/0189630d-de8e-70ab-86a4-6a9fa9db16c6",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:partyking",
+          "domain": "",
+          "name": "partyking",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/partyking/019b11f5-2adc-72f3-96b1-3428a999ce72",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:pergolux",
+          "domain": "",
+          "name": "Pergolux",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:pilgrim",
+          "domain": "",
+          "name": "Pilgrim",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pilgrim/0196b513-2638-7036-83ce-676479acc9ff",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:plussmobil",
+          "domain": "",
+          "name": "PlussMobil",
+          "flight": "4000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/plussmobil/01896310-a654-73e1-a4f7-591156fc522f",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:prydligt",
+          "domain": "",
+          "name": "Prydligt",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/prydligt/0197171b-d561-735c-8a71-68a206e1f207",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:readly",
+          "domain": "",
+          "name": "Readly",
+          "flight": "250 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/readly/019bc664-90ed-7386-a14b-4ee847a35168",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:revolution-race",
+          "domain": "",
+          "name": "Revolution Race",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/revolution-race/019a5e2b-866b-702d-b295-e28101b5ba41",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:selected",
+          "domain": "",
+          "name": "Selected",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:shark-gaming",
+          "domain": "",
+          "name": "Shark Gaming",
+          "flight": "20 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/shark-gaming/01896310-6fe5-71d2-a915-4d9f58c8d27a",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:sharkninja",
+          "domain": "",
+          "name": "SharkNinja",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sharkninja/019e4465-abe2-7069-a495-477ebb1168ba",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:siemens",
+          "domain": "",
+          "name": "Siemens Home",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:skeidar",
+          "domain": "",
+          "name": "Skeidar",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/skeidar/019cd736-905a-7300-8d5d-ae68b2a4bb95",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:sofas-more",
+          "domain": "",
+          "name": "Sofas & More",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:sportshopen",
+          "domain": "",
+          "name": "Sportshopen",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sportshopen/01896312-535c-73f5-9520-e146c104138d",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:sporttema",
+          "domain": "",
+          "name": "Sporttema",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sporttema/01896308-f18d-71b5-9064-ffc3c373972f",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:steamery",
+          "domain": "",
+          "name": "Steamery",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/steamery/01a0d331-5c4e-716e-8bb1-57f2cb9a47d7",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:steelseries",
+          "domain": "",
+          "name": "Steelseries",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/steelseries/019cdce7-2ed7-7005-8f10-66221e21be2f",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:stille",
+          "domain": "",
+          "name": "Stille",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/stille/01a0626b-0766-7033-9d44-671023ec93f5",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:suitable",
+          "domain": "",
+          "name": "Suitable",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/suitable/019eda5d-3529-7322-ad1a-5e48a90c686f",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:tempur",
+          "domain": "",
+          "name": "Tempur",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tempur/0189630a-48b2-739f-8a99-02b1c54808a4",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:trendcarpet",
+          "domain": "",
+          "name": "Trendcarpet",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:trivelia",
+          "domain": "",
+          "name": "Trivelia",
+          "flight": "1500 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trivelia/01a06263-e39a-72ab-9591-1510a9b90548",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:truestory",
+          "domain": "",
+          "name": "Truestory",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/truestory/01896310-c5df-7232-a2dc-589b6cddbee7",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:trondermobil",
+          "domain": "",
+          "name": "Trøndermobil",
+          "flight": "2000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trondermobil/019fdc53-27e8-718c-96ec-7a21ea0cc9f2",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:tt-line",
+          "domain": "",
+          "name": "TT-line",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tt-line/0189630e-4f4f-71df-be38-d7c5987f8c1e",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:understatement",
+          "domain": "",
+          "name": "Understatement",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/understatement/019957dd-6de6-7224-a879-98343db6082c",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:vakre-vene",
+          "domain": "",
+          "name": "Vakre Vene",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vakre-vene/019be5ba-a3a8-7123-9165-fc4aa24f2604",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:vinlagringskompaniet",
+          "domain": "",
+          "name": "Vinlagringskompaniet",
+          "flight": "15 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:volt",
+          "domain": "",
+          "name": "VOLT",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/volt/019e970d-0495-7157-9e54-8ca85e468634",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:vy-buss",
+          "domain": "",
+          "name": "Vy Buss",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vy-buss/01896311-ed1e-72a2-b624-0b81184ec29e",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:watery",
+          "domain": "",
+          "name": "Watery",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:xlash",
+          "domain": "",
+          "name": "Xlash",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xlash/01a03912-eef1-71ec-886b-3915314acf5f",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:aarke",
+          "domain": "",
+          "name": "Aarke",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
+          "trumfURL": ""
+        }
+      ],
+      "changed": [
+        {
+          "key": "domain:autodeler.co.no",
+          "domain": "autodeler.co.no",
+          "name": "Autodeler",
+          "flight": "25 poeng / 100kr",
+          "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/autodeler/01a163d8-2fe4-72a7-8c0c-ba042bc82dd0",
+          "trumfURL": "https://trumfnetthandel.no/cashback/autodeler-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/autodeler/01a163d8-2fe4-72a7-8c0c-ba042bc82dd0"
+            }
+          ]
+        },
+        {
+          "key": "domain:babybanden.no",
+          "domain": "babybanden.no",
+          "name": "Babybanden",
+          "flight": "25 poeng / 100kr",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/babybanden/019fb246-096a-73ea-826f-90c50a2c9402",
+          "trumfURL": "https://trumfnetthandel.no/cashback/babybanden-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/babybanden/019fb246-096a-73ea-826f-90c50a2c9402"
+            }
+          ]
+        },
+        {
+          "key": "domain:bokia.no",
+          "domain": "bokia.no",
+          "name": "Bokia",
+          "flight": "50 poeng / 100kr",
+          "trumf": "11,7 % (157.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bokia/019f4b4d-3fc9-7184-a233-bc63156570b5",
+          "trumfURL": "https://trumfnetthandel.no/cashback/bokia-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/bokia/019f4b4d-3fc9-7184-a233-bc63156570b5"
+            }
+          ]
+        },
+        {
+          "key": "domain:bosch-home.no",
+          "domain": "bosch-home.no",
+          "name": "Bosch Home",
+          "flight": "100 poeng / 100kr",
+          "trumf": "9,3 % (125.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
+          "trumfURL": "https://trumfnetthandel.no/cashback/bosch-trumf1",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "100 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068"
+            }
+          ]
+        },
+        {
+          "key": "domain:comforth.no",
+          "domain": "comforth.no",
+          "name": "Comforth Scandinavia",
+          "flight": "50 poeng / 100kr",
+          "trumf": "17,1 % (230.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/comforth-scandinavia/01896312-2b46-7190-8308-27d42e9778ca",
+          "trumfURL": "https://trumfnetthandel.no/cashback/comforth-scandinavia-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/comforth-scandinavia/01896312-2b46-7190-8308-27d42e9778ca"
+            }
+          ]
+        },
+        {
+          "key": "domain:dyson.no",
+          "domain": "dyson.no",
+          "name": "Dyson",
+          "flight": "15 poeng / 100kr",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/dyson/01896310-bb05-734c-87c7-a0d8eadfe399",
+          "trumfURL": "https://trumfnetthandel.no/cashback/dyson-trumf",
+          "offers": [
+            {
+              "provider": "trumf",
+              "before": "4,6 % (62.1 poeng / 100kr)",
+              "after": "3,1 % (41.9 poeng / 100kr)",
+              "url": "https://trumfnetthandel.no/cashback/dyson-trumf"
+            }
+          ]
+        },
+        {
+          "key": "domain:fjordline.com",
+          "domain": "fjordline.com",
+          "name": "Fjordline",
+          "flight": "15 poeng / 100kr",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1",
+          "trumfURL": "https://trumfnetthandel.no/cashback/fjord-line-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "15 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1"
+            }
+          ]
+        },
+        {
+          "key": "domain:floyd.no",
+          "domain": "floyd.no",
+          "name": "Floyd",
+          "flight": "25 poeng / 100kr",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/floyd/01a06151-88c0-71f9-b828-a3dee7388d69",
+          "trumfURL": "https://trumfnetthandel.no/cashback/floyd-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/floyd/01a06151-88c0-71f9-b828-a3dee7388d69"
+            }
+          ]
+        },
+        {
+          "key": "domain:foto.no",
+          "domain": "foto.no",
+          "name": "Foto.no",
+          "flight": "10 poeng / 100kr",
+          "trumf": "Opptil 4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fotono/019f1dc6-1a6f-712c-9f9d-8b832b053cc4",
+          "trumfURL": "https://trumfnetthandel.no/cashback/fotono-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "10 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/fotono/019f1dc6-1a6f-712c-9f9d-8b832b053cc4"
+            }
+          ]
+        },
+        {
+          "key": "domain:framsport.no",
+          "domain": "framsport.no",
+          "name": "Framsport",
+          "flight": "25 poeng / 100kr",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/framsport/019df344-65af-7038-85ad-f58532b5b50a",
+          "trumfURL": "https://trumfnetthandel.no/cashback/framsport-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/framsport/019df344-65af-7038-85ad-f58532b5b50a"
+            }
+          ]
+        },
+        {
+          "key": "domain:gonordiccruiseline.no",
+          "domain": "gonordiccruiseline.no",
+          "name": "Go Nordic Cruiseline",
+          "flight": "15 poeng / 100kr",
+          "trumf": "3,7 % (50.0 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b",
+          "trumfURL": "https://trumfnetthandel.no/cashback/go-nordic-cruiseline-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "15 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b"
+            }
+          ]
+        },
+        {
+          "key": "domain:guttelus.no",
+          "domain": "guttelus.no",
+          "name": "Guttelus",
+          "flight": "25 poeng / 100kr",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/guttelus/019ea62f-5c27-71c4-b406-8227bbee4cab",
+          "trumfURL": "https://trumfnetthandel.no/cashback/guttelus-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/guttelus/019ea62f-5c27-71c4-b406-8227bbee4cab"
+            }
+          ]
+        },
+        {
+          "key": "domain:no.harmankardon.com",
+          "domain": "no.harmankardon.com",
+          "name": "Harman Kardon",
+          "flight": "15 poeng / 100kr",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
+          "trumfURL": "https://trumfnetthandel.no/cashback/harman-kardon-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "15 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c"
+            }
+          ]
+        },
+        {
+          "key": "domain:homeroom.no",
+          "domain": "homeroom.no",
+          "name": "Homeroom",
+          "flight": "15 poeng / 100kr",
+          "trumf": "Opptil 3,9 % (52.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/homeroom/0189630c-993e-7061-bb1a-d41d2272a9bf",
+          "trumfURL": "https://trumfnetthandel.no/cashback/homeroom-trumf",
+          "offers": [
+            {
+              "provider": "trumf",
+              "before": "Opptil 5,4 % (72.9 poeng / 100kr)",
+              "after": "Opptil 3,9 % (52.6 poeng / 100kr)",
+              "url": "https://trumfnetthandel.no/cashback/homeroom-trumf"
+            }
+          ]
+        },
+        {
+          "key": "domain:hultens.no",
+          "domain": "hultens.no",
+          "name": "Hulténs",
+          "flight": "25 poeng / 100kr",
+          "trumf": "3,9 % (52.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/hultens/0189630a-c6f7-7291-8c71-3010f6b9bab2",
+          "trumfURL": "https://trumfnetthandel.no/cashback/hultens-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/hultens/0189630a-c6f7-7291-8c71-3010f6b9bab2"
+            }
+          ]
+        },
+        {
+          "key": "domain:husqvarna.com",
+          "domain": "husqvarna.com",
+          "name": "Husqvarna",
+          "flight": "25 poeng / 100kr",
+          "trumf": "3,9 % (52.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/husqvarna/019d713b-929f-7136-98ba-83fb547332ef",
+          "trumfURL": "https://trumfnetthandel.no/cashback/husqvarna-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/husqvarna/019d713b-929f-7136-98ba-83fb547332ef"
+            }
+          ]
+        },
+        {
+          "key": "domain:jlindeberg.com",
+          "domain": "jlindeberg.com",
+          "name": "J. Lindeberg",
+          "flight": "25 poeng / 100kr",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/j-lindeberg/019363db-290f-7080-8385-8759d1562ff1",
+          "trumfURL": "https://trumfnetthandel.no/cashback/jlindeberg-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/j-lindeberg/019363db-290f-7080-8385-8759d1562ff1"
+            }
+          ]
+        },
+        {
+          "key": "domain:kicks.no",
+          "domain": "kicks.no",
+          "name": "KICKS",
+          "flight": "50 poeng / 100kr",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kicks/01932f75-1211-7244-b60c-0fe79fd03b46",
+          "trumfURL": "https://trumfnetthandel.no/cashback/kicks-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/kicks/01932f75-1211-7244-b60c-0fe79fd03b46"
+            }
+          ]
+        },
+        {
+          "key": "domain:kost1.no",
+          "domain": "kost1.no",
+          "name": "Kost1",
+          "flight": "25 poeng / 100kr",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kost1/019f374b-74f0-73aa-82f5-e11c748d36c2",
+          "trumfURL": "https://trumfnetthandel.no/cashback/kost1-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/kost1/019f374b-74f0-73aa-82f5-e11c748d36c2"
+            }
+          ]
+        },
+        {
+          "key": "domain:lampemesteren.no",
+          "domain": "lampemesteren.no",
+          "name": "Lampemesteren",
+          "flight": "25 poeng / 100kr",
+          "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
+          "trumfURL": "https://trumfnetthandel.no/cashback/lampemesteren-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e"
+            }
+          ]
+        },
+        {
+          "key": "domain:loepeshop.no",
+          "domain": "loepeshop.no",
+          "name": "Løpeshop",
+          "flight": "25 poeng / 100kr",
+          "trumf": "2,3 % (31.0 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lopeshop/01a08fd2-1819-70b7-81f3-9f75698f9f77",
+          "trumfURL": "https://trumfnetthandel.no/cashback/lopeshop-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/lopeshop/01a08fd2-1819-70b7-81f3-9f75698f9f77"
+            }
+          ]
+        },
+        {
+          "key": "domain:miinto.no",
+          "domain": "miinto.no",
+          "name": "Miinto",
+          "flight": "50 poeng / 100kr",
+          "trumf": "10,1 % (136.3 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/miinto/01896308-a975-7164-aa9c-41b2ec9d89e2",
+          "trumfURL": "https://trumfnetthandel.no/cashback/trumfsmiinto",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/miinto/01896308-a975-7164-aa9c-41b2ec9d89e2"
+            }
+          ]
+        },
+        {
+          "key": "domain:nelly.com",
+          "domain": "nelly.com",
+          "name": "Nelly.com",
+          "flight": "30 poeng / 100kr",
+          "trumf": "2,3 % (31.0 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nelly.com/01896307-c614-73bf-be00-aed08d7bb87d",
+          "trumfURL": "https://trumfnetthandel.no/cashback/trumfnelly-no",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "30 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/nelly.com/01896307-c614-73bf-be00-aed08d7bb87d"
+            }
+          ]
+        },
+        {
+          "key": "domain:newbalance.no",
+          "domain": "newbalance.no",
+          "name": "New Balance",
+          "flight": "25 poeng / 100kr",
+          "trumf": "3,9 % (52.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874",
+          "trumfURL": "https://trumfnetthandel.no/cashback/new-balance-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874"
+            }
+          ]
+        },
+        {
+          "key": "domain:nicebeauty.com",
+          "domain": "nicebeauty.com",
+          "name": "NiceBeauty",
+          "flight": "25 poeng / 100kr",
+          "trumf": "5,4 % (72.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nicebeauty/01896311-cd52-7367-8aae-0c4b46a3188e",
+          "trumfURL": "https://trumfnetthandel.no/cashback/nicebeauty-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/nicebeauty/01896311-cd52-7367-8aae-0c4b46a3188e"
+            }
+          ]
+        },
+        {
+          "key": "domain:nlyman.com",
+          "domain": "nlyman.com",
+          "name": "NLY Man",
+          "flight": "15 poeng / 100kr",
+          "trumf": "2,3 % (31.0 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nly-man/01896308-4663-73e3-8cc3-29f29f166566",
+          "trumfURL": "https://trumfnetthandel.no/cashback/trumfnly-man",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "15 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/nly-man/01896308-4663-73e3-8cc3-29f29f166566"
+            }
+          ]
+        },
+        {
+          "key": "domain:no.oakley.com",
+          "domain": "no.oakley.com",
+          "name": "Oakley",
+          "flight": "25 poeng / 100kr",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
+          "trumfURL": "https://trumfnetthandel.no/cashback/oakley-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28"
+            }
+          ]
+        },
+        {
+          "key": "domain:onyxcookware.no",
+          "domain": "onyxcookware.no",
+          "name": "Onyx Cookware",
+          "flight": "75 poeng / 100kr",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/onyx-cookware/01a04319-8c3e-70f1-80fb-7c2cdc036ea8",
+          "trumfURL": "https://trumfnetthandel.no/cashback/onyx-cookware-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "75 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/onyx-cookware/01a04319-8c3e-70f1-80fb-7c2cdc036ea8"
+            }
+          ]
+        },
+        {
+          "key": "domain:osloskinlab.no",
+          "domain": "osloskinlab.no",
+          "name": "Oslo Skin Lab",
+          "flight": "500 poeng",
+          "trumf": "5,4 % (72.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oslo-skin-lab/0189630d-de8e-70ab-86a4-6a9fa9db16c6",
+          "trumfURL": "https://trumfnetthandel.no/cashback/oslo-skin-lab",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "500 poeng",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/oslo-skin-lab/0189630d-de8e-70ab-86a4-6a9fa9db16c6"
+            }
+          ]
+        },
+        {
+          "key": "domain:pergolux.no",
+          "domain": "pergolux.no",
+          "name": "Pergolux",
+          "flight": "25 poeng / 100kr",
+          "trumf": "2,3 % (31.0 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb",
+          "trumfURL": "https://trumfnetthandel.no/cashback/pergolux-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb"
+            }
+          ]
+        },
+        {
+          "key": "domain:pilgrim.net",
+          "domain": "pilgrim.net",
+          "name": "Pilgrim",
+          "flight": "25 poeng / 100kr",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pilgrim/0196b513-2638-7036-83ce-676479acc9ff",
+          "trumfURL": "https://trumfnetthandel.no/cashback/pilgrim-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/pilgrim/0196b513-2638-7036-83ce-676479acc9ff"
+            }
+          ]
+        },
+        {
+          "key": "domain:sharkninja.no",
+          "domain": "sharkninja.no",
+          "name": "SharkNinja",
+          "flight": "25 poeng / 100kr",
+          "trumf": "3,9 % (52.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sharkninja/019e4465-abe2-7069-a495-477ebb1168ba",
+          "trumfURL": "https://trumfnetthandel.no/cashback/sharkninja-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/sharkninja/019e4465-abe2-7069-a495-477ebb1168ba"
+            }
+          ]
+        },
+        {
+          "key": "domain:siemens-home.bsh-group.com",
+          "domain": "siemens-home.bsh-group.com",
+          "name": "Siemens Home",
+          "flight": "25 poeng / 100kr",
+          "trumf": "11,7 % (157.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
+          "trumfURL": "https://trumfnetthandel.no/cashback/siemens-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab"
+            }
+          ]
+        },
+        {
+          "key": "domain:skeidar.no",
+          "domain": "skeidar.no",
+          "name": "Skeidar",
+          "flight": "25 poeng / 100kr",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/skeidar/019cd736-905a-7300-8d5d-ae68b2a4bb95",
+          "trumfURL": "https://trumfnetthandel.no/cashback/skeidar-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/skeidar/019cd736-905a-7300-8d5d-ae68b2a4bb95"
+            }
+          ]
+        },
+        {
+          "key": "domain:sofasandmore.no",
+          "domain": "sofasandmore.no",
+          "name": "Sofas & More",
+          "flight": "25 poeng / 100kr",
+          "trumf": "10,9% (147.2 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09",
+          "trumfURL": "https://trumfnetthandel.no/cashback/sofas-and-more-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09"
+            }
+          ]
+        },
+        {
+          "key": "domain:stille.no",
+          "domain": "stille.no",
+          "name": "Stille",
+          "flight": "50 poeng / 100kr",
+          "trumf": "9,3 % (125.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/stille/01a0626b-0766-7033-9d44-671023ec93f5",
+          "trumfURL": "https://trumfnetthandel.no/cashback/stille-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/stille/01a0626b-0766-7033-9d44-671023ec93f5"
+            }
+          ]
+        },
+        {
+          "key": "domain:no.tempur.com",
+          "domain": "no.tempur.com",
+          "name": "Tempur",
+          "flight": "25 poeng / 100kr",
+          "trumf": "Opptil 7,8 % (105.3 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tempur/0189630a-48b2-739f-8a99-02b1c54808a4",
+          "trumfURL": "https://trumfnetthandel.no/cashback/tempur-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/tempur/0189630a-48b2-739f-8a99-02b1c54808a4"
+            }
+          ]
+        },
+        {
+          "key": "domain:trendcarpet.no",
+          "domain": "trendcarpet.no",
+          "name": "Trendcarpet",
+          "flight": "25 poeng / 100kr",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
+          "trumfURL": "https://trumfnetthandel.no/cashback/trendcarpet-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f"
+            }
+          ]
+        },
+        {
+          "key": "domain:vakrevene.no",
+          "domain": "vakrevene.no",
+          "name": "Vakre Vene",
+          "flight": "25 poeng / 100kr",
+          "trumf": "5,4 % (72.9 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vakre-vene/019be5ba-a3a8-7123-9165-fc4aa24f2604",
+          "trumfURL": "https://trumfnetthandel.no/cashback/vakre-vene-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/vakre-vene/019be5ba-a3a8-7123-9165-fc4aa24f2604"
+            }
+          ]
+        },
+        {
+          "key": "domain:vybuss.no",
+          "domain": "vybuss.no",
+          "name": "Vy Buss",
+          "flight": "25 poeng / 100kr",
+          "trumf": "2,7 % (36.5 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vy-buss/01896311-ed1e-72a2-b624-0b81184ec29e",
+          "trumfURL": "https://trumfnetthandel.no/cashback/vy-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/vy-buss/01896311-ed1e-72a2-b624-0b81184ec29e"
+            }
+          ]
+        },
+        {
+          "key": "domain:watery.no",
+          "domain": "watery.no",
+          "name": "Watery",
+          "flight": "25 poeng / 100kr",
+          "trumf": "Opptil 9,3 % (125.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
+          "trumfURL": "https://trumfnetthandel.no/cashback/watery-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-10-22",
