@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:20:18.980Z",
+  "generated_at": "2026-10-24T04:28:39.978Z",
   "shops": [
     {
       "domain": "",
@@ -305,7 +305,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/barbershop.no/0189630b-f3fb-73c9-b1ca-bb8ea16bb6c9",
       "trumfurl": "https://trumfnetthandel.no/cashback/barbershop-trumf",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "1,9% (25.6 poeng / 100kr)"
+      "trumfbonus": "1,9 % (25.6 poeng / 100kr)"
     },
     {
       "domain": "batteriexperten.com",
@@ -881,7 +881,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/engrospris-trumf",
       "sasbonus": "",
-      "trumfbonus": "Opptil 15,6 % (210.6 poeng / 100kr)"
+      "trumfbonus": "Opptil 15,6% (210.6 poeng / 100kr)"
     },
     {
       "domain": "estore.nu",
@@ -2951,7 +2951,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sofas-more/019acabe-1ceb-72e7-88b5-ef434d15ce09",
       "trumfurl": "https://trumfnetthandel.no/cashback/sofas-and-more-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "10,9% (147.2 poeng / 100kr)"
+      "trumfbonus": "10,9 % (147.2 poeng / 100kr)"
     },
     {
       "domain": "soma.no",
