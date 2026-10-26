@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:50:31.300Z",
+  "generated_at": "2026-10-26T22:36:15.451Z",
   "shops": [
     {
       "domain": "",
@@ -2797,7 +2797,7 @@
       "name": "SharkNinja",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/sharkninja/019e4465-abe2-7069-a495-477ebb1168ba",
       "trumfurl": "https://trumfnetthandel.no/cashback/sharkninja-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
     },
     {
@@ -3121,7 +3121,7 @@
       "name": "Stormberg",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/stormberg/01896308-9574-7200-98c1-2eb995cc8de0",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -3675,11 +3675,11 @@
     },
     {
       "domain": "zooplus.no",
-      "slug": "",
+      "slug": "zooplus",
       "name": "Zooplus",
-      "sasurl": "",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/zooplus/01896311-78a2-734c-aec3-9f2c9fdb7339",
       "trumfurl": "https://trumfnetthandel.no/cashback/zooplus",
-      "sasbonus": "",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": "Opptil 6,2 % (83.7 poeng / 100kr)"
     }
   ]
