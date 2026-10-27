@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:36:15.451Z",
+  "generated_at": "2026-10-27T04:55:51.893Z",
   "shops": [
     {
       "domain": "",
@@ -224,7 +224,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/babybanden/019fb246-096a-73ea-826f-90c50a2c9402",
       "trumfurl": "https://trumfnetthandel.no/cashback/babybanden-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "babyshop.com",
@@ -908,7 +908,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/puma-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
       "domain": "eu.swims.com",
