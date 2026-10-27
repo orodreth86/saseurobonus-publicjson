@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-10-27T12:01:41.874Z",
+  "generated_at": "2026-10-27T17:55:47.081Z",
   "shops": [
+    {
+      "domain": "",
+      "slug": "",
+      "name": "SillySanta",
+      "sasurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/sillysanta-trumf",
+      "sasbonus": "",
+      "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
+    },
     {
       "domain": "",
       "slug": "charlies-hus",
@@ -2852,15 +2861,6 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
       "trumfurl": "https://trumfnetthandel.no/cashback/siemens-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
-    },
-    {
-      "domain": "sillysanta.no",
-      "slug": "",
-      "name": "SillySanta",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/sillysanta-trumf",
-      "sasbonus": "",
       "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
     },
     {
