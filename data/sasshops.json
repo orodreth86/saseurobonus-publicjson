@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:07:34.056Z",
+  "generated_at": "2026-10-28T05:30:48.051Z",
   "shops": [
     {
       "domain": "",
@@ -791,7 +791,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/e-wheels-2/01896310-1e04-7083-b83b-6a19deed1cf1",
       "trumfurl": "https://trumfnetthandel.no/cashback/e-wheels-trumf",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "ebay.com",
@@ -1367,7 +1367,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/holidu-trumf",
       "sasbonus": "",
-      "trumfbonus": "5 % (67.5 poeng / 100kr)"
+      "trumfbonus": "5% (67.5 poeng / 100kr)"
     },
     {
       "domain": "holzweiler.no",
@@ -2150,7 +2150,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874",
       "trumfurl": "https://trumfnetthandel.no/cashback/new-balance-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "newchic.com",
