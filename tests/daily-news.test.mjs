@@ -76,3 +76,24 @@ test('highlights rank increases by relative growth, skipping decreases and zero 
  assert.deepEqual(top.map(o=>o.name),['Triple','Double']);
  assert.equal(top[0].growth,2);
 });
+
+test('private changelog import preserves timestamps, filters formatting, and joins explicit domains',async()=>{
+ const {importChangelog,buildShopIndex}=await import('../scripts/shop-history.mjs');
+ const text='## 2025-09-01T12:00:00.000Z\n### Added\n- **computersalg** (Computersalg) — bonus: `10 points/100kr`, url: https://example.com\n## 2026-10-20T12:00:00.000Z\n### Changed\n- **computersalg** (CS Megastore): **domain**: `∅` → `csmegastore.no`; **sasbonus**: `10 poeng / 100kr` → `20 poeng / 100kr`\n- **@csmegastore.no** (CS Megastore): **trumfbonus**: `1,5% (20.3 poeng / 100kr)` → `1,5 % (20.3 poeng / 100kr)`';
+ const seed=importChangelog(text);assert.equal(seed.events.length,2);assert.equal(seed.report.ignoredFormatting,1);assert.equal(seed.events[0].at,'2025-09-01T12:00:00.000Z');
+ const current={generated_at:'2026-10-21T12:00:00Z',shops:[{name:'CS Megastore',slug:'computersalg',domain:'csmegastore.no',sasbonus:'20 poeng / 100kr'}]};
+ const e={date:'2026-10-20',publishedAt:'2026-10-20T21:45:00Z',added:[],changed:[{key:'domain:csmegastore.no',name:'CS Megastore',offers:[{provider:'flight',before:'10 poeng / 100kr',after:'20 poeng / 100kr'}]}]};
+ const index=buildShopIndex(seed,{editions:[e]},current);
+ assert.equal(index.shops.length,1);assert.equal(index.shops[0].events.length,2);assert.equal(index.shops[0].current.flight,'20 poeng / 100kr');assert(index.shops[0].aliases.includes('Computersalg'));
+ // Another intraday change must survive, even if the daily summary has the same ending value.
+ const seed2=importChangelog(text+'\n## 2026-10-20T14:00:00.000Z\n### Changed\n- **computersalg** (CS Megastore): **sasbonus**: `20 poeng / 100kr` → `30 poeng / 100kr`');
+ assert.equal(buildShopIndex(seed2,{editions:[]},current).shops[0].events.length,3);
+});
+test('search page is generated with data and navigation',async()=>{
+ const out=await fs.mkdtemp(path.join(os.tmpdir(),'shop-search-test-'));
+ const h=updateHistory(null,feed(at('20')),at('20'));await renderSite(h,out,'https://example.com/');
+ const page=await fs.readFile(path.join(out,'shops.html'),'utf8');assert(page.includes('Search shop changes'));assert(page.includes('shop-search.js'));
+ const index=JSON.parse(await fs.readFile(path.join(out,'shop-history.json'),'utf8'));assert(index.shops.find(s=>s.domain==='lego.com'&&s.current));
+ assert((await fs.readFile(path.join(out,'index.html'),'utf8')).includes('shops.html'));
+ await fs.rm(out,{recursive:true});
+});
