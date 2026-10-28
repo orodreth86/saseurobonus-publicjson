@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-10-28",
-      "sourceAt": "2026-10-27T22:07:34.056Z",
+      "sourceAt": "2026-10-28T05:30:48.051Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -766,7 +766,7 @@
           "domain": "e-wheels.no",
           "name": "E-Wheels",
           "flight": "15 poeng / 100kr",
-          "trumf": "2,3 % (31.0 poeng / 100kr)",
+          "trumf": "2,3% (31.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/e-wheels-2/01896310-1e04-7083-b83b-6a19deed1cf1",
           "trumfURL": "https://trumfnetthandel.no/cashback/e-wheels-trumf"
         },
@@ -1342,7 +1342,7 @@
           "domain": "holidu.no",
           "name": "Holidu",
           "flight": "",
-          "trumf": "5 % (67.5 poeng / 100kr)",
+          "trumf": "5% (67.5 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/holidu-trumf"
         },
@@ -2125,7 +2125,7 @@
           "domain": "newbalance.no",
           "name": "New Balance",
           "flight": "25 poeng / 100kr",
-          "trumf": "3,9 % (52.6 poeng / 100kr)",
+          "trumf": "3,9% (52.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874",
           "trumfURL": "https://trumfnetthandel.no/cashback/new-balance-trumf"
         },
@@ -7381,8 +7381,8 @@
       "date": "2026-10-28",
       "comparedWith": "2026-10-27",
       "baseline": false,
-      "sourceAt": "2026-10-27T22:07:34.056Z",
-      "publishedAt": "2026-10-28T00:44:13.215Z",
+      "sourceAt": "2026-10-28T05:30:48.051Z",
+      "publishedAt": "2026-10-28T07:02:18.624Z",
       "shopCount": 409,
       "added": [
         {
