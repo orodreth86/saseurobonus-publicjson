@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import {canonical,compare,normalize,updateHistory,renderSite,dayInOslo} from '../scripts/build-daily-news.mjs';
+import {canonical,compare,normalize,updateHistory,renderSite,dayInOslo,rewardDirection} from '../scripts/build-daily-news.mjs';
 const at = day => new Date(`2026-10-${day}T20:00:00Z`);
 const shop=(overrides={})=>({name:'LEGO',domain:'lego.com',slug:'lego',sasbonus:'25 poeng / 100kr',trumfbonus:'1,5 % (20.3 poeng / 100kr)',sasurl:'https://example.com/lego',trumfurl:'https://example.com/trumf',...overrides});
 const feed=(date,shops=[shop()])=>({generated_at:date.toISOString(),shops});
@@ -42,16 +42,25 @@ test('Oslo date boundaries and missing-day comparison',()=>{
  let h=updateHistory(null,feed(at('20')),at('20'));h=updateHistory(h,feed(at('23')),at('23'));
  assert.equal(h.editions[0].comparedWith,'2026-10-20');
 });
-test('HTML escaping, RSS stable GUIDs, archive and quiet-day RSS suppression',async()=>{
+test('HTML escaping, direct shop links, timeline, archive and RSS removal',async()=>{
  const out=await fs.mkdtemp(path.join(os.tmpdir(),'bonus-news-test-'));
  let h=updateHistory(null,feed(at('20')),at('20'));
  h=updateHistory(h,feed(at('21'),[shop({name:'<script>&Shop',sasbonus:'50 poeng',sasurl:'javascript:alert(1)'})]),at('21'));
  h=updateHistory(h,feed(at('22'),[shop({name:'<script>&Shop',sasbonus:'50 poeng',sasurl:'javascript:alert(1)'})]),at('22'));
+ await fs.writeFile(path.join(out,'rss.xml'),'old feed');
  await renderSite(h,out,'https://example.com/news/');
- const html=await fs.readFile(path.join(out,'days/2026-10-21.html'),'utf8'),rss=await fs.readFile(path.join(out,'rss.xml'),'utf8');
+ const html=await fs.readFile(path.join(out,'days/2026-10-21.html'),'utf8');
  assert(html.includes('&lt;script&gt;&amp;Shop'));assert(!html.includes('javascript:'));assert(!html.includes('<script>'));
- assert.equal((rss.match(/<item>/g)||[]).length,1);assert(rss.includes('<guid isPermaLink="true">https://example.com/news/days/2026-10-21.html</guid>'));
+ await assert.rejects(fs.access(path.join(out,'rss.xml')));
+ assert(html.includes('href="https://lego.com/"'));
  assert((await fs.readFile(path.join(out,'index.html'),'utf8')).includes('No bonus or shop changes'));
  assert((await fs.readFile(path.join(out,'archive.html'),'utf8')).includes('2026-10-20'));
  await fs.rm(out,{recursive:true});
+});
+
+test('arrows only compare like-for-like rewards',()=>{
+ assert.equal(rewardDirection('25 poeng / 100kr','50 poeng / 100kr','flight'),1);
+ assert.equal(rewardDirection('6,2 % (83.7 poeng / 100kr)','3,1 % (41.9 poeng / 100kr)','trumf'),-1);
+ assert.equal(rewardDirection('Opptil 5%','Opptil 10%','trumf'),1);
+ for(const [a,b] of [['10%','100kr'],['','10%'],['10-20%','30%'],['Opptil 10%','5%'],['20 poeng','30 poeng / 100kr']]) assert.equal(rewardDirection(a,b,'trumf'),0);
 });
