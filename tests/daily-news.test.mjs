@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import {canonical,compare,normalize,updateHistory,renderSite,dayInOslo,rewardDirection} from '../scripts/build-daily-news.mjs';
+import {canonical,compare,normalize,updateHistory,renderSite,dayInOslo,rewardDirection,topIncreases} from '../scripts/build-daily-news.mjs';
 const at = day => new Date(`2026-10-${day}T20:00:00Z`);
 const shop=(overrides={})=>({name:'LEGO',domain:'lego.com',slug:'lego',sasbonus:'25 poeng / 100kr',trumfbonus:'1,5 % (20.3 poeng / 100kr)',sasurl:'https://example.com/lego',trumfurl:'https://example.com/trumf',...overrides});
 const feed=(date,shops=[shop()])=>({generated_at:date.toISOString(),shops});
@@ -53,6 +53,11 @@ test('HTML escaping, direct shop links, timeline, archive and RSS removal',async
  assert(html.includes('&lt;script&gt;&amp;Shop'));assert(!html.includes('javascript:'));assert(!html.includes('<script>'));
  await assert.rejects(fs.access(path.join(out,'rss.xml')));
  assert(html.includes('href="https://lego.com/"'));
+ const front=await fs.readFile(path.join(out,'index.html'),'utf8');
+ assert(!front.includes('Link to this day'));
+ assert(!front.includes('What changed?'));
+ assert(front.includes('Get Flight Bonus Notifier Extension'));
+ assert(front.includes('See the latest changes in bonus point changes for Trumf and EB points.'));
  assert((await fs.readFile(path.join(out,'index.html'),'utf8')).includes('No bonus or shop changes'));
  assert((await fs.readFile(path.join(out,'archive.html'),'utf8')).includes('2026-10-20'));
  await fs.rm(out,{recursive:true});
@@ -63,4 +68,11 @@ test('arrows only compare like-for-like rewards',()=>{
  assert.equal(rewardDirection('6,2 % (83.7 poeng / 100kr)','3,1 % (41.9 poeng / 100kr)','trumf'),-1);
  assert.equal(rewardDirection('Opptil 5%','Opptil 10%','trumf'),1);
  for(const [a,b] of [['10%','100kr'],['','10%'],['10-20%','30%'],['Opptil 10%','5%'],['20 poeng','30 poeng / 100kr']]) assert.equal(rewardDirection(a,b,'trumf'),0);
+});
+
+test('highlights rank increases by relative growth, skipping decreases and zero baselines',()=>{
+ const offer=(name,before,after)=>({name,before,after,provider:'flight'});
+ const top=topIncreases([offer('Small','100 poeng','110 poeng'),offer('Double','25 poeng','50 poeng'),offer('Triple','10 poeng','30 poeng'),offer('Decrease','20 poeng','10 poeng'),offer('Zero','0 poeng','10 poeng')]);
+ assert.deepEqual(top.map(o=>o.name),['Triple','Double']);
+ assert.equal(top[0].growth,2);
 });
