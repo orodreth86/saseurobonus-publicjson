@@ -30,7 +30,17 @@
   const wrap=el('div',undefined,'table-wrap'),table=el('table'),head=el('thead'),tr=el('tr');for(const title of ['Recorded (Norway time)','Programme','Previous','New value','Record'])tr.append(el('th',title));head.append(tr);table.append(head);const tbody=el('tbody');
   for(const event of events.slice(page*pageSize,(page+1)*pageSize)){
    const row=el('tr');let kind=event.kind==='observation'?'Observed bonus':event.before&&event.after?'Bonus change':event.after?'Offer became available':'Offer unavailable';
-   for(const value of [fmt(event.at),label(event.provider),event.before||'—',event.after||'Not available',kind+' · '+event.source])row.append(el('td',value));tbody.append(row);
+   for(const value of [fmt(event.at),label(event.provider),event.before||'—'])row.append(el('td',value));
+   const valueCell=el('td',event.after||'Not available');
+   if(event.direction===1||event.direction===-1){
+    const up=event.direction===1,mark=el('span',undefined,'direction '+(up?'up':'down'));
+    mark.setAttribute('role','img');mark.setAttribute('aria-label','Bonus '+(up?'increased':'decreased'));mark.title='Bonus '+(up?'increased':'decreased');
+    const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg'),path=document.createElementNS(ns,'path');
+    for(const [k,v] of Object.entries({viewBox:'0 0 16 16',width:'14',height:'14','aria-hidden':'true',focusable:'false'}))svg.setAttribute(k,v);
+    for(const [k,v] of Object.entries({fill:'none',stroke:'currentColor','stroke-width':'1.8','stroke-linecap':'round','stroke-linejoin':'round',d:up?'M4 12 12 4M5 4H12V11':'M4 4 12 12M5 12H12V5'}))path.setAttribute(k,v);
+    svg.append(path);mark.append(svg);valueCell.append(document.createTextNode(' '),mark);
+   }
+   row.append(valueCell,el('td',kind+' · '+event.source));tbody.append(row);
   }table.append(tbody);wrap.append(table);detail.append(wrap);
   if(events.length>pageSize){const nav=el('div',undefined,'history-pages');for(const [text,step] of [['Newer records',-1],['Older records',1]]){const b=el('button',text);b.type='button';b.disabled=step<0?page===0:(page+1)*pageSize>=events.length;b.addEventListener('click',()=>{page+=step;renderDetail();});nav.append(b);}nav.append(el('span',`Page ${page+1} of ${Math.ceil(events.length/pageSize)}`));detail.append(nav);}
  }
