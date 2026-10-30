@@ -93,7 +93,31 @@ test('search page is generated with data and navigation',async()=>{
  const out=await fs.mkdtemp(path.join(os.tmpdir(),'shop-search-test-'));
  const h=updateHistory(null,feed(at('20')),at('20'));await renderSite(h,out,'https://example.com/');
  const page=await fs.readFile(path.join(out,'shops.html'),'utf8');assert(page.includes('Search shop changes'));assert(page.includes('shop-search.js'));
- const index=JSON.parse(await fs.readFile(path.join(out,'shop-history.json'),'utf8'));assert(index.shops.find(s=>s.domain==='lego.com'&&s.current));
+ const index=JSON.parse(await fs.readFile(path.join(out,'shop-history.json'),'utf8'));assert(index.shops.find(s=>s.domain==='lego.com'&&s.current));assert(index.shops.every(s=>s.patterns?.flight&&s.patterns?.trumf));
  assert((await fs.readFile(path.join(out,'index.html'),'utf8')).includes('shops.html'));
  await fs.rm(out,{recursive:true});
+});
+
+test('recurring promotions require three complete consistent cycles and matching units',async()=>{
+ const {analyzeBonusPatterns}=await import('../scripts/bonus-patterns.mjs');
+ const start=Date.parse('2026-01-01T00:00:00Z'),day=86400000;
+ const event=(d,before,after,provider='trumf',kind='change')=>({at:new Date(start+d*day).toISOString(),before,after,provider,kind});
+ const cycles=[0,56,112].flatMap(d=>[event(d,'3,5%','5%'),event(d+7,'5%','3,5%')]);
+ const good=analyzeBonusPatterns({events:cycles},'trumf');assert.equal(good.status,'possible-pattern');assert.equal(good.count,3);assert.deepEqual(good.spacingDays,[56,56]);assert.deepEqual(good.durationDays,[7,7,7]);assert(good.summary.includes('8 weeks'));
+ assert.equal(analyzeBonusPatterns({events:cycles.slice(0,5)},'trumf').status,'insufficient-pattern');
+ const irregular=[0,35,140].flatMap(d=>[event(d,'3,5%','5%'),event(d+7,'5%','3,5%')]);assert.equal(analyzeBonusPatterns({events:irregular},'trumf').status,'insufficient-pattern');
+ const interrupted=cycles.flatMap(e=>e.after==='5%'?[e,event((Date.parse(e.at)-start)/day+2,'5%','')]:[e]);assert.equal(analyzeBonusPatterns({events:interrupted},'trumf').status,'insufficient-pattern');
+ const mixed=cycles.map(e=>({...e,after:e.after==='5%'?'500kr':e.after}));assert.equal(analyzeBonusPatterns({events:mixed},'trumf').status,'insufficient-pattern');
+ assert.equal(analyzeBonusPatterns({events:cycles},'flight').status,'insufficient-pattern');
+ const formatted=cycles.flatMap(e=>[e,event((Date.parse(e.at)-start)/day+.1,e.after,e.after+' (67.5 poeng / 100kr)')]);assert.equal(analyzeBonusPatterns({events:formatted},'trumf').count,3);
+ const conflicting=cycles.flatMap(e=>e.after==='5%'?[e,event((Date.parse(e.at)-start)/day+3,'9%','5%')]:[e]);assert.equal(analyzeBonusPatterns({events:conflicting},'trumf').status,'insufficient-pattern');
+ assert.equal(analyzeBonusPatterns({events:[]},'trumf').status,'insufficient-pattern');
+});
+
+test('pattern ignores redundant availability assertions from merged rows',async()=>{
+ const {analyzeBonusPatterns}=await import('../scripts/bonus-patterns.mjs');
+ const start=Date.parse('2026-01-01T00:00:00Z'),day=86400000;
+ const ev=(d,before,after)=>({at:new Date(start+d*day).toISOString(),before,after,provider:'trumf',kind:'change'});
+ const events=[0,56,112].flatMap(d=>[ev(d,'3,5%','5%'),ev(d+2,'','5%'),ev(d+7,'5%','3,5%')]);
+ assert.equal(analyzeBonusPatterns({events},'trumf').count,3);
 });

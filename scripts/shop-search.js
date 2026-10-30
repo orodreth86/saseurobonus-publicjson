@@ -20,6 +20,14 @@
   detail.append(el('p',shop.current?`Current published bonuses: Flight points: ${shop.current.flight||'Not available'} · Trumf: ${shop.current.trumf||'Not available'} (feed updated ${fmt(shop.current.at)}, Norway time)`:'Not in the current feed. Values below are historical.'));
   const controls=el('div',undefined,'history-controls'),filterLabel=el('label','Show offers: '),filter=el('select');
   for(const [v,t] of [['all','Both programmes'],['flight','Flight points'],['trumf','Trumf']]){const option=el('option',t);option.value=v;filter.append(option);}filter.value=provider;filter.addEventListener('change',()=>{provider=filter.value;page=0;renderDetail();});filterLabel.append(filter);controls.append(filterLabel);detail.append(controls);
+  const patterns=el('section',undefined,'pattern-summary');patterns.append(el('h3','Bonus patterns'));
+  for(const p of (provider==='all'?['flight','trumf']:[provider])){
+   const analysis=shop.patterns?.[p];patterns.append(el('strong',label(p)));
+   patterns.append(el('p',analysis?.summary||'Pattern analysis is not available for this shop yet.'));
+   if(analysis?.lastEndedAt)patterns.append(el('small','Most recent completed period in this pattern ended around '+fmt(analysis.lastEndedAt)+' (Norway time).'));
+   if(analysis?.note)patterns.append(el('small',analysis.note));
+  }
+  detail.append(patterns);
   const events=shop.events.filter(e=>provider==='all'||e.provider===provider), actual=changes(events),days=new Set(actual.map(e=>new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Oslo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(e.at))));
   const stats=el('div',undefined,'history-stats');
   stats.append(el('strong',`${actual.length} recorded bonus changes across ${days.size} days`));
