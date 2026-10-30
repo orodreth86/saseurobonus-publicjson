@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:38:34.862Z",
+  "generated_at": "2026-10-30T12:44:46.195Z",
   "shops": [
     {
       "domain": "",
@@ -21,11 +21,29 @@
     },
     {
       "domain": "",
+      "slug": "expressvpn",
+      "name": "ExpressVPN",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/expressvpn/01a18c1f-d202-7305-88b0-0e4bcb96725c",
+      "trumfurl": "",
+      "sasbonus": "100 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
       "slug": "flixbus",
       "name": "Flixbus",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/flixbus/0189630c-cd49-700d-b0e0-9bb47f03628a",
       "trumfurl": "",
       "sasbonus": "30 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "haglofs",
+      "name": "Haglöfs",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/haglofs/018f1a0b-1749-708d-bbec-9aa03594b3b0",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -215,7 +233,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/avg-trumf",
       "sasbonus": "",
-      "trumfbonus": "23,4 % (315.9 poeng / 100kr)"
+      "trumfbonus": "23,4% (315.9 poeng / 100kr)"
     },
     {
       "domain": "avis.no",
@@ -1205,7 +1223,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/north-trampoline-trumf",
       "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "goboken.no",
@@ -1367,7 +1385,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/holidu-trumf",
       "sasbonus": "",
-      "trumfbonus": "5% (67.5 poeng / 100kr)"
+      "trumfbonus": "5 % (67.5 poeng / 100kr)"
     },
     {
       "domain": "holzweiler.no",
@@ -2441,15 +2459,6 @@
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
-      "domain": "paradoux.com",
-      "slug": "paradoux",
-      "name": "Paradoux",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/paradoux/01896312-a60c-719b-bad6-c0a2fb5633d3",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
       "domain": "partyking.no",
       "slug": "partyking",
       "name": "partyking",
@@ -3375,15 +3384,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/uppababy-trumf",
       "sasbonus": "",
       "trumfbonus": "14 % (189.0 poeng / 100kr)"
-    },
-    {
-      "domain": "urban-trend.com",
-      "slug": "urban-trend",
-      "name": "Urban Trend",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/urban-trend/0189630d-fb5b-7045-9d21-b6efc2c4643d",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
     },
     {
       "domain": "urbanpioneers.no",
