@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:44:46.195Z",
+  "generated_at": "2026-10-30T22:14:04.985Z",
   "shops": [
     {
       "domain": "",
@@ -35,6 +35,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/flixbus/0189630c-cd49-700d-b0e0-9bb47f03628a",
       "trumfurl": "",
       "sasbonus": "30 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "fyndiq",
+      "name": "Fyndiq",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/fyndiq/0189630a-3059-73d7-9526-637d8af50232",
+      "trumfurl": "",
+      "sasbonus": "100 poeng",
       "trumfbonus": ""
     },
     {
@@ -225,15 +234,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/avast-software-trumf",
       "sasbonus": "",
       "trumfbonus": "23,4 % (315.9 poeng / 100kr)"
-    },
-    {
-      "domain": "avg.com",
-      "slug": "",
-      "name": "AVG",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/avg-trumf",
-      "sasbonus": "",
-      "trumfbonus": "23,4% (315.9 poeng / 100kr)"
     },
     {
       "domain": "avis.no",
@@ -1573,7 +1573,7 @@
       "name": "iRobot",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/irobot/01a13f7b-f1a0-7345-8750-1411c32e7f85",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1843,7 +1843,7 @@
       "name": "Lenovo",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lenovo-2/01896311-859b-70f9-876a-a52c61ec5e5a",
       "trumfurl": "https://trumfnetthandel.no/cashback/lenovo-trumf",
-      "sasbonus": "10 poeng / 100kr",
+      "sasbonus": "20 poeng / 100kr",
       "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
     },
     {
