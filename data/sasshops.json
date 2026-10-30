@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:41:51.913Z",
+  "generated_at": "2026-10-30T05:38:34.862Z",
   "shops": [
     {
       "domain": "",
@@ -1367,7 +1367,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/holidu-trumf",
       "sasbonus": "",
-      "trumfbonus": "5 % (67.5 poeng / 100kr)"
+      "trumfbonus": "5% (67.5 poeng / 100kr)"
     },
     {
       "domain": "holzweiler.no",
@@ -1691,7 +1691,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kitchentime/01896309-8d97-726b-baed-35342a0d0149",
       "trumfurl": "https://trumfnetthandel.no/cashback/kitchentimetrumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
+      "trumfbonus": "2,3% (31.0 poeng / 100kr)"
     },
     {
       "domain": "kitchn.no",
@@ -3563,7 +3563,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/wakakuu-trumf",
       "sasbonus": "",
-      "trumfbonus": "7,8 % (105.3 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "watery.no",
