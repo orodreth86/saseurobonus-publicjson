@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-10-30",
-      "sourceAt": "2026-10-29T22:41:51.913Z",
+      "sourceAt": "2026-10-30T12:44:46.195Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -190,7 +190,7 @@
           "domain": "avg.com",
           "name": "AVG",
           "flight": "",
-          "trumf": "23,4 % (315.9 poeng / 100kr)",
+          "trumf": "23,4% (315.9 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/avg-trumf"
         },
@@ -1180,7 +1180,7 @@
           "domain": "go.northtrampoline.com",
           "name": "North Trampoline",
           "flight": "",
-          "trumf": "6,2% (83.7 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/north-trampoline-trumf"
         },
@@ -1666,7 +1666,7 @@
           "domain": "kitchentime.no",
           "name": "KitchenTime",
           "flight": "25 poeng / 100kr",
-          "trumf": "2,3 % (31.0 poeng / 100kr)",
+          "trumf": "2,3% (31.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kitchentime/01896309-8d97-726b-baed-35342a0d0149",
           "trumfURL": "https://trumfnetthandel.no/cashback/kitchentimetrumf"
         },
@@ -2416,15 +2416,6 @@
           "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/p-lindberg-trumf"
-        },
-        {
-          "key": "domain:paradoux.com",
-          "domain": "paradoux.com",
-          "name": "Paradoux",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/paradoux/01896312-a60c-719b-bad6-c0a2fb5633d3",
-          "trumfURL": ""
         },
         {
           "key": "domain:partyking.no",
@@ -3354,15 +3345,6 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/uppababy-trumf"
         },
         {
-          "key": "domain:urban-trend.com",
-          "domain": "urban-trend.com",
-          "name": "Urban Trend",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/urban-trend/0189630d-fb5b-7045-9d21-b6efc2c4643d",
-          "trumfURL": ""
-        },
-        {
           "key": "domain:urbanpioneers.no",
           "domain": "urbanpioneers.no",
           "name": "Urban Pioneers",
@@ -3538,7 +3520,7 @@
           "domain": "wakakuu.com",
           "name": "Wakakuu",
           "flight": "",
-          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "trumf": "7,8% (105.3 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/wakakuu-trumf"
         },
@@ -3669,12 +3651,30 @@
           "trumfURL": ""
         },
         {
+          "key": "slug:expressvpn",
+          "domain": "",
+          "name": "ExpressVPN",
+          "flight": "100 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/expressvpn/01a18c1f-d202-7305-88b0-0e4bcb96725c",
+          "trumfURL": ""
+        },
+        {
           "key": "slug:flixbus",
           "domain": "",
           "name": "Flixbus",
           "flight": "30 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/flixbus/0189630c-cd49-700d-b0e0-9bb47f03628a",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:haglofs",
+          "domain": "",
+          "name": "Haglöfs",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/haglofs/018f1a0b-1749-708d-bbec-9aa03594b3b0",
           "trumfURL": ""
         },
         {
@@ -7381,11 +7381,49 @@
       "date": "2026-10-30",
       "comparedWith": "2026-10-29",
       "baseline": false,
-      "sourceAt": "2026-10-29T22:41:51.913Z",
-      "publishedAt": "2026-10-30T01:21:06.169Z",
+      "sourceAt": "2026-10-30T12:44:46.195Z",
+      "publishedAt": "2026-10-30T13:43:25.843Z",
       "shopCount": 409,
-      "added": [],
-      "removed": [],
+      "added": [
+        {
+          "key": "slug:expressvpn",
+          "domain": "",
+          "name": "ExpressVPN",
+          "flight": "100 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/expressvpn/01a18c1f-d202-7305-88b0-0e4bcb96725c",
+          "trumfURL": ""
+        },
+        {
+          "key": "slug:haglofs",
+          "domain": "",
+          "name": "Haglöfs",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/haglofs/018f1a0b-1749-708d-bbec-9aa03594b3b0",
+          "trumfURL": ""
+        }
+      ],
+      "removed": [
+        {
+          "key": "domain:paradoux.com",
+          "domain": "paradoux.com",
+          "name": "Paradoux",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/paradoux/01896312-a60c-719b-bad6-c0a2fb5633d3",
+          "trumfURL": ""
+        },
+        {
+          "key": "domain:urban-trend.com",
+          "domain": "urban-trend.com",
+          "name": "Urban Trend",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/urban-trend/0189630d-fb5b-7045-9d21-b6efc2c4643d",
+          "trumfURL": ""
+        }
+      ],
       "changed": [
         {
           "key": "domain:kicks.no",
