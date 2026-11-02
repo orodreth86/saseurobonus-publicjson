@@ -2,8 +2,8 @@
   "version": 1,
   "snapshots": [
     {
-      "date": "2026-11-01",
-      "sourceAt": "2026-11-01T05:54:26.291Z",
+      "date": "2026-11-02",
+      "sourceAt": "2026-11-01T21:57:35.708Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3689,14 +3689,14 @@
       ]
     },
     {
-      "date": "2026-10-31",
-      "sourceAt": "2026-10-30T22:14:04.985Z",
+      "date": "2026-11-01",
+      "sourceAt": "2026-11-01T05:54:26.291Z",
       "shops": [
         {
           "key": "domain:aarke.com",
           "domain": "aarke.com",
           "name": "Aarke",
-          "flight": "50 poeng / 100kr",
+          "flight": "25 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
           "trumfURL": ""
@@ -3813,7 +3813,7 @@
           "key": "domain:authentic-europe.com",
           "domain": "authentic-europe.com",
           "name": "Authentic Europe",
-          "flight": "50 poeng / 100kr",
+          "flight": "25 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-europe/01a1447d-94dd-7090-a4ae-22c7b348afe1",
           "trumfURL": ""
@@ -3822,7 +3822,7 @@
           "key": "domain:authentic-scandinavia.com",
           "domain": "authentic-scandinavia.com",
           "name": "Authentic Scandinavia",
-          "flight": "50 poeng / 100kr",
+          "flight": "25 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/authentic-scandinavia/01a15438-70cb-7210-8da5-737a9df69135",
           "trumfURL": ""
@@ -3849,7 +3849,7 @@
           "key": "domain:autodude.no",
           "domain": "autodude.no",
           "name": "Autodude",
-          "flight": "50 poeng / 100kr",
+          "flight": "25 poeng / 100kr",
           "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/autodude/018f57d7-5ba2-735f-97f3-c511b00c38bb",
           "trumfURL": "https://trumfnetthandel.no/cashback/autodude-trumf"
@@ -3877,7 +3877,7 @@
           "domain": "avis.no",
           "name": "AVIS",
           "flight": "",
-          "trumf": "10,1 % (136.3 poeng / 100kr)",
+          "trumf": "Opptil 9,3 % (125.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/avis-trumf-1"
         },
@@ -4129,7 +4129,7 @@
           "domain": "bookbeat.no",
           "name": "BookBeat",
           "flight": "",
-          "trumf": "75 kr (1012.5 poeng)",
+          "trumf": "105 kr (1417.5 poeng)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/bookbeat-trumf"
         },
@@ -4137,8 +4137,8 @@
           "key": "domain:bosch-home.no",
           "domain": "bosch-home.no",
           "name": "Bosch Home",
-          "flight": "100 poeng / 100kr",
-          "trumf": "9,3 % (125.6 poeng / 100kr)",
+          "flight": "25 poeng / 100kr",
+          "trumf": "11,7 % (157.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/bosch-home/018e3827-6f29-71e6-beae-2be3af85c068",
           "trumfURL": "https://trumfnetthandel.no/cashback/bosch-trumf1"
         },
@@ -4165,7 +4165,7 @@
           "domain": "budget.no",
           "name": "Budget",
           "flight": "",
-          "trumf": "10,1 % (136.3 poeng / 100kr)",
+          "trumf": "Opptil 9,3 % (125.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/budget-trumf"
         },
@@ -4326,7 +4326,7 @@
           "key": "domain:dekkonline.com",
           "domain": "dekkonline.com",
           "name": "dekkonline.com",
-          "flight": "20 poeng / 100kr",
+          "flight": "10 poeng / 100kr",
           "trumf": "3,1 % (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/dekkonline.no/0189630a-e49b-73fa-b65e-eb736c28f11b",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfdekkonline"
@@ -4381,7 +4381,7 @@
           "domain": "directferries.no",
           "name": "Direct Ferries",
           "flight": "",
-          "trumf": "Opptil 3,9 % (52.6 poeng / 100kr)",
+          "trumf": "Opptil 3,1 % (41.9 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/direct-ferries-trumf"
         },
@@ -4507,7 +4507,7 @@
           "domain": "ellos.co.uk",
           "name": "Ellos NO",
           "flight": "",
-          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/ellos"
         },
@@ -4633,7 +4633,7 @@
           "domain": "fabel.no",
           "name": "Fabel",
           "flight": "250 poeng",
-          "trumf": "35 kr (472.5 poeng)",
+          "trumf": "75 kr (1012.5 poeng)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fabel/0189630f-ef16-7364-aef4-32a7e20009b8",
           "trumfURL": "https://trumfnetthandel.no/cashback/fabel-trumf"
         },
@@ -4678,7 +4678,7 @@
           "domain": "fjordline.com",
           "name": "Fjordline",
           "flight": "15 poeng / 100kr",
-          "trumf": "3,9 % (52.6 poeng / 100kr)",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/fjordline/019f3747-400d-72e3-b288-b8a2c230d3f1",
           "trumfURL": "https://trumfnetthandel.no/cashback/fjord-line-trumf"
         },
@@ -4777,7 +4777,7 @@
           "domain": "framsport.no",
           "name": "Framsport",
           "flight": "25 poeng / 100kr",
-          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/framsport/019df344-65af-7038-85ad-f58532b5b50a",
           "trumfURL": "https://trumfnetthandel.no/cashback/framsport-trumf"
         },
@@ -4831,7 +4831,7 @@
           "domain": "getyourguide.com",
           "name": "GetYourGuide",
           "flight": "",
-          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/getyourguide-trumf"
         },
@@ -4876,7 +4876,7 @@
           "domain": "gonordiccruiseline.no",
           "name": "Go Nordic Cruiseline",
           "flight": "15 poeng / 100kr",
-          "trumf": "4,5 % (60.8 poeng / 100kr)",
+          "trumf": "3,7 % (50.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b",
           "trumfURL": "https://trumfnetthandel.no/cashback/go-nordic-cruiseline-trumf"
         },
@@ -5056,7 +5056,7 @@
           "domain": "hotels.com",
           "name": "Hotels.com",
           "flight": "",
-          "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
+          "trumf": "Opptil 9 % (121.5 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfhotels-no"
         },
@@ -5109,7 +5109,7 @@
           "key": "domain:ice.no",
           "domain": "ice.no",
           "name": "ICE",
-          "flight": "2500 poeng",
+          "flight": "2000 poeng",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/ice/0189630c-1ac4-7176-9627-433b2c1773b7",
           "trumfURL": ""
@@ -5145,7 +5145,7 @@
           "key": "domain:inkclub.com",
           "domain": "inkclub.com",
           "name": "InkClub",
-          "flight": "100 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "11,7 % (157.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/inkclub/01896308-9acc-7096-9b2a-e74389673a4b",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfinkclub-no"
@@ -5263,7 +5263,7 @@
           "domain": "junkyard.com",
           "name": "Junkyard",
           "flight": "",
-          "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
+          "trumf": "Opptil 7 % (94.5 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/junkyard-trumf"
         },
@@ -5272,7 +5272,7 @@
           "domain": "kaercher.com",
           "name": "Kärcher",
           "flight": "",
-          "trumf": "8,5 % (114.8 poeng / 100kr)",
+          "trumf": "10,1 % (136.3 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/karcher-trumf"
         },
@@ -5280,7 +5280,7 @@
           "key": "domain:kajakk-fritid.no",
           "domain": "kajakk-fritid.no",
           "name": "Kajakk og Fritid",
-          "flight": "50 poeng / 100kr",
+          "flight": "25 poeng / 100kr",
           "trumf": "2,3 % (31.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kajakk-og-fritid/0192e744-9c9e-713b-abd2-3982d9fba326",
           "trumfURL": "https://trumfnetthandel.no/cashback/kajakk-og-fritid-trumf"
@@ -5326,7 +5326,7 @@
           "domain": "kinogavekort.no",
           "name": "Kinogavekort",
           "flight": "25 poeng / 100kr",
-          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kinogavekort/0189630f-e2f4-70f8-9e96-f69763665520",
           "trumfURL": "https://trumfnetthandel.no/cashback/kinogavekort-trumf"
         },
@@ -5344,7 +5344,7 @@
           "domain": "kitchentime.no",
           "name": "KitchenTime",
           "flight": "25 poeng / 100kr",
-          "trumf": "2,3% (31.0 poeng / 100kr)",
+          "trumf": "2,3 % (31.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kitchentime/01896309-8d97-726b-baed-35342a0d0149",
           "trumfURL": "https://trumfnetthandel.no/cashback/kitchentimetrumf"
         },
@@ -5838,7 +5838,7 @@
           "key": "domain:nextory.com",
           "domain": "nextory.com",
           "name": "Nextory",
-          "flight": "500 poeng",
+          "flight": "250 poeng",
           "trumf": "35 kr (472.5 poeng)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nextory/0189630c-56c3-7074-8394-13e45ce5c745",
           "trumfURL": "https://trumfnetthandel.no/cashback/nextory-trumfs"
@@ -6036,7 +6036,7 @@
           "key": "domain:onyxcookware.no",
           "domain": "onyxcookware.no",
           "name": "Onyx Cookware",
-          "flight": "75 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "4,6 % (62.1 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/onyx-cookware/01a04319-8c3e-70f1-80fb-7c2cdc036ea8",
           "trumfURL": "https://trumfnetthandel.no/cashback/onyx-cookware-trumf"
@@ -6099,7 +6099,7 @@
           "key": "domain:partyking.no",
           "domain": "partyking.no",
           "name": "partyking",
-          "flight": "50 poeng / 100kr",
+          "flight": "25 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/partyking/019b11f5-2adc-72f3-96b1-3428a999ce72",
           "trumfURL": ""
@@ -6136,7 +6136,7 @@
           "domain": "philips-hue.com",
           "name": "Philips Hue",
           "flight": "25 poeng / 100kr",
-          "trumf": "5,4 % (72.9 poeng / 100kr)",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/philips-hue/018ee1d2-896a-729f-932c-e9664dc0c907",
           "trumfURL": "https://trumfnetthandel.no/cashback/philips-hue-trumf"
         },
@@ -6253,7 +6253,7 @@
           "domain": "radissonhotels.com",
           "name": "Radisson Hotels",
           "flight": "",
-          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfradissonhotels"
         },
@@ -6379,7 +6379,7 @@
           "domain": "se.lastminute.com",
           "name": "lastminute.com",
           "flight": "",
-          "trumf": "Opptil 4,6 % (62.1 poeng / 100kr)",
+          "trumf": "Opptil 3,9 % (52.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/lastminute-trumf"
         },
@@ -6387,7 +6387,7 @@
           "key": "domain:selected.com",
           "domain": "selected.com",
           "name": "Selected",
-          "flight": "50 poeng / 100kr",
+          "flight": "25 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
           "trumfURL": ""
@@ -6397,7 +6397,7 @@
           "domain": "sembo.no",
           "name": "Sembo",
           "flight": "",
-          "trumf": "Opptil 7 % (94.5 poeng / 100kr)",
+          "trumf": "Opptil 5,4 % (72.9 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/sembo-trumf"
         },
@@ -6523,7 +6523,7 @@
           "domain": "skeidar.no",
           "name": "Skeidar",
           "flight": "25 poeng / 100kr",
-          "trumf": "3,1 % (41.9 poeng / 100kr)",
+          "trumf": "3,7 % (50.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/skeidar/019cd736-905a-7300-8d5d-ae68b2a4bb95",
           "trumfURL": "https://trumfnetthandel.no/cashback/skeidar-trumf"
         },
@@ -6784,7 +6784,7 @@
           "domain": "storytel.no",
           "name": "Storytel",
           "flight": "",
-          "trumf": "50 kr (675.0 poeng)",
+          "trumf": "70 kr (945.0 poeng)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/storytel-trumf"
         },
@@ -6810,7 +6810,7 @@
           "key": "domain:strim.no",
           "domain": "strim.no",
           "name": "Strim",
-          "flight": "2000 poeng",
+          "flight": "500 poeng",
           "trumf": "Opptil 270 kr (3645.0 poeng)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/strim/018abc11-7a28-71e0-bc8a-9e9617c71d80",
           "trumfURL": "https://trumfnetthandel.no/cashback/strim-trumf"
@@ -7198,7 +7198,7 @@
           "domain": "wakakuu.com",
           "name": "Wakakuu",
           "flight": "",
-          "trumf": "7,8% (105.3 poeng / 100kr)",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/wakakuu-trumf"
         },
@@ -7332,7 +7332,7 @@
           "key": "slug:expressvpn",
           "domain": "",
           "name": "ExpressVPN",
-          "flight": "100 poeng / 100kr",
+          "flight": "300 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/expressvpn/01a18c1f-d202-7305-88b0-0e4bcb96725c",
           "trumfURL": ""
@@ -7377,6 +7377,17 @@
     }
   ],
   "editions": [
+    {
+      "date": "2026-11-02",
+      "comparedWith": "2026-11-01",
+      "baseline": false,
+      "sourceAt": "2026-11-01T21:57:35.708Z",
+      "publishedAt": "2026-11-02T01:01:55.989Z",
+      "shopCount": 409,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
     {
       "date": "2026-11-01",
       "comparedWith": "2026-10-31",
