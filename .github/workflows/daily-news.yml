@@ -2,8 +2,8 @@ name: Daily bonus news and RSS
 
 on:
   schedule:
-    # 23:45 Norway summer time / 22:45 winter time. GitHub schedules can be delayed.
-    - cron: '45 21 * * *'
+    # Every 4 hours, at 45 minutes past the hour (UTC).
+    - cron: '45 */4 * * *'
   workflow_dispatch:
 
 permissions:
