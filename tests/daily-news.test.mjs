@@ -121,3 +121,25 @@ test('pattern ignores redundant availability assertions from merged rows',async(
  const events=[0,56,112].flatMap(d=>[ev(d,'3,5%','5%'),ev(d+2,'','5%'),ev(d+7,'5%','3,5%')]);
  assert.equal(analyzeBonusPatterns({events},'trumf').count,3);
 });
+
+test('top lists separate fixed rewards from shopping rates and use 13.5 conversion',async()=>{
+ const {parseRankedReward,rankShops}=await import('../scripts/bonus-rankings.mjs');
+ assert.equal(parseRankedReward('100kr','trumf','fixed').points,1350);
+ assert.equal(parseRankedReward('Opptil 1 000 kr','trumf','fixed').points,13500);
+ assert.equal(parseRankedReward('4000 poeng','flight','fixed').points,4000);
+ assert.equal(parseRankedReward('1,5 % (20.3 poeng / 100kr)','trumf','shopping').points,20.25);
+ assert.equal(parseRankedReward('20 points per 50 NOK','flight','shopping').points,40);
+ for(const [value,p,c] of [['5%','trumf','fixed'],['50 poeng / 100kr','flight','fixed'],['100kr','trumf','shopping'],['4000 poeng','flight','shopping'],['10-20%','trumf','shopping'],['50 kr for first order','trumf','fixed'],['0 poeng','flight','fixed']])assert.equal(parseRankedReward(value,p,c),null);
+ const ranked=rankShops({shops:[{name:'Fixed flight',slug:'one',sasbonus:'4000 poeng'},{name:'Both',domain:'both.no',sasbonus:'1000 poeng',trumfbonus:'400kr'},{name:'Rate',domain:'rate.no',sasbonus:'100 poeng / 100kr',trumfbonus:'10%'}]},'fixed');
+ assert.equal(ranked.length,2);assert.equal(ranked[0].name,'Both');assert.equal(ranked[0].offers.length,2);assert.equal(ranked[0].offers[0].points,5400);
+ const many=rankShops({shops:Array.from({length:12},(_,i)=>({name:'Shop '+i,domain:i+'.example',sasbonus:(i+1)+' poeng'}))},'fixed');assert.equal(many.length,10);assert.equal(many[0].offers[0].points,12);
+});
+test('ranking pages are generated and links open in new tabs',async()=>{
+ const out=await fs.mkdtemp(path.join(os.tmpdir(),'ranking-test-'));
+ const current=feed(at('20'),[shop({sasbonus:'4000 poeng',trumfbonus:'5%'})]);const h=updateHistory(null,current,at('20'));
+ await renderSite(h,out,'https://example.com/news/',current);
+ const fixed=await fs.readFile(path.join(out,'top-fixed.html'),'utf8'),shopping=await fs.readFile(path.join(out,'top-shopping.html'),'utf8'),front=await fs.readFile(path.join(out,'index.html'),'utf8');
+ assert(fixed.includes('4,000 points'));assert(shopping.includes('67.5 points / 100 kr'));assert(front.includes('top-fixed.html'));assert(front.includes('top-shopping.html'));
+ assert(fixed.includes('href="https://example.com/lego" target="_blank"'));assert(fixed.includes('href="https://lego.com/" target="_blank"'));
+ await fs.rm(out,{recursive:true});
+});
