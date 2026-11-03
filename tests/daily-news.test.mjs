@@ -57,8 +57,8 @@ test('HTML escaping, direct shop links, timeline, archive and RSS removal',async
  assert(!front.includes('Link to this day'));
  assert(!front.includes('What changed?'));
  assert(front.includes('Get Flight Bonus Notifier Extension'));
- assert(front.includes('See the latest changes in bonus point changes for Trumf and EB points.'));
- assert((await fs.readFile(path.join(out,'index.html'),'utf8')).includes('No bonus or shop changes'));
+ assert(front.includes('See the latest changes to Trumf bonuses and EB points.'));
+ assert((await fs.readFile(path.join(out,'index.html'),'utf8')).includes('No changes to bonuses or participating shops'));
  assert((await fs.readFile(path.join(out,'archive.html'),'utf8')).includes('2026-10-20'));
  await fs.rm(out,{recursive:true});
 });
@@ -139,7 +139,7 @@ test('ranking pages are generated and links open in new tabs',async()=>{
  const current=feed(at('20'),[shop({sasbonus:'4000 poeng',trumfbonus:'5%'})]);const h=updateHistory(null,current,at('20'));
  await renderSite(h,out,'https://example.com/news/',current);
  const fixed=await fs.readFile(path.join(out,'top-fixed.html'),'utf8'),shopping=await fs.readFile(path.join(out,'top-shopping.html'),'utf8'),front=await fs.readFile(path.join(out,'index.html'),'utf8');
- assert(fixed.includes('4,000 points'));assert(shopping.includes('67.5 points / 100 kr'));assert(front.includes('top-fixed.html'));assert(front.includes('top-shopping.html'));
+ assert(fixed.includes('4,000 points'));assert(shopping.includes('67.5 points / 100 kr'));assert(front.includes('top-fixed.html'));assert(front.includes('>Home</a><a href="https://example.com/news/shops.html">'));assert(!front.includes('>Latest</a>'));assert(shopping.includes('1% Trumf = 13.5 points.'));assert(!shopping.includes('Flight points are normalised'));assert(front.includes('top-shopping.html'));
  assert(fixed.includes('href="https://example.com/lego" target="_blank"'));assert(fixed.includes('href="https://lego.com/" target="_blank"'));
  await fs.rm(out,{recursive:true});
 });

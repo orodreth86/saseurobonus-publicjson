@@ -9,7 +9,7 @@
  function renderResults(){
   const term=query.value.normalize('NFKC').toLocaleLowerCase().trim();
   const matches=data.shops.filter(s=>[s.name,s.domain,s.id,...s.aliases].join(' ').normalize('NFKC').toLocaleLowerCase().includes(term));
-  results.replaceChildren();status.textContent=matches.length+' matching shops'+(matches.length>50?' · Showing the first 50; type more to narrow your search.':'');
+  results.replaceChildren();status.textContent=matches.length+(matches.length===1?' matching shop':' matching shops')+(matches.length>50?' · Showing the first 50; type more to narrow your search.':'');
   for(const shop of matches.slice(0,50)){
    const button=el('button',shop.name+(shop.domain?' · '+shop.domain:''),'search-result');button.type='button';button.addEventListener('click',()=>showShop(shop));results.append(button);
   }
@@ -24,17 +24,17 @@
   for(const p of (provider==='all'?['flight','trumf']:[provider])){
    const analysis=shop.patterns?.[p];patterns.append(el('strong',label(p)));
    patterns.append(el('p',analysis?.summary||'Pattern analysis is not available for this shop yet.'));
-   if(analysis?.lastEndedAt)patterns.append(el('small','Most recent completed period in this pattern ended around '+fmt(analysis.lastEndedAt)+' (Norway time).'));
+   if(analysis?.lastEndedAt)patterns.append(el('small','The most recent completed promotion in this pattern ended around '+fmt(analysis.lastEndedAt)+' (Norway time).'));
    if(analysis?.note)patterns.append(el('small',analysis.note));
   }
   detail.append(patterns);
   const events=shop.events.filter(e=>provider==='all'||e.provider===provider), actual=changes(events),days=new Set(actual.map(e=>new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Oslo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(e.at))));
   const stats=el('div',undefined,'history-stats');
-  stats.append(el('strong',`${actual.length} recorded bonus changes across ${days.size} days`));
+  stats.append(el('strong',`${actual.length} recorded bonus ${actual.length===1?'change':'changes'} across ${days.size} ${days.size===1?'day':'days'}`));
   if(events.length){const first=events.at(-1).at,last=events[0].at;stats.append(el('p',`Records from ${fmt(first)} to ${fmt(last)} (Norway time).`));
    const since=new Date(data.updatedAt)-new Date(first),duration=since/86400000;
    if(duration>=30)stats.append(el('p',`${(actual.length*30/duration).toFixed(1)} recorded changes per 30 days on average across this coverage period.`));
-  }else stats.append(el('p','No historical observations for this selection yet.'));detail.append(stats);
+  }else stats.append(el('p','No historical observations are available for this selection yet.'));detail.append(stats);
   const wrap=el('div',undefined,'table-wrap'),table=el('table'),head=el('thead'),tr=el('tr');for(const title of ['Recorded (Norway time)','Programme','Previous','New value','Record'])tr.append(el('th',title));head.append(tr);table.append(head);const tbody=el('tbody');
   for(const event of events.slice(page*pageSize,(page+1)*pageSize)){
    const row=el('tr');let kind=event.kind==='observation'?'Observed bonus':event.before&&event.after?'Bonus change':event.after?'Offer became available':'Offer unavailable';
