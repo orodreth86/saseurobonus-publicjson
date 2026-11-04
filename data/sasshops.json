@@ -1,20 +1,11 @@
 {
-  "generated_at": "2026-11-04T12:00:28.704Z",
+  "generated_at": "2026-11-04T19:40:49.561Z",
   "shops": [
     {
       "domain": "",
       "slug": "charlies-hus",
       "name": "Charlies hus",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
-      "trumfurl": "",
-      "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
-    },
-    {
-      "domain": "",
-      "slug": "skinome",
-      "name": "Skinome",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/skinome/019f4b3f-c264-712d-b3c2-63e1ad0270f2",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
@@ -474,9 +465,9 @@
       "slug": "brilleland",
       "name": "Brilleland",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/brilleland/01896310-8ae4-734d-9de5-c494e2e99efc",
-      "trumfurl": "https://trumfnetthandel.no/cashback/brilleland-trumf",
+      "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "4,6 % (62.1 poeng / 100kr)"
+      "trumfbonus": ""
     },
     {
       "domain": "bubbleroom.no",
@@ -1781,7 +1772,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
       "trumfurl": "https://trumfnetthandel.no/cashback/lampemesteren-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "lanna.no",
@@ -1800,15 +1791,6 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/lappeliten-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "12,4 % (167.4 poeng / 100kr)"
-    },
-    {
-      "domain": "ledlyskilder.no",
-      "slug": "",
-      "name": "Ledlyskilder",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/ledlyskilder-trumf",
-      "sasbonus": "",
-      "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
     },
     {
       "domain": "lego.com",
@@ -2249,7 +2231,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
       "trumfurl": "https://trumfnetthandel.no/cashback/harman-kardon-trumf",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
       "domain": "no.jbl.com",
@@ -2898,6 +2880,15 @@
       "trumfurl": "https://trumfnetthandel.no/cashback/skeidar-trumf",
       "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "3,7 % (50.0 poeng / 100kr)"
+    },
+    {
+      "domain": "skinome.com",
+      "slug": "skinome",
+      "name": "Skinome",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/skinome/019f4b3f-c264-712d-b3c2-63e1ad0270f2",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
     },
     {
       "domain": "skistart.com",
@@ -3662,7 +3653,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
       "trumfurl": "https://trumfnetthandel.no/cashback/xplora-trumf",
       "sasbonus": "75 poeng",
-      "trumfbonus": "Opptil 195 kr (2632.5 poeng)"
+      "trumfbonus": "Opptil 195kr (2632.5 poeng)"
     },
     {
       "domain": "yoursurprise.no",
