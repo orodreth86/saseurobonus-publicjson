@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-04",
-      "sourceAt": "2026-11-04T12:00:28.704Z",
+      "sourceAt": "2026-11-04T19:40:49.561Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -460,9 +460,9 @@
           "domain": "brilleland.no",
           "name": "Brilleland",
           "flight": "25 poeng / 100kr",
-          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/brilleland/01896310-8ae4-734d-9de5-c494e2e99efc",
-          "trumfURL": "https://trumfnetthandel.no/cashback/brilleland-trumf"
+          "trumfURL": ""
         },
         {
           "key": "domain:bubbleroom.no",
@@ -1765,7 +1765,7 @@
           "domain": "lampemesteren.no",
           "name": "Lampemesteren",
           "flight": "25 poeng / 100kr",
-          "trumf": "Opptil 6,2% (83.7 poeng / 100kr)",
+          "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
           "trumfURL": "https://trumfnetthandel.no/cashback/lampemesteren-trumf"
         },
@@ -1786,15 +1786,6 @@
           "trumf": "12,4 % (167.4 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lappeliten/01896312-2e1b-73b3-ac23-db4b5803a8ad",
           "trumfURL": "https://trumfnetthandel.no/cashback/lappeliten-trumf"
-        },
-        {
-          "key": "domain:ledlyskilder.no",
-          "domain": "ledlyskilder.no",
-          "name": "Ledlyskilder",
-          "flight": "",
-          "trumf": "9,3 % (125.6 poeng / 100kr)",
-          "flightURL": "",
-          "trumfURL": "https://trumfnetthandel.no/cashback/ledlyskilder-trumf"
         },
         {
           "key": "domain:lego.com",
@@ -2233,7 +2224,7 @@
           "domain": "no.harmankardon.com",
           "name": "Harman Kardon",
           "flight": "15 poeng / 100kr",
-          "trumf": "3,1% (41.9 poeng / 100kr)",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
           "trumfURL": "https://trumfnetthandel.no/cashback/harman-kardon-trumf"
         },
@@ -2884,6 +2875,15 @@
           "trumf": "3,7 % (50.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/skeidar/019cd736-905a-7300-8d5d-ae68b2a4bb95",
           "trumfURL": "https://trumfnetthandel.no/cashback/skeidar-trumf"
+        },
+        {
+          "key": "domain:skinome.com",
+          "domain": "skinome.com",
+          "name": "Skinome",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/skinome/019f4b3f-c264-712d-b3c2-63e1ad0270f2",
+          "trumfURL": ""
         },
         {
           "key": "domain:skistart.com",
@@ -3646,7 +3646,7 @@
           "domain": "xplora.no",
           "name": "Xplora",
           "flight": "75 poeng",
-          "trumf": "Opptil 195 kr (2632.5 poeng)",
+          "trumf": "Opptil 195kr (2632.5 poeng)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
           "trumfURL": "https://trumfnetthandel.no/cashback/xplora-trumf"
         },
@@ -3693,15 +3693,6 @@
           "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
-          "trumfURL": ""
-        },
-        {
-          "key": "slug:skinome",
-          "domain": "",
-          "name": "Skinome",
-          "flight": "50 poeng / 100kr",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/skinome/019f4b3f-c264-712d-b3c2-63e1ad0270f2",
           "trumfURL": ""
         }
       ]
@@ -7408,13 +7399,13 @@
       "date": "2026-11-04",
       "comparedWith": "2026-11-03",
       "baseline": false,
-      "sourceAt": "2026-11-04T12:00:28.704Z",
-      "publishedAt": "2026-11-04T12:34:55.239Z",
-      "shopCount": 411,
+      "sourceAt": "2026-11-04T19:40:49.561Z",
+      "publishedAt": "2026-11-04T20:04:18.363Z",
+      "shopCount": 410,
       "added": [
         {
-          "key": "slug:skinome",
-          "domain": "",
+          "key": "domain:skinome.com",
+          "domain": "skinome.com",
           "name": "Skinome",
           "flight": "50 poeng / 100kr",
           "trumf": "",
@@ -7422,8 +7413,35 @@
           "trumfURL": ""
         }
       ],
-      "removed": [],
+      "removed": [
+        {
+          "key": "domain:ledlyskilder.no",
+          "domain": "ledlyskilder.no",
+          "name": "Ledlyskilder",
+          "flight": "",
+          "trumf": "9,3 % (125.6 poeng / 100kr)",
+          "flightURL": "",
+          "trumfURL": "https://trumfnetthandel.no/cashback/ledlyskilder-trumf"
+        }
+      ],
       "changed": [
+        {
+          "key": "domain:brilleland.no",
+          "domain": "brilleland.no",
+          "name": "Brilleland",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/brilleland/01896310-8ae4-734d-9de5-c494e2e99efc",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "trumf",
+              "before": "4,6 % (62.1 poeng / 100kr)",
+              "after": "",
+              "url": ""
+            }
+          ]
+        },
         {
           "key": "domain:kost1.no",
           "domain": "kost1.no",
@@ -7469,7 +7487,7 @@
           "domain": "xplora.no",
           "name": "Xplora",
           "flight": "75 poeng",
-          "trumf": "Opptil 195 kr (2632.5 poeng)",
+          "trumf": "Opptil 195kr (2632.5 poeng)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
           "trumfURL": "https://trumfnetthandel.no/cashback/xplora-trumf",
           "offers": [
