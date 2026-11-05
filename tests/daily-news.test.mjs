@@ -143,3 +143,18 @@ test('ranking pages are generated and links open in new tabs',async()=>{
  assert(fixed.includes('href="https://example.com/lego" target="_blank"'));assert(fixed.includes('href="https://lego.com/" target="_blank"'));
  await fs.rm(out,{recursive:true});
 });
+
+test('both programme changes stay beneath a single shop heading',async()=>{
+ const out=await fs.mkdtemp(path.join(os.tmpdir(),'grouped-offers-'));
+ let h=updateHistory(null,feed(at('20'),[shop({name:'Kost1',domain:'kost1.no',slug:'kost1',sasbonus:'25 poeng / 100kr',trumfbonus:'6,2 %'})]),at('20'));
+ h=updateHistory(h,feed(at('21'),[shop({name:'Kost1',domain:'kost1.no',slug:'kost1',sasbonus:'50 poeng / 100kr',trumfbonus:'7,8 %'})]),at('21'));
+ await renderSite(h,out,'https://example.com/');
+ const html=await fs.readFile(path.join(out,'index.html'),'utf8');
+ const cards=html.match(/<article class="changed-shop">[\s\S]*?<\/article>/g)||[];
+ assert.equal(cards.length,1);const card=cards[0];
+ assert.equal((card.match(/<h3>/g)||[]).length,1);assert(card.includes('>Kost1</a></h3>'));assert(card.includes('href="https://kost1.no/"'));
+ assert(card.includes('scope="row" class="programme">Flight points</th>'));assert(card.includes('scope="row" class="programme">Trumf</th>'));
+ assert(card.includes('50 poeng / 100kr'));assert(card.includes('7,8 %'));assert.equal((card.match(/direction up/g)||[]).length,2);
+ assert.equal((card.match(/target="_blank"/g)||[]).length,3);
+ await fs.rm(out,{recursive:true});
+});
