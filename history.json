@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-05",
-      "sourceAt": "2026-11-05T00:52:00.190Z",
+      "sourceAt": "2026-11-05T12:09:50.020Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -460,9 +460,9 @@
           "domain": "brilleland.no",
           "name": "Brilleland",
           "flight": "25 poeng / 100kr",
-          "trumf": "",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/brilleland/01896310-8ae4-734d-9de5-c494e2e99efc",
-          "trumfURL": ""
+          "trumfURL": "https://trumfnetthandel.no/cashback/brilleland-trumf"
         },
         {
           "key": "domain:bubbleroom.no",
@@ -1045,7 +1045,7 @@
           "domain": "foodstuff.no",
           "name": "Foodstuff",
           "flight": "",
-          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "trumf": "7,8% (105.3 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/foodstuff-trumf"
         },
@@ -2170,7 +2170,7 @@
           "domain": "newporthome.no",
           "name": "Newport",
           "flight": "",
-          "trumf": "7 % (94.5 poeng / 100kr)",
+          "trumf": "7% (94.5 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/newport-home-trumf"
         },
@@ -3538,7 +3538,7 @@
           "domain": "vpg.no",
           "name": "VPG.no",
           "flight": "25 poeng / 100kr",
-          "trumf": "Opptil 6,2% (83.7 poeng / 100kr)",
+          "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vpg.no/01896309-2e3d-72a3-9b8b-b02451a20216",
           "trumfURL": "https://trumfnetthandel.no/cashback/vpg-trumf"
         },
@@ -3646,7 +3646,7 @@
           "domain": "xplora.no",
           "name": "Xplora",
           "flight": "75 poeng",
-          "trumf": "Opptil 195kr (2632.5 poeng)",
+          "trumf": "Opptil 195 kr (2632.5 poeng)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/xplora/0189630b-fef3-70b3-953f-1b0c8875ef34",
           "trumfURL": "https://trumfnetthandel.no/cashback/xplora-trumf"
         },
@@ -7399,12 +7399,29 @@
       "date": "2026-11-05",
       "comparedWith": "2026-11-04",
       "baseline": false,
-      "sourceAt": "2026-11-05T00:52:00.190Z",
-      "publishedAt": "2026-11-05T07:28:06.630Z",
+      "sourceAt": "2026-11-05T12:09:50.020Z",
+      "publishedAt": "2026-11-05T12:46:33.350Z",
       "shopCount": 410,
       "added": [],
       "removed": [],
       "changed": [
+        {
+          "key": "domain:brilleland.no",
+          "domain": "brilleland.no",
+          "name": "Brilleland",
+          "flight": "25 poeng / 100kr",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/brilleland/01896310-8ae4-734d-9de5-c494e2e99efc",
+          "trumfURL": "https://trumfnetthandel.no/cashback/brilleland-trumf",
+          "offers": [
+            {
+              "provider": "trumf",
+              "before": "",
+              "after": "4,6 % (62.1 poeng / 100kr)",
+              "url": "https://trumfnetthandel.no/cashback/brilleland-trumf"
+            }
+          ]
+        },
         {
           "key": "domain:dbjourney.com",
           "domain": "dbjourney.com",
