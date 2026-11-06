@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-11-06T00:56:29.595Z",
+  "generated_at": "2026-11-06T09:46:41.712Z",
   "shops": [
-    {
-      "domain": "",
-      "slug": "",
-      "name": "Haglöfs",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/haglofs-trumf",
-      "sasbonus": "",
-      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
-    },
-    {
-      "domain": "",
-      "slug": "",
-      "name": "Kjell & Co",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/kjell-and-co-trumf",
-      "sasbonus": "",
-      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
-    },
     {
       "domain": "",
       "slug": "charlies-hus",
@@ -1070,7 +1052,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/foodstuff-trumf",
       "sasbonus": "",
-      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
+      "trumfbonus": "7,8 % (105.3 poeng / 100kr)"
     },
     {
       "domain": "footballtravel.no",
@@ -1293,9 +1275,9 @@
       "slug": "haglofs",
       "name": "Haglöfs",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/haglofs/018f1a0b-1749-708d-bbec-9aa03594b3b0",
-      "trumfurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/haglofs-trumf",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": ""
+      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "hairlust.no",
@@ -1734,9 +1716,9 @@
       "slug": "kjell-co-no",
       "name": "Kjell & Company",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kjell-co-no/0189630d-b8f2-71cc-9d1f-3070ccc4c33a",
-      "trumfurl": "",
+      "trumfurl": "https://trumfnetthandel.no/cashback/kjell-and-co-trumf",
       "sasbonus": "10 poeng / 100kr",
-      "trumfbonus": ""
+      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
       "domain": "kokkeglede.no",
@@ -2195,7 +2177,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/newport-home-trumf",
       "sasbonus": "",
-      "trumfbonus": "7% (94.5 poeng / 100kr)"
+      "trumfbonus": "7 % (94.5 poeng / 100kr)"
     },
     {
       "domain": "nextory.com",
