@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-06",
-      "sourceAt": "2026-11-06T11:59:20.983Z",
+      "sourceAt": "2026-11-06T19:16:35.573Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3693,6 +3693,15 @@
           "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
+          "trumfURL": ""
+        },
+        {
+          "key": "flight:01a1b0e6-f166-7385-90d7-fdede72c2d83",
+          "domain": "",
+          "name": "Etsy",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/etsy/01a1b0e6-f166-7385-90d7-fdede72c2d83",
           "trumfURL": ""
         }
       ]
@@ -7399,10 +7408,20 @@
       "date": "2026-11-06",
       "comparedWith": "2026-11-05",
       "baseline": false,
-      "sourceAt": "2026-11-06T11:59:20.983Z",
-      "publishedAt": "2026-11-06T16:19:26.496Z",
-      "shopCount": 410,
-      "added": [],
+      "sourceAt": "2026-11-06T19:16:35.573Z",
+      "publishedAt": "2026-11-06T21:46:07.364Z",
+      "shopCount": 411,
+      "added": [
+        {
+          "key": "flight:01a1b0e6-f166-7385-90d7-fdede72c2d83",
+          "domain": "",
+          "name": "Etsy",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/etsy/01a1b0e6-f166-7385-90d7-fdede72c2d83",
+          "trumfURL": ""
+        }
+      ],
       "removed": [],
       "changed": [
         {
@@ -15460,6 +15479,10 @@
     [
       "flight:0189630d-fb5b-7045-9d21-b6efc2c4643d",
       "domain:urban-trend.com"
+    ],
+    [
+      "slug:etsy",
+      "flight:01a1b0e6-f166-7385-90d7-fdede72c2d83"
     ]
   ]
 }
