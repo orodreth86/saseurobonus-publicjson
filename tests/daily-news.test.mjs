@@ -158,3 +158,24 @@ test('compact table groups both programme changes under one spanning shop headin
  assert.equal((card.match(/target="_blank"/g)||[]).length,3);
  await fs.rm(out,{recursive:true});
 });
+
+test('Haglofs domainless Trumf joins flight shop in feed, diff and search; aliases persist',async()=>{
+ const {buildShopIndex}=await import('../scripts/shop-history.mjs');
+ const url='https://trumfnetthandel.no/cashback/haglofs-trumf';
+ const flight={name:'Haglofs',domain:'haglofs.com',slug:'haglofs',sasbonus:'25 poeng / 100kr',trumfbonus:''};
+ const trumf={name:'Haglöfs',domain:'',slug:'',sasbonus:'',trumfbonus:'7,8%',trumfurl:url};
+ const raw=feed(at('21'),[flight,trumf]);const normalized=normalize(raw,at('21'));assert.equal(normalized.shops.length,1);assert.equal(normalized.shops[0].domain,'haglofs.com');assert.equal(normalized.shops[0].flight,'25 poeng / 100kr');assert.equal(normalized.shops[0].trumf,'7,8%');
+ let h=updateHistory(null,feed(at('20'),[flight]),at('20'));h=updateHistory(h,raw,at('21'));
+ assert.equal(h.editions[0].added.length,0);assert.equal(h.editions[0].changed.length,1);assert.equal(h.editions[0].changed[0].offers[0].provider,'trumf');assert(h.identityAliases.some(([a,b])=>a==='trumf:haglofs-trumf'&&b==='domain:haglofs.com'));
+ const legacy={version:1,snapshots:[],editions:[{date:'2026-10-20',publishedAt:at('20').toISOString(),added:[{key:'trumf:'+url,name:'Haglöfs',domain:'',trumf:'6,2%',trumfURL:url}],removed:[],changed:[]}]};
+ const fixed=feed(at('21'),[{...flight,trumfbonus:'7,8%',trumfurl:url}]);
+ const index=buildShopIndex({events:[],aliases:[]},legacy,fixed);assert.equal(index.shops.length,1);assert.equal(index.shops[0].events.length,1);assert.equal(index.shops[0].current.trumf,'7,8%');
+ const stillSplit=buildShopIndex({events:[],aliases:[]},legacy,raw);assert.equal(stillSplit.shops.length,1);assert.equal(stillSplit.shops[0].current.flight,'25 poeng / 100kr');assert.equal(stillSplit.shops[0].current.trumf,'7,8%');assert.equal(stillSplit.shops[0].domain,'haglofs.com');
+});
+test('ambiguous names, distinct domains and conflicting bonuses are never silently merged',async()=>{
+ const {createShopResolver}=await import('../scripts/shop-identities.mjs');
+ const rows=[{name:'Brand',domain:'brand.no',slug:'norway'},{name:'Brand',domain:'brand.se',slug:'sweden'},{name:'Brand',trumfurl:'https://trumfnetthandel.no/cashback/brand-trumf'}];
+ const r=createShopResolver(rows);assert.notEqual(r.key(rows[0]),r.key(rows[1]));assert(!r.key(rows[2]).startsWith('domain:'));
+ const raw=feed(at('20'),[{name:'Brand',domain:'brand.no',slug:'brand',sasbonus:'25 poeng'},{name:'Brand',domain:'',trumfurl:'https://trumfnetthandel.no/cashback/brand-trumf',sasbonus:'50 poeng'}]);assert.throws(()=>normalize(raw,at('20')),/Conflicting/);
+ const similar=createShopResolver([{name:'Brand',domain:'brand.no'},{name:'Brand Outlet',slug:'outlet'}]);assert.equal(similar.key({slug:'outlet'}),'slug:outlet');
+});

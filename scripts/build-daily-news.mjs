@@ -1,4 +1,5 @@
 import fs from 'node:fs/promises';
+import {createShopResolver,consolidateSnapshots,historyRows} from './shop-identities.mjs';
 import {renderBonusRankings} from './bonus-rankings.mjs';
 import {renderShopSearch} from './shop-history.mjs';
 import path from 'node:path';
@@ -12,7 +13,7 @@ export function canonical(value, provider) {
   if (provider === 'trumf') s = s.replace(/\([^)]*poeng[^)]*\)/g, ''); // Derived conversion is not a cashback change.
   return s.replace(/\d+(?:[.,]\d+)?/g, n => String(Number(n.replace(',', '.')))).replace(/\s+/g, '');
 }
-export function normalize(feed, now) {
+export function normalize(feed, now, resolver=createShopResolver(feed?.shops||[])) {
   if (!feed || !Array.isArray(feed.shops) || !feed.shops.length) throw Error('Empty or invalid shop feed; previous report retained.');
   const stamp = new Date(feed.generated_at);
   if (!Number.isFinite(stamp.getTime())) throw Error('Feed has no valid generated_at timestamp.');
@@ -21,9 +22,9 @@ export function normalize(feed, now) {
   for (const row of feed.shops) {
     if (!row || typeof row.name !== 'string') throw Error('Invalid shop row.');
     const domain = String(row.domain || '').trim().toLowerCase().replace(/^www\./,'');
-    const key = domain ? `domain:${domain}` : row.slug ? `slug:${row.slug}` : row.trumfurl ? `trumf:${row.trumfurl}` : '';
+    const key = resolver.key({...row,key:!row.domain&&!row.slug&&row.trumfurl?'trumf:'+row.trumfurl:undefined});
     if (!key) throw Error(`No stable identity for ${row.name}`);
-    const shop = {key, domain, name:row.name, flight:String(row.sasbonus || '').trim(), trumf:String(row.trumfbonus || '').trim(), flightURL:safeURL(row.sasurl), trumfURL:safeURL(row.trumfurl)};
+    const shop = {key, domain:key.startsWith('domain:')?key.slice(7):domain, name:row.name, flight:String(row.sasbonus || '').trim(), trumf:String(row.trumfbonus || '').trim(), flightURL:safeURL(row.sasurl), trumfURL:safeURL(row.trumfurl)};
     if (!shops.has(key)) shops.set(key,shop);
     else {
       const old=shops.get(key);
@@ -35,7 +36,8 @@ export function normalize(feed, now) {
   }
   return {sourceAt:stamp.toISOString(),shops:[...shops.values()].sort((a,b)=>a.key.localeCompare(b.key))};
 }
-export function compare(before, after) {
+export function compare(before, after, resolver=createShopResolver([...after,...before])) {
+  before=consolidateSnapshots(before,resolver,canonical);after=consolidateSnapshots(after,resolver,canonical);
   const old = new Map(before.map(s=>[s.key,s])), current = new Map(after.map(s=>[s.key,s]));
   const added=[],removed=[],changed=[];
   for (const s of after) {
@@ -52,16 +54,17 @@ export function compare(before, after) {
   return {added:sort(added),removed:sort(removed),changed:sort(changed)};
 }
 export function updateHistory(history, feed, now=new Date()) {
-  const date=dayInOslo(now), snapshot={date,...normalize(feed,now)};
+  const resolver=createShopResolver([...(feed?.shops||[]),...historyRows(history)],history?.identityAliases||[]);
+  const date=dayInOslo(now), snapshot={date,...normalize(feed,now,resolver)};
   if (history && (history.version!==1 || !Array.isArray(history.snapshots) || !history.snapshots.length || !Array.isArray(history.editions))) throw Error('Invalid history; refusing to reset it.');
   const previous=history?.snapshots.filter(s=>s.date<date).sort((a,b)=>b.date.localeCompare(a.date))[0];
   if (history?.snapshots.some(s=>s.date>date)) throw Error('Clock precedes recorded history.');
-  if (previous && snapshot.shops.length<previous.shops.length*.8) throw Error('Shop count dropped by more than 20%; investigate before publishing.');
-  const diff=previous?compare(previous.shops,snapshot.shops):{added:[],removed:[],changed:[]};
+  if (previous && snapshot.shops.length<consolidateSnapshots(previous.shops,resolver,canonical).length*.8) throw Error('Shop count dropped by more than 20%; investigate before publishing.');
+  const diff=previous?compare(previous.shops,snapshot.shops,resolver):{added:[],removed:[],changed:[]};
   const edition={date,comparedWith:previous?.date || null,baseline:!previous,sourceAt:snapshot.sourceAt,publishedAt:now.toISOString(),shopCount:snapshot.shops.length,...diff};
   const editions=[...(history?.editions || []).filter(e=>e.date!==date),edition].sort((a,b)=>b.date.localeCompare(a.date));
   const snapshots=[...(history?.snapshots || []).filter(s=>s.date!==date),snapshot].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,2);
-  return {version:1,snapshots,editions};
+  return {version:1,snapshots,editions,identityAliases:resolver.aliases()};
 }
 const total=e=>e.changed.length+e.added.length+e.removed.length;
 const summary=e=>e.baseline?'Tracking started':total(e)?`${e.changed.length} bonus changes · ${e.added.length} new shops · ${e.removed.length} removed`:'No changes to bonuses or participating shops';

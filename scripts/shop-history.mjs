@@ -1,4 +1,5 @@
 import fs from 'node:fs/promises';
+import {createShopResolver,historyRows} from './shop-identities.mjs';
 import {analyzeBonusPatterns} from './bonus-patterns.mjs';
 import path from 'node:path';
 import {pathToFileURL} from 'node:url';
@@ -36,18 +37,15 @@ export function importChangelog(text) {
  return {version:1,through:at,events,aliases,names,report:{shopRows:lines,events:events.length,ignoredFormatting}};
 }
 export function buildShopIndex(seed,history,feed) {
- const parent=new Map();const find=x=>{if(!parent.has(x))parent.set(x,x);if(parent.get(x)!==x)parent.set(x,find(parent.get(x)));return parent.get(x)};
- const union=(a,b)=>{a=find(a);b=find(b);if(a!==b)parent.set(a,b)};
- for(const [a,b] of seed.aliases||[])union(a,b);
+ const resolver=createShopResolver([...feed.shops,...historyRows(history),...(seed.events||[])],[...(seed.aliases||[]),...(history.identityAliases||[])]);
+ const find=resolver.canonical;
  const domainId=d=>'domain:'+String(d).toLowerCase().replace(/^www\./,'');
- for(const s of feed.shops)if(s.slug&&s.domain)union('slug:'+s.slug,domainId(s.domain));
- // Old daily snapshots may omit the slug, but the current feed provides that join.
  const all=[...(seed.events||[])];
  for(const e of history.editions){
   for(const s of e.changed)for(const o of s.offers)all.push({id:s.key,name:s.name,at:e.publishedAt,day:e.date,provider:o.provider,before:o.before,after:o.after,kind:'change',source:'Daily snapshot'});
   for(const s of e.added)for(const provider of ['flight','trumf'])if(s[provider])all.push({id:s.key,name:s.name,at:e.publishedAt,day:e.date,provider,before:'',after:s[provider],kind:'observation',source:'Daily snapshot'});
  }
- const shops=new Map();const get=(id,name)=>{id=find(id);if(!shops.has(id))shops.set(id,{id,name,aliases:[],domain:'',current:null,events:[]});return shops.get(id)};
+ const shops=new Map();const get=(id,name)=>{id=find(id);if(!shops.has(id))shops.set(id,{id,name,aliases:[],domain:id.startsWith('domain:')?id.slice(7):'',current:null,events:[]});return shops.get(id)};
  const signatures=new Set();
  // Keep precise imported runs over daily summaries for the SAME day/provider transition.
  const signature=e=>[find(e.id),e.day||new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Oslo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(e.at)),e.provider,comparable(e.before,e.provider),comparable(e.after,e.provider)].join('|');
@@ -60,7 +58,7 @@ export function buildShopIndex(seed,history,feed) {
   const sig=[s.id,e.at,e.provider,before,after,e.kind].join('|');if(signatures.has(sig))continue;signatures.add(sig);
   s.events.push({...e,id:s.id,before,after});
  }
- for(const s of feed.shops){const id=s.domain?domainId(s.domain):'slug:'+s.slug;const shop=get(id,s.name);shop.name=s.name;shop.domain=s.domain||'';shop.current={flight:cleanReward(s.sasbonus),trumf:cleanReward(s.trumfbonus),at:feed.generated_at};if(!shop.aliases.includes(s.name))shop.aliases.push(s.name);}
+ for(const s of feed.shops){const id=resolver.key({...s,key:!s.domain&&!s.slug&&s.trumfurl?'trumf:'+s.trumfurl:undefined});const shop=get(id,s.name);shop.name=s.name;shop.domain=shop.id.startsWith('domain:')?shop.id.slice(7):s.domain||'';shop.current??={flight:'',trumf:'',at:feed.generated_at};for(const [p,field] of [['flight','sasbonus'],['trumf','trumfbonus']]){const value=cleanReward(s[field]);if(value&&shop.current[p]&&comparable(value,p)!==comparable(shop.current[p],p))throw Error(`Conflicting current rewards for ${s.name}`);if(value)shop.current[p]=value;}if(!shop.aliases.includes(s.name))shop.aliases.push(s.name);}
  return {version:1,updatedAt:feed.generated_at,importThrough:seed.through||null,shops:[...shops.values()].map(s=>({...s,events:s.events.sort((a,b)=>b.at.localeCompare(a.at))})).sort((a,b)=>a.name.localeCompare(b.name,'nb'))};
 }
 export async function renderShopSearch(history,feed,output,base,shell,escape,rewardDirection){

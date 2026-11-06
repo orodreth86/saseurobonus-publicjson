@@ -1,4 +1,5 @@
 import fs from 'node:fs/promises';
+import {createShopResolver} from './shop-identities.mjs';
 import path from 'node:path';
 
 // Explicit ranking conversions. Existing feed display/conversions are unchanged.
@@ -30,13 +31,13 @@ function storefront(domain){
  return safeURL('https://'+d);
 }
 export function rankShops(feed,category){
- const rows=new Map();
+ const rows=new Map(),resolver=createShopResolver(feed.shops);
  for(const [i,s] of feed.shops.entries()){
-  const key=s.domain?String(s.domain).toLowerCase().replace(/^www\./,''):s.slug?'slug:'+s.slug:'row:'+i;
+  const key=resolver.key(s)||'row:'+i;
   for(const provider of ['flight','trumf']){
    const offer=parseRankedReward(s[provider==='flight'?'sasbonus':'trumfbonus'],provider,category);if(!offer)continue;
    offer.url=safeURL(s[provider==='flight'?'sasurl':'trumfurl']);
-   if(!rows.has(key))rows.set(key,{name:s.name,domain:s.domain||'',url:storefront(s.domain),offers:[]});
+   if(!rows.has(key)){const domain=key.startsWith('domain:')?key.slice(7):s.domain||'';rows.set(key,{name:s.name,domain,url:storefront(domain),offers:[]});}
    const row=rows.get(key),old=row.offers.find(o=>o.provider===provider);
    if(!old)row.offers.push(offer);else if(offer.points>old.points)Object.assign(old,offer);
   }
