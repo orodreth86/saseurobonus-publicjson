@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:59:20.983Z",
+  "generated_at": "2026-11-06T19:16:35.573Z",
   "shops": [
     {
       "domain": "",
@@ -8,6 +8,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "etsy",
+      "name": "Etsy",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/etsy/01a1b0e6-f166-7385-90d7-fdede72c2d83",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": ""
     },
     {
