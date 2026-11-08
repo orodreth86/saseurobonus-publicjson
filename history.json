@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-08",
-      "sourceAt": "2026-11-07T23:37:12.207Z",
+      "sourceAt": "2026-11-08T05:50:19.117Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3214,7 +3214,7 @@
           "domain": "tannbleking.no",
           "name": "Dentaworks",
           "flight": "",
-          "trumf": "19,5% (263.3 poeng / 100kr)",
+          "trumf": "19,5 % (263.3 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/dentaworks"
         },
@@ -7417,8 +7417,8 @@
       "date": "2026-11-08",
       "comparedWith": "2026-11-07",
       "baseline": false,
-      "sourceAt": "2026-11-07T23:37:12.207Z",
-      "publishedAt": "2026-11-07T23:59:37.659Z",
+      "sourceAt": "2026-11-08T05:50:19.117Z",
+      "publishedAt": "2026-11-08T06:43:31.848Z",
       "shopCount": 411,
       "added": [],
       "removed": [],
