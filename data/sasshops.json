@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:39:38.748Z",
+  "generated_at": "2026-11-10T12:29:11.899Z",
   "shops": [
     {
       "domain": "",
@@ -2497,7 +2497,7 @@
     {
       "domain": "philips.no",
       "slug": "philips",
-      "name": "Philips",
+      "name": "Philips Home Appliances",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/philips/01896307-ce95-73ec-b705-8d5a7c4410b2",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
@@ -3265,7 +3265,7 @@
       "name": "Tibber",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/tibber/018abc11-cf42-731d-a74c-99b0c7398eef",
       "trumfurl": "",
-      "sasbonus": "1000 poeng",
+      "sasbonus": "2000 poeng",
       "trumfbonus": ""
     },
     {
