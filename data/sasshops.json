@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:29:11.899Z",
+  "generated_at": "2026-11-10T21:46:43.224Z",
   "shops": [
     {
       "domain": "",
@@ -17,6 +17,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/etsy/01a1b0e6-f166-7385-90d7-fdede72c2d83",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "mytheresa",
+      "name": "Mytheresa",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/mytheresa/019edad6-5e38-7178-ae89-d222ff519417",
+      "trumfurl": "",
+      "sasbonus": "15 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1439,7 +1448,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/hultens/0189630a-c6f7-7291-8c71-3010f6b9bab2",
       "trumfurl": "https://trumfnetthandel.no/cashback/hultens-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
+      "trumfbonus": "5,4 % (72.9 poeng / 100kr)"
     },
     {
       "domain": "hunkemoller.no",
@@ -1807,7 +1816,7 @@
       "name": "LEGO",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lego/01896310-5de4-71af-9cfa-190c9eebec97",
       "trumfurl": "https://trumfnetthandel.no/cashback/lego-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
     },
     {
