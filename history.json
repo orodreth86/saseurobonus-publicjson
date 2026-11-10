@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-10",
-      "sourceAt": "2026-11-10T02:39:38.748Z",
+      "sourceAt": "2026-11-10T12:29:11.899Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -2483,7 +2483,7 @@
         {
           "key": "domain:philips.no",
           "domain": "philips.no",
-          "name": "Philips",
+          "name": "Philips Home Appliances",
           "flight": "25 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/philips/01896307-ce95-73ec-b705-8d5a7c4410b2",
@@ -3249,7 +3249,7 @@
           "key": "domain:tibber.com",
           "domain": "tibber.com",
           "name": "Tibber",
-          "flight": "1000 poeng",
+          "flight": "2000 poeng",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tibber/018abc11-cf42-731d-a74c-99b0c7398eef",
           "trumfURL": ""
@@ -7417,8 +7417,8 @@
       "date": "2026-11-10",
       "comparedWith": "2026-11-09",
       "baseline": false,
-      "sourceAt": "2026-11-10T02:39:38.748Z",
-      "publishedAt": "2026-11-10T02:56:25.449Z",
+      "sourceAt": "2026-11-10T12:29:11.899Z",
+      "publishedAt": "2026-11-10T13:00:28.879Z",
       "shopCount": 411,
       "added": [],
       "removed": [],
@@ -7437,6 +7437,23 @@
               "before": "6,2 % (83.7 poeng / 100kr)",
               "after": "3,1 % (41.9 poeng / 100kr)",
               "url": "https://trumfnetthandel.no/cashback/blivakker-trumf"
+            }
+          ]
+        },
+        {
+          "key": "domain:tibber.com",
+          "domain": "tibber.com",
+          "name": "Tibber",
+          "flight": "2000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tibber/018abc11-cf42-731d-a74c-99b0c7398eef",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "1000 poeng",
+              "after": "2000 poeng",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/tibber/018abc11-cf42-731d-a74c-99b0c7398eef"
             }
           ]
         }
