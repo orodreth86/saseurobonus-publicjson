@@ -52,7 +52,7 @@ test('HTML escaping, direct shop links, timeline, archive and RSS removal',async
  const html=await fs.readFile(path.join(out,'days/2026-10-21.html'),'utf8');
  assert(html.includes('&lt;script&gt;&amp;Shop'));assert(!html.includes('javascript:'));assert(!html.includes('<script>'));
  await assert.rejects(fs.access(path.join(out,'rss.xml')));
- assert(html.includes('href="https://example.com/news/shops.html#domain%3Alego.com"'));
+ assert(html.includes('href="https://example.com/news/shop.html#domain%3Alego.com"'));
  const front=await fs.readFile(path.join(out,'index.html'),'utf8');
  assert(!front.includes('Link to this day'));
  assert(!front.includes('What changed?'));
@@ -152,7 +152,7 @@ test('compact table groups both programme changes under one spanning shop headin
  const html=await fs.readFile(path.join(out,'index.html'),'utf8');
  const cards=html.match(/<tbody class="shop-group">[\s\S]*?<\/tbody>/g)||[];
  assert.equal(cards.length,1);const card=cards[0];
- assert.equal((card.match(/class="shop-heading"/g)||[]).length,1);assert(card.includes('scope="rowgroup" rowspan="2"'));assert(card.includes('>Kost1</a><small>'));assert(!html.includes('<article class="changed-shop">'));assert(card.includes('href="https://example.com/shops.html#domain%3Akost1.no"'));
+ assert.equal((card.match(/class="shop-heading"/g)||[]).length,1);assert(card.includes('scope="rowgroup" rowspan="2"'));assert(card.includes('>Kost1</a><small>'));assert(!html.includes('<article class="changed-shop">'));assert(card.includes('href="https://example.com/shop.html#domain%3Akost1.no"'));
  assert(card.includes('scope="row" class="programme">Flight points</th>'));assert(card.includes('scope="row" class="programme">Trumf</th>'));
  assert(card.includes('50 poeng / 100kr'));assert(card.includes('7,8 %'));assert.equal((card.match(/direction up/g)||[]).length,2);
  assert.equal((card.match(/target="_blank"/g)||[]).length,2);
@@ -187,13 +187,43 @@ test('current bonus panel clearly separates programmes and retains unavailable s
   set textContent(text){this._text=String(text);this.children=[];}get textContent(){return this._text+this.children.map(c=>c.textContent).join('');}
   append(...nodes){this.children.push(...nodes);}replaceChildren(...nodes){this._text='';this.children=nodes;}setAttribute(k,v){this.attrs[k]=v;}addEventListener(k,v){this.events[k]=v;}scrollIntoView(){this.scrolled=true;}
  }
- const nodes=Object.fromEntries(['shop-query','shop-results','shop-detail','search-status'].map(id=>[id,new Node('div')]));
+ const nodes=Object.fromEntries(['shop-query','shop-results','shop-detail','search-status','shop-page','back-to-search'].map(id=>[id,new Node('div')]));
  const document={getElementById:id=>nodes[id],createElement:tag=>new Node(tag),createElementNS:(ns,tag)=>new Node(tag)};
- const shop={id:'domain:lego.com',name:'LEGO',domain:'lego.com',aliases:[],events:[],current:{flight:'50 poeng / 100kr',trumf:'2,3 % (31.0 poeng / 100kr)',at:'2026-11-11T12:00:00Z'}};
+ const shop={id:'domain:lego.com',name:'LEGO',domain:'lego.com',aliases:[],events:[],current:{flight:'50 poeng / 100kr',trumf:'2,3 % (31.0 poeng / 100kr)',at:'2026-11-11T12:00:00Z',flightURL:'https://onlineshopping.flysas.com/offer',trumfURL:'https://trumfnetthandel.no/cashback/lego-trumf'}};
  const code=await fs.readFile(new URL('../scripts/shop-search.js',import.meta.url),'utf8');
- vm.runInNewContext(code,{document,Intl,URL,location:{hash:'#domain%3Alego.com'},history:{replaceState(){}},fetch:async()=>({ok:true,json:async()=>({shops:[shop],updatedAt:shop.current.at})})});
+ vm.runInNewContext(code,{document,Intl,URL,location:{hash:'#domain%3Alego.com'},history:{replaceState(){}},URLSearchParams,fetch:async()=>({ok:true,json:async()=>({shops:[shop],updatedAt:shop.current.at})})});
  await new Promise(setImmediate);
  const descendants=node=>[node,...node.children.flatMap(descendants)];
- let all=descendants(nodes['shop-detail']);assert.equal(all.filter(n=>n.className==='current-bonus-card').length,2);assert(all.some(n=>n.className==='current-bonus-value'&&n.textContent==='50 poeng / 100kr'));assert(all.some(n=>n.className==='current-bonus-value'&&n.textContent==='2,3 %'));assert(all.some(n=>n.className==='current-bonus-conversion'&&n.textContent==='31.0 poeng / 100kr'));assert(nodes['shop-detail'].scrolled);
- shop.current.trumf='';nodes['shop-results'].children[0].events.click();all=descendants(nodes['shop-detail']);assert(all.some(n=>n.className==='current-bonus-value bonus-unavailable'&&n.textContent==='Not available'));
+ let all=descendants(nodes['shop-detail']);assert.equal(all.filter(n=>n.className?.startsWith('current-bonus-card')).length,2);assert(all.some(n=>n.className==='current-bonus-value'&&n.textContent==='50 poeng / 100kr'));assert(all.some(n=>n.className==='current-bonus-value'&&n.textContent==='2,3 %'));assert(all.some(n=>n.className==='current-bonus-conversion'&&n.textContent==='31.0 poeng / 100kr'));assert(all.some(n=>n.href==='https://trumfnetthandel.no/cashback/lego-trumf'&&n.target==='_blank'));
+ shop.current.trumf='';all.find(n=>n.tag==='select').events.change();all=descendants(nodes['shop-detail']);assert(all.some(n=>n.className==='current-bonus-value bonus-unavailable'&&n.textContent==='Not available'));
+});
+
+test('dedicated shop page retains header and exports current programme URLs',async()=>{
+ const out=await fs.mkdtemp(path.join(os.tmpdir(),'dedicated-shop-'));
+ const raw=feed(at('20'));await renderSite(updateHistory(null,raw,at('20')),out,'https://example.com/',raw);
+ const html=await fs.readFile(path.join(out,'shop.html'),'utf8');assert(html.includes('id="back-to-search"'));assert(html.includes('>Home</a>'));assert(html.includes('Top 10 fixed bonuses'));assert(html.includes('id="extension-promo" hidden'));assert(!html.includes('id="shop-query"'));
+ const data=JSON.parse(await fs.readFile(path.join(out,'shop-history.json'),'utf8'));const lego=data.shops.find(s=>s.domain==='lego.com');assert.equal(lego.current.flightURL,'https://example.com/lego');assert.equal(lego.current.trumfURL,'https://example.com/trumf');
+ await fs.access(path.join(out,'site-ui.js'));await fs.rm(out,{recursive:true});
+});
+test('search results link to dedicated page and preserve query; old overview hashes redirect',async()=>{
+ const vm=await import('node:vm');const code=await fs.readFile(new URL('../scripts/shop-search.js',import.meta.url),'utf8');
+ const nodes=Object.fromEntries(['shop-query','shop-results','search-status'].map(k=>[k,{value:'',children:[],textContent:'',events:{},append(n){this.children.push(n)},replaceChildren(){this.children=[]},addEventListener(k,fn){this.events[k]=fn}}]));
+ const document={getElementById:id=>nodes[id],createElement:()=>({events:{},addEventListener(k,fn){this.events[k]=fn}})};
+ const storage=new Map();let redirected='';
+ const context={document,URLSearchParams,sessionStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v)},location:{hash:'',search:'?q=lego',replace:v=>redirected=v},history:{replaceState(){}},fetch:async()=>({ok:true,json:async()=>({shops:[{id:'domain:lego.com',name:'LEGO',domain:'lego.com',aliases:[]}]})})};
+ vm.runInNewContext(code,context);await new Promise(setImmediate);
+ assert.equal(nodes['shop-query'].value,'lego');assert.equal(nodes['shop-results'].children[0].href,'shop.html?q=lego#domain%3Alego.com');nodes['shop-results'].children[0].events.click();assert.equal(storage.get('flight-bonus-search'),'lego');
+ context.location.hash='#domain%3Alego.com';vm.runInNewContext(code,context);await new Promise(setImmediate);assert.equal(redirected,'shop.html?q=lego#domain%3Alego.com');
+});
+test('install banner selects browser and hides only after a matching local handshake',async()=>{
+ const vm=await import('node:vm');const code=await fs.readFile(new URL('../scripts/site-ui.js',import.meta.url),'utf8');
+ for(const [ua,browser] of [['Mozilla Chrome/150.0 Safari/537.36','chrome'],['Mozilla Firefox/150.0','firefox'],['Mozilla Chrome/150.0 Edg/150.0',''],['Mozilla Version/18.0 Safari/600.0','']]){
+  const buttons=['chrome','firefox'].map(b=>({dataset:{extensionBrowser:b},hidden:true})),panel={hidden:true,querySelectorAll:()=>buttons},listeners={};
+  const window={addEventListener:(k,fn)=>listeners[k]=fn,postMessage(){}};
+  vm.runInNewContext(code,{document:{getElementById:()=>panel},navigator:{userAgent:ua},crypto:{randomUUID:()=> 'test-token'},location:{origin:'https://orodreth86.github.io'},window,setTimeout(){}});
+  assert.equal(panel.hidden,!browser);if(browser)assert.equal(buttons.find(b=>!b.hidden).dataset.extensionBrowser,browser);
+  listeners.message({source:window,origin:'https://evil.example',data:{type:'flight-bonus-notifier:installed',token:'test-token'}});assert.equal(panel.hidden,!browser);
+  listeners.message({source:window,origin:'https://orodreth86.github.io',data:{type:'flight-bonus-notifier:installed',token:'wrong-token'}});assert.equal(panel.hidden,!browser);
+  listeners.message({source:window,origin:'https://orodreth86.github.io',data:{type:'flight-bonus-notifier:installed',token:'test-token'}});assert(panel.hidden);
+ }
 });

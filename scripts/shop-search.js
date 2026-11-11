@@ -1,30 +1,41 @@
 (()=>{
  const query=document.getElementById('shop-query'),results=document.getElementById('shop-results'),detail=document.getElementById('shop-detail'),status=document.getElementById('search-status');
+ const dedicated=!!document.getElementById('shop-page');
+ const params=new URLSearchParams(location.search||'');
+ const savedQuery=()=>{try{return sessionStorage.getItem('flight-bonus-search')||'';}catch{return '';}};
+ const searchQuery=params.get('q')??savedQuery();
+ if(query)query.value=searchQuery;
+ const rememberSearch=()=>{try{sessionStorage.setItem('flight-bonus-search',query?.value||searchQuery);}catch{}};
+ const back=document.getElementById('back-to-search');if(back)back.href='shops.html'+(searchQuery?'?q='+encodeURIComponent(searchQuery):'');
  let data,selected,provider='all',page=0;const pageSize=50;
  const el=(tag,text,cls)=>{const node=document.createElement(tag);if(text!==undefined)node.textContent=text;if(cls)node.className=cls;return node};
  const label=p=>p==='flight'?'Flight points':'Trumf';
  const fmt=at=>new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Oslo',dateStyle:'medium',timeStyle:'short'}).format(new Date(at));
  const changes=events=>events.filter(e=>e.kind==='change'&&e.before&&e.after);
- function showShop(shop){selected=shop;provider='all';page=0;history.replaceState(null,'','#'+encodeURIComponent(shop.id));renderDetail();detail.scrollIntoView({block:'start'});}
+ function shopAddress(shop){return 'shop.html'+(query?.value?'?q='+encodeURIComponent(query.value):'')+'#'+encodeURIComponent(shop.id);}
+ function showShop(shop){selected=shop;provider='all';page=0;document.title=shop.name+' · Flight Bonus Notifier';status.textContent='';renderDetail();}
+
  function renderResults(){
   const term=query.value.normalize('NFKC').toLocaleLowerCase().trim();
   const matches=data.shops.filter(s=>[s.name,s.domain,s.id,...s.aliases].join(' ').normalize('NFKC').toLocaleLowerCase().includes(term));
   results.replaceChildren();status.textContent=matches.length+(matches.length===1?' matching shop':' matching shops')+(matches.length>50?' · Showing the first 50; type more to narrow your search.':'');
   for(const shop of matches.slice(0,50)){
-   const button=el('button',shop.name+(shop.domain?' · '+shop.domain:''),'search-result');button.type='button';button.addEventListener('click',()=>showShop(shop));results.append(button);
+   const button=el('a',shop.name+(shop.domain?' · '+shop.domain:''),'search-result');button.href=shopAddress(shop);button.addEventListener('click',rememberSearch);results.append(button);
   }
  }
  function renderDetail(){
-  const shop=selected;detail.replaceChildren(el('h2',shop.name));
+  const shop=selected;detail.replaceChildren(el(dedicated?'h1':'h2',shop.name));
   if(shop.domain){try{const url=new URL('https://'+shop.domain);if(url.pathname==='/'&&!url.username&&!url.password){const a=el('a','Visit '+shop.domain);a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';detail.append(a);}}catch{}}
   if(shop.current){
    const panel=el('section',undefined,'current-bonuses');panel.setAttribute('aria-label','Current bonuses');panel.append(el('h3','Current bonuses'));
    const cards=el('div',undefined,'current-bonus-grid');
    for(const p of ['flight','trumf']){
-    const card=el('div',undefined,'current-bonus-card');card.append(el('p',label(p),'current-bonus-label'));
+    let url='';try{const u=new URL(shop.current[p+'URL']);if(shop.current[p]&&u.protocol==='https:')url=u.href;}catch{}
+    const card=el(url?'a':'div',undefined,'current-bonus-card'+(url?' current-bonus-link':''));if(url){card.href=url;card.target='_blank';card.rel='noopener noreferrer';card.setAttribute('aria-label','View '+label(p)+' offer (opens in a new tab)');}card.append(el('p',label(p),'current-bonus-label'));
     const raw=shop.current[p]||'',converted=p==='trumf'?raw.match(/\s*\(([^)]*poeng[^)]*)\)\s*$/i):null;
     card.append(el('p',raw?(converted?raw.slice(0,converted.index).trim():raw):'Not available','current-bonus-value'+(raw?'':' bonus-unavailable')));
     if(converted)card.append(el('small',converted[1],'current-bonus-conversion'));
+    if(url)card.append(el('span','View '+label(p)+' offer ↗','current-offer-action'));
     cards.append(card);
    }
    panel.append(cards,el('p','Feed updated '+fmt(shop.current.at)+' (Norway time).','current-bonus-updated'));detail.append(panel);
@@ -63,8 +74,12 @@
   }table.append(tbody);wrap.append(table);detail.append(wrap);
   if(events.length>pageSize){const nav=el('div',undefined,'history-pages');for(const [text,step] of [['Newer records',-1],['Older records',1]]){const b=el('button',text);b.type='button';b.disabled=step<0?page===0:(page+1)*pageSize>=events.length;b.addEventListener('click',()=>{page+=step;renderDetail();});nav.append(b);}nav.append(el('span',`Page ${page+1} of ${Math.ceil(events.length/pageSize)}`));detail.append(nav);}
  }
- query.addEventListener('input',()=>{if(data)renderResults()});
+ if(query)query.addEventListener('input',()=>{rememberSearch();history.replaceState(null,'','shops.html'+(query.value?'?q='+encodeURIComponent(query.value):''));if(data)renderResults()});
  fetch('shop-history.json').then(r=>{if(!r.ok)throw Error('History unavailable');return r.json()}).then(value=>{
-  data=value;renderResults();let id='';try{id=decodeURIComponent(location.hash.slice(1))}catch{}const shop=data.shops.find(s=>s.id===id);if(shop)showShop(shop);
+  data=value;let id='';try{id=decodeURIComponent(location.hash.slice(1))}catch{}
+  const shop=data.shops.find(s=>s.id===id);
+  if(dedicated){if(shop)showShop(shop);else status.textContent='Shop not found. Use Back to search to find another shop.';}
+  else if(shop){location.replace(shopAddress(shop));} // Keep existing shops.html#... bookmarks working.
+  else renderResults();
  }).catch(()=>{status.textContent='Could not load shop history. Please refresh to try again.';});
 })();
