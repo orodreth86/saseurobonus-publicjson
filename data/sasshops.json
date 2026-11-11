@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:57:08.562Z",
+  "generated_at": "2026-11-11T16:04:14.439Z",
   "shops": [
     {
       "domain": "",
@@ -1226,15 +1226,6 @@
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
-      "domain": "goboken.no",
-      "slug": "",
-      "name": "Goboken",
-      "sasurl": "",
-      "trumfurl": "https://trumfnetthandel.no/cashback/goboken-trumf",
-      "sasbonus": "",
-      "trumfbonus": "90 kr (1215.0 poeng)"
-    },
-    {
       "domain": "gonordiccruiseline.no",
       "slug": "go-nordic-cruiseline",
       "name": "Go Nordic Cruiseline",
@@ -1394,7 +1385,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/holidu-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
+      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
     },
     {
       "domain": "holzweiler.no",
@@ -2249,7 +2240,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
       "trumfurl": "https://trumfnetthandel.no/cashback/harman-kardon-trumf",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
+      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
     },
     {
       "domain": "no.jbl.com",
@@ -2869,7 +2860,7 @@
       "name": "Siemens Home",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
       "trumfurl": "https://trumfnetthandel.no/cashback/siemens-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "100 poeng / 100kr",
       "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
     },
     {
@@ -3157,7 +3148,7 @@
       "name": "Storytel",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/storytel-no/0189630c-97b2-70fc-b190-002eaed90291",
       "trumfurl": "",
-      "sasbonus": "250 poeng",
+      "sasbonus": "500 poeng",
       "trumfbonus": ""
     },
     {
@@ -3517,7 +3508,7 @@
       "name": "Vinlagringskompaniet",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb",
       "trumfurl": "",
-      "sasbonus": "15 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
