@@ -52,7 +52,7 @@ test('HTML escaping, direct shop links, timeline, archive and RSS removal',async
  const html=await fs.readFile(path.join(out,'days/2026-10-21.html'),'utf8');
  assert(html.includes('&lt;script&gt;&amp;Shop'));assert(!html.includes('javascript:'));assert(!html.includes('<script>'));
  await assert.rejects(fs.access(path.join(out,'rss.xml')));
- assert(html.includes('href="https://lego.com/"'));
+ assert(html.includes('href="https://example.com/news/shops.html#domain%3Alego.com"'));
  const front=await fs.readFile(path.join(out,'index.html'),'utf8');
  assert(!front.includes('Link to this day'));
  assert(!front.includes('What changed?'));
@@ -152,10 +152,10 @@ test('compact table groups both programme changes under one spanning shop headin
  const html=await fs.readFile(path.join(out,'index.html'),'utf8');
  const cards=html.match(/<tbody class="shop-group">[\s\S]*?<\/tbody>/g)||[];
  assert.equal(cards.length,1);const card=cards[0];
- assert.equal((card.match(/class="shop-heading"/g)||[]).length,1);assert(card.includes('scope="rowgroup" rowspan="2"'));assert(card.includes('>Kost1</a><small>'));assert(!html.includes('<article class="changed-shop">'));assert(card.includes('href="https://kost1.no/"'));
+ assert.equal((card.match(/class="shop-heading"/g)||[]).length,1);assert(card.includes('scope="rowgroup" rowspan="2"'));assert(card.includes('>Kost1</a><small>'));assert(!html.includes('<article class="changed-shop">'));assert(card.includes('href="https://example.com/shops.html#domain%3Akost1.no"'));
  assert(card.includes('scope="row" class="programme">Flight points</th>'));assert(card.includes('scope="row" class="programme">Trumf</th>'));
  assert(card.includes('50 poeng / 100kr'));assert(card.includes('7,8 %'));assert.equal((card.match(/direction up/g)||[]).length,2);
- assert.equal((card.match(/target="_blank"/g)||[]).length,3);
+ assert.equal((card.match(/target="_blank"/g)||[]).length,2);
  await fs.rm(out,{recursive:true});
 });
 
@@ -178,4 +178,22 @@ test('ambiguous names, distinct domains and conflicting bonuses are never silent
  const r=createShopResolver(rows);assert.notEqual(r.key(rows[0]),r.key(rows[1]));assert(!r.key(rows[2]).startsWith('domain:'));
  const raw=feed(at('20'),[{name:'Brand',domain:'brand.no',slug:'brand',sasbonus:'25 poeng'},{name:'Brand',domain:'',trumfurl:'https://trumfnetthandel.no/cashback/brand-trumf',sasbonus:'50 poeng'}]);assert.throws(()=>normalize(raw,at('20')),/Conflicting/);
  const similar=createShopResolver([{name:'Brand',domain:'brand.no'},{name:'Brand Outlet',slug:'outlet'}]);assert.equal(similar.key({slug:'outlet'}),'slug:outlet');
+});
+
+test('current bonus panel clearly separates programmes and retains unavailable states',async()=>{
+ const vm=await import('node:vm');
+ class Node {
+  constructor(tag){this.tag=tag;this.children=[];this.attrs={};this.events={};this._text='';this.value='';}
+  set textContent(text){this._text=String(text);this.children=[];}get textContent(){return this._text+this.children.map(c=>c.textContent).join('');}
+  append(...nodes){this.children.push(...nodes);}replaceChildren(...nodes){this._text='';this.children=nodes;}setAttribute(k,v){this.attrs[k]=v;}addEventListener(k,v){this.events[k]=v;}scrollIntoView(){this.scrolled=true;}
+ }
+ const nodes=Object.fromEntries(['shop-query','shop-results','shop-detail','search-status'].map(id=>[id,new Node('div')]));
+ const document={getElementById:id=>nodes[id],createElement:tag=>new Node(tag),createElementNS:(ns,tag)=>new Node(tag)};
+ const shop={id:'domain:lego.com',name:'LEGO',domain:'lego.com',aliases:[],events:[],current:{flight:'50 poeng / 100kr',trumf:'2,3 % (31.0 poeng / 100kr)',at:'2026-11-11T12:00:00Z'}};
+ const code=await fs.readFile(new URL('../scripts/shop-search.js',import.meta.url),'utf8');
+ vm.runInNewContext(code,{document,Intl,URL,location:{hash:'#domain%3Alego.com'},history:{replaceState(){}},fetch:async()=>({ok:true,json:async()=>({shops:[shop],updatedAt:shop.current.at})})});
+ await new Promise(setImmediate);
+ const descendants=node=>[node,...node.children.flatMap(descendants)];
+ let all=descendants(nodes['shop-detail']);assert.equal(all.filter(n=>n.className==='current-bonus-card').length,2);assert(all.some(n=>n.className==='current-bonus-value'&&n.textContent==='50 poeng / 100kr'));assert(all.some(n=>n.className==='current-bonus-value'&&n.textContent==='2,3 %'));assert(all.some(n=>n.className==='current-bonus-conversion'&&n.textContent==='31.0 poeng / 100kr'));assert(nodes['shop-detail'].scrolled);
+ shop.current.trumf='';nodes['shop-results'].children[0].events.click();all=descendants(nodes['shop-detail']);assert(all.some(n=>n.className==='current-bonus-value bonus-unavailable'&&n.textContent==='Not available'));
 });

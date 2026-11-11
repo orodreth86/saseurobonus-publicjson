@@ -5,7 +5,7 @@
  const label=p=>p==='flight'?'Flight points':'Trumf';
  const fmt=at=>new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Oslo',dateStyle:'medium',timeStyle:'short'}).format(new Date(at));
  const changes=events=>events.filter(e=>e.kind==='change'&&e.before&&e.after);
- function showShop(shop){selected=shop;provider='all';page=0;history.replaceState(null,'','#'+encodeURIComponent(shop.id));renderDetail();}
+ function showShop(shop){selected=shop;provider='all';page=0;history.replaceState(null,'','#'+encodeURIComponent(shop.id));renderDetail();detail.scrollIntoView({block:'start'});}
  function renderResults(){
   const term=query.value.normalize('NFKC').toLocaleLowerCase().trim();
   const matches=data.shops.filter(s=>[s.name,s.domain,s.id,...s.aliases].join(' ').normalize('NFKC').toLocaleLowerCase().includes(term));
@@ -17,7 +17,18 @@
  function renderDetail(){
   const shop=selected;detail.replaceChildren(el('h2',shop.name));
   if(shop.domain){try{const url=new URL('https://'+shop.domain);if(url.pathname==='/'&&!url.username&&!url.password){const a=el('a','Visit '+shop.domain);a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';detail.append(a);}}catch{}}
-  detail.append(el('p',shop.current?`Current published bonuses: Flight points: ${shop.current.flight||'Not available'} · Trumf: ${shop.current.trumf||'Not available'} (feed updated ${fmt(shop.current.at)}, Norway time)`:'Not in the current feed. Values below are historical.'));
+  if(shop.current){
+   const panel=el('section',undefined,'current-bonuses');panel.setAttribute('aria-label','Current bonuses');panel.append(el('h3','Current bonuses'));
+   const cards=el('div',undefined,'current-bonus-grid');
+   for(const p of ['flight','trumf']){
+    const card=el('div',undefined,'current-bonus-card');card.append(el('p',label(p),'current-bonus-label'));
+    const raw=shop.current[p]||'',converted=p==='trumf'?raw.match(/\s*\(([^)]*poeng[^)]*)\)\s*$/i):null;
+    card.append(el('p',raw?(converted?raw.slice(0,converted.index).trim():raw):'Not available','current-bonus-value'+(raw?'':' bonus-unavailable')));
+    if(converted)card.append(el('small',converted[1],'current-bonus-conversion'));
+    cards.append(card);
+   }
+   panel.append(cards,el('p','Feed updated '+fmt(shop.current.at)+' (Norway time).','current-bonus-updated'));detail.append(panel);
+  }else detail.append(el('p','Not in the current feed. Values below are historical.','notice'));
   const controls=el('div',undefined,'history-controls'),filterLabel=el('label','Show offers: '),filter=el('select');
   for(const [v,t] of [['all','Both programmes'],['flight','Flight points'],['trumf','Trumf']]){const option=el('option',t);option.value=v;filter.append(option);}filter.value=provider;filter.addEventListener('change',()=>{provider=filter.value;page=0;renderDetail();});filterLabel.append(filter);controls.append(filterLabel);detail.append(controls);
   const patterns=el('section',undefined,'pattern-summary');patterns.append(el('h3','Bonus patterns'));
