@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-11",
-      "sourceAt": "2026-11-11T05:57:08.562Z",
+      "sourceAt": "2026-11-11T16:04:14.439Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -1203,15 +1203,6 @@
           "trumfURL": "https://trumfnetthandel.no/cashback/north-trampoline-trumf"
         },
         {
-          "key": "domain:goboken.no",
-          "domain": "goboken.no",
-          "name": "Goboken",
-          "flight": "",
-          "trumf": "90 kr (1215.0 poeng)",
-          "flightURL": "",
-          "trumfURL": "https://trumfnetthandel.no/cashback/goboken-trumf"
-        },
-        {
           "key": "domain:gonordiccruiseline.no",
           "domain": "gonordiccruiseline.no",
           "name": "Go Nordic Cruiseline",
@@ -1369,7 +1360,7 @@
           "domain": "holidu.no",
           "name": "Holidu",
           "flight": "",
-          "trumf": "3,9 % (52.6 poeng / 100kr)",
+          "trumf": "3,9% (52.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/holidu-trumf"
         },
@@ -2224,7 +2215,7 @@
           "domain": "no.harmankardon.com",
           "name": "Harman Kardon",
           "flight": "15 poeng / 100kr",
-          "trumf": "3,1% (41.9 poeng / 100kr)",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
           "trumfURL": "https://trumfnetthandel.no/cashback/harman-kardon-trumf"
         },
@@ -2844,7 +2835,7 @@
           "key": "domain:siemens-home.bsh-group.com",
           "domain": "siemens-home.bsh-group.com",
           "name": "Siemens Home",
-          "flight": "25 poeng / 100kr",
+          "flight": "100 poeng / 100kr",
           "trumf": "9,3 % (125.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
           "trumfURL": "https://trumfnetthandel.no/cashback/siemens-trumf"
@@ -3132,7 +3123,7 @@
           "key": "domain:storytel.com",
           "domain": "storytel.com",
           "name": "Storytel",
-          "flight": "250 poeng",
+          "flight": "500 poeng",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/storytel-no/0189630c-97b2-70fc-b190-002eaed90291",
           "trumfURL": ""
@@ -3492,7 +3483,7 @@
           "key": "domain:vinlagringskompaniet.no",
           "domain": "vinlagringskompaniet.no",
           "name": "Vinlagringskompaniet",
-          "flight": "15 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb",
           "trumfURL": ""
@@ -7435,12 +7426,74 @@
       "date": "2026-11-11",
       "comparedWith": "2026-11-10",
       "baseline": false,
-      "sourceAt": "2026-11-11T05:57:08.562Z",
-      "publishedAt": "2026-11-11T10:01:57.415Z",
-      "shopCount": 412,
+      "sourceAt": "2026-11-11T16:04:14.439Z",
+      "publishedAt": "2026-11-11T16:37:53.663Z",
+      "shopCount": 411,
       "added": [],
-      "removed": [],
-      "changed": []
+      "removed": [
+        {
+          "key": "domain:goboken.no",
+          "domain": "goboken.no",
+          "name": "Goboken",
+          "flight": "",
+          "trumf": "90 kr (1215.0 poeng)",
+          "flightURL": "",
+          "trumfURL": "https://trumfnetthandel.no/cashback/goboken-trumf"
+        }
+      ],
+      "changed": [
+        {
+          "key": "domain:siemens-home.bsh-group.com",
+          "domain": "siemens-home.bsh-group.com",
+          "name": "Siemens Home",
+          "flight": "100 poeng / 100kr",
+          "trumf": "9,3 % (125.6 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab",
+          "trumfURL": "https://trumfnetthandel.no/cashback/siemens-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "100 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/siemens/0199c3f9-87a4-73df-9412-b69270133dab"
+            }
+          ]
+        },
+        {
+          "key": "domain:storytel.com",
+          "domain": "storytel.com",
+          "name": "Storytel",
+          "flight": "500 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/storytel-no/0189630c-97b2-70fc-b190-002eaed90291",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "250 poeng",
+              "after": "500 poeng",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/storytel-no/0189630c-97b2-70fc-b190-002eaed90291"
+            }
+          ]
+        },
+        {
+          "key": "domain:vinlagringskompaniet.no",
+          "domain": "vinlagringskompaniet.no",
+          "name": "Vinlagringskompaniet",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "15 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/vinlagringskompaniet/018abc11-d276-70ea-b149-50ae4e0bd6bb"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-10",
