@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:37:16.219Z",
+  "generated_at": "2026-11-12T07:00:06.279Z",
   "shops": [
     {
       "domain": "",
@@ -34,7 +34,7 @@
       "name": "Aarke",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -701,7 +701,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/devold-trumf",
       "sasbonus": "",
-      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "didriksons.com",
@@ -1385,7 +1385,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/holidu-trumf",
       "sasbonus": "",
-      "trumfbonus": "3,9% (52.6 poeng / 100kr)"
+      "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
     },
     {
       "domain": "holzweiler.no",
@@ -1781,7 +1781,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
       "trumfurl": "https://trumfnetthandel.no/cashback/lampemesteren-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "Opptil 6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "lanna.no",
@@ -2276,7 +2276,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
       "trumfurl": "https://trumfnetthandel.no/cashback/oakley-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "no.readly.com",
@@ -2743,7 +2743,7 @@
       "name": "Selected",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
