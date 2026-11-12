@@ -3,13 +3,13 @@
   "snapshots": [
     {
       "date": "2026-11-12",
-      "sourceAt": "2026-11-11T22:37:16.219Z",
+      "sourceAt": "2026-11-12T07:00:06.279Z",
       "shops": [
         {
           "key": "domain:aarke.com",
           "domain": "aarke.com",
           "name": "Aarke",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
           "trumfURL": ""
@@ -676,7 +676,7 @@
           "domain": "devold.com",
           "name": "Devold",
           "flight": "",
-          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "trumf": "6,2% (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/devold-trumf"
         },
@@ -1360,7 +1360,7 @@
           "domain": "holidu.no",
           "name": "Holidu",
           "flight": "",
-          "trumf": "3,9% (52.6 poeng / 100kr)",
+          "trumf": "3,9 % (52.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/holidu-trumf"
         },
@@ -1756,7 +1756,7 @@
           "domain": "lampemesteren.no",
           "name": "Lampemesteren",
           "flight": "25 poeng / 100kr",
-          "trumf": "Opptil 6,2% (83.7 poeng / 100kr)",
+          "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lampemesteren/01896308-b758-703a-8f2a-7d8ab49b690e",
           "trumfURL": "https://trumfnetthandel.no/cashback/lampemesteren-trumf"
         },
@@ -2251,7 +2251,7 @@
           "domain": "no.oakley.com",
           "name": "Oakley",
           "flight": "25 poeng / 100kr",
-          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "trumf": "6,2% (83.7 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
           "trumfURL": "https://trumfnetthandel.no/cashback/oakley-trumf"
         },
@@ -2718,7 +2718,7 @@
           "key": "domain:selected.com",
           "domain": "selected.com",
           "name": "Selected",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
           "trumfURL": ""
@@ -7417,12 +7417,47 @@
       "date": "2026-11-12",
       "comparedWith": "2026-11-11",
       "baseline": false,
-      "sourceAt": "2026-11-11T22:37:16.219Z",
-      "publishedAt": "2026-11-11T23:05:12.014Z",
+      "sourceAt": "2026-11-12T07:00:06.279Z",
+      "publishedAt": "2026-11-12T07:44:59.237Z",
       "shopCount": 411,
       "added": [],
       "removed": [],
-      "changed": []
+      "changed": [
+        {
+          "key": "domain:selected.com",
+          "domain": "selected.com",
+          "name": "Selected",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a"
+            }
+          ]
+        },
+        {
+          "key": "domain:aarke.com",
+          "domain": "aarke.com",
+          "name": "Aarke",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/aarke/01a0d2cd-44b6-70e0-9d09-7fa13f871050"
+            }
+          ]
+        }
+      ]
     },
     {
       "date": "2026-11-11",
