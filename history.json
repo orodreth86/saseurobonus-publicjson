@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-12",
-      "sourceAt": "2026-11-12T07:00:06.279Z",
+      "sourceAt": "2026-11-12T16:45:05.467Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -1206,7 +1206,7 @@
           "key": "domain:gonordiccruiseline.no",
           "domain": "gonordiccruiseline.no",
           "name": "Go Nordic Cruiseline",
-          "flight": "15 poeng / 100kr",
+          "flight": "30 poeng / 100kr",
           "trumf": "3,7 % (50.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b",
           "trumfURL": "https://trumfnetthandel.no/cashback/go-nordic-cruiseline-trumf"
@@ -2124,7 +2124,7 @@
           "key": "domain:nespresso.com",
           "domain": "nespresso.com",
           "name": "Nespresso",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
           "trumfURL": ""
@@ -2448,7 +2448,7 @@
           "key": "domain:pergolux.no",
           "domain": "pergolux.no",
           "name": "Pergolux",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "2,3 % (31.0 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb",
           "trumfURL": "https://trumfnetthandel.no/cashback/pergolux-trumf"
@@ -3249,9 +3249,9 @@
           "key": "domain:tigerofsweden.com",
           "domain": "tigerofsweden.com",
           "name": "Tiger of Sweden",
-          "flight": "",
+          "flight": "50 poeng / 100kr",
           "trumf": "7,8 % (105.3 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tiger-of-sweden/01a1b100-4c8c-7358-8d63-3a43843e3d2c",
           "trumfURL": "https://trumfnetthandel.no/cashback/tiger-of-sweden-trumf"
         },
         {
@@ -3703,6 +3703,24 @@
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/etsy/01a1b0e6-f166-7385-90d7-fdede72c2d83",
           "trumfURL": ""
+        },
+        {
+          "key": "flight:01a1d035-3d43-700f-984b-7663abe1c67e",
+          "domain": "",
+          "name": "Lié Studio",
+          "flight": "50 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lie-studio/01a1d035-3d43-700f-984b-7663abe1c67e",
+          "trumfURL": ""
+        },
+        {
+          "key": "trumf:cest-normal-trumf",
+          "domain": "",
+          "name": "C'est normal",
+          "flight": "",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "",
+          "trumfURL": "https://trumfnetthandel.no/cashback/cest-normal-trumf"
         }
       ]
     },
@@ -7417,12 +7435,82 @@
       "date": "2026-11-12",
       "comparedWith": "2026-11-11",
       "baseline": false,
-      "sourceAt": "2026-11-12T07:00:06.279Z",
-      "publishedAt": "2026-11-12T07:44:59.237Z",
-      "shopCount": 411,
-      "added": [],
+      "sourceAt": "2026-11-12T16:45:05.467Z",
+      "publishedAt": "2026-11-12T17:06:21.498Z",
+      "shopCount": 413,
+      "added": [
+        {
+          "key": "trumf:cest-normal-trumf",
+          "domain": "",
+          "name": "C'est normal",
+          "flight": "",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "",
+          "trumfURL": "https://trumfnetthandel.no/cashback/cest-normal-trumf"
+        },
+        {
+          "key": "flight:01a1d035-3d43-700f-984b-7663abe1c67e",
+          "domain": "",
+          "name": "Lié Studio",
+          "flight": "50 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lie-studio/01a1d035-3d43-700f-984b-7663abe1c67e",
+          "trumfURL": ""
+        }
+      ],
       "removed": [],
       "changed": [
+        {
+          "key": "domain:gonordiccruiseline.no",
+          "domain": "gonordiccruiseline.no",
+          "name": "Go Nordic Cruiseline",
+          "flight": "30 poeng / 100kr",
+          "trumf": "3,7 % (50.0 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b",
+          "trumfURL": "https://trumfnetthandel.no/cashback/go-nordic-cruiseline-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "15 poeng / 100kr",
+              "after": "30 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/go-nordic-cruiseline/019ea65a-1842-727b-9ed2-0e4088e7259b"
+            }
+          ]
+        },
+        {
+          "key": "domain:nespresso.com",
+          "domain": "nespresso.com",
+          "name": "Nespresso",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/nespresso/0199c347-a9d7-725b-9687-0cb0917347ce"
+            }
+          ]
+        },
+        {
+          "key": "domain:pergolux.no",
+          "domain": "pergolux.no",
+          "name": "Pergolux",
+          "flight": "50 poeng / 100kr",
+          "trumf": "2,3 % (31.0 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb",
+          "trumfURL": "https://trumfnetthandel.no/cashback/pergolux-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/pergolux/01a0b396-bcad-7228-b050-cc49a5084adb"
+            }
+          ]
+        },
         {
           "key": "domain:selected.com",
           "domain": "selected.com",
@@ -7437,6 +7525,23 @@
               "before": "25 poeng / 100kr",
               "after": "50 poeng / 100kr",
               "url": "https://onlineshopping.flysas.com/nb-NO/butikker/selected/01a13f61-6ad4-72e9-ac4e-524ced9b934a"
+            }
+          ]
+        },
+        {
+          "key": "domain:tigerofsweden.com",
+          "domain": "tigerofsweden.com",
+          "name": "Tiger of Sweden",
+          "flight": "50 poeng / 100kr",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tiger-of-sweden/01a1b100-4c8c-7358-8d63-3a43843e3d2c",
+          "trumfURL": "https://trumfnetthandel.no/cashback/tiger-of-sweden-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/tiger-of-sweden/01a1b100-4c8c-7358-8d63-3a43843e3d2c"
             }
           ]
         },
@@ -16800,6 +16905,18 @@
     [
       "slug:mytheresa",
       "flight:019edad6-5e38-7178-ae89-d222ff519417"
+    ],
+    [
+      "slug:lie-studio",
+      "flight:01a1d035-3d43-700f-984b-7663abe1c67e"
+    ],
+    [
+      "slug:tiger-of-sweden",
+      "domain:tigerofsweden.com"
+    ],
+    [
+      "flight:01a1b100-4c8c-7358-8d63-3a43843e3d2c",
+      "domain:tigerofsweden.com"
     ]
   ]
 }
