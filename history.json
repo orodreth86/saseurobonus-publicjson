@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-13",
-      "sourceAt": "2026-11-13T12:04:25.447Z",
+      "sourceAt": "2026-11-13T19:33:07.507Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3693,6 +3693,24 @@
           "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/charlies-hus/0189630b-0027-70f4-92db-63aaa285c05a",
+          "trumfURL": ""
+        },
+        {
+          "key": "flight:018abc10-d14f-71ec-85c4-4071ab93a75a",
+          "domain": "",
+          "name": "Kids-World",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kids-world/018abc10-d14f-71ec-85c4-4071ab93a75a",
+          "trumfURL": ""
+        },
+        {
+          "key": "flight:0198add9-2376-7149-8893-70d89ef702a6",
+          "domain": "",
+          "name": "By Malene Birger",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/by-malene-birger/0198add9-2376-7149-8893-70d89ef702a6",
           "trumfURL": ""
         },
         {
@@ -7453,10 +7471,29 @@
       "date": "2026-11-13",
       "comparedWith": "2026-11-12",
       "baseline": false,
-      "sourceAt": "2026-11-13T12:04:25.447Z",
-      "publishedAt": "2026-11-13T12:39:06.876Z",
-      "shopCount": 413,
-      "added": [],
+      "sourceAt": "2026-11-13T19:33:07.507Z",
+      "publishedAt": "2026-11-13T20:04:14.595Z",
+      "shopCount": 415,
+      "added": [
+        {
+          "key": "flight:0198add9-2376-7149-8893-70d89ef702a6",
+          "domain": "",
+          "name": "By Malene Birger",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/by-malene-birger/0198add9-2376-7149-8893-70d89ef702a6",
+          "trumfURL": ""
+        },
+        {
+          "key": "flight:018abc10-d14f-71ec-85c4-4071ab93a75a",
+          "domain": "",
+          "name": "Kids-World",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kids-world/018abc10-d14f-71ec-85c4-4071ab93a75a",
+          "trumfURL": ""
+        }
+      ],
       "removed": [],
       "changed": [
         {
@@ -17053,6 +17090,14 @@
     [
       "trumf:cest-normal-trumf",
       "domain:cestnormal.com"
+    ],
+    [
+      "slug:by-malene-birger",
+      "flight:0198add9-2376-7149-8893-70d89ef702a6"
+    ],
+    [
+      "slug:kids-world",
+      "flight:018abc10-d14f-71ec-85c4-4071ab93a75a"
     ]
   ]
 }
