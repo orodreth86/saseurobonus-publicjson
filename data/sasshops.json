@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:00:04.470Z",
+  "generated_at": "2026-11-13T12:04:25.447Z",
   "shops": [
     {
       "domain": "",
@@ -142,7 +142,7 @@
       "name": "A Retro Tale",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
       "trumfurl": "",
-      "sasbonus": "15 poeng / 100kr",
+      "sasbonus": "30 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -278,7 +278,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/badno/019ea661-c4a1-73ab-b30f-241205d56b6e",
       "trumfurl": "https://trumfnetthandel.no/cashback/bad-trumf",
       "sasbonus": "35 poeng / 100kr",
-      "trumfbonus": "3,5 % (47.3 poeng / 100kr)"
+      "trumfbonus": "5 % (67.5 poeng / 100kr)"
     },
     {
       "domain": "badstil.no",
@@ -719,7 +719,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/devold-trumf",
       "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "didriksons.com",
@@ -1232,7 +1232,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/glowid/019fcd29-9ce6-7071-9fba-2e9c939d55fb",
       "trumfurl": "https://trumfnetthandel.no/cashback/glowid-trumf",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "7,8 % (105.3 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "go.northtrampoline.com",
@@ -2258,7 +2258,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
       "trumfurl": "https://trumfnetthandel.no/cashback/harman-kardon-trumf",
       "sasbonus": "15 poeng / 100kr",
-      "trumfbonus": "3,1 % (41.9 poeng / 100kr)"
+      "trumfbonus": "3,1% (41.9 poeng / 100kr)"
     },
     {
       "domain": "no.jbl.com",
@@ -2294,7 +2294,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
       "trumfurl": "https://trumfnetthandel.no/cashback/oakley-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "no.readly.com",
