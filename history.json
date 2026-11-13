@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-13",
-      "sourceAt": "2026-11-13T01:00:04.470Z",
+      "sourceAt": "2026-11-13T12:04:25.447Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -108,7 +108,7 @@
           "key": "domain:aretrotale.com",
           "domain": "aretrotale.com",
           "name": "A Retro Tale",
-          "flight": "15 poeng / 100kr",
+          "flight": "30 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
           "trumfURL": ""
@@ -244,7 +244,7 @@
           "domain": "bad.no",
           "name": "Bad.no",
           "flight": "35 poeng / 100kr",
-          "trumf": "3,5 % (47.3 poeng / 100kr)",
+          "trumf": "5 % (67.5 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/badno/019ea661-c4a1-73ab-b30f-241205d56b6e",
           "trumfURL": "https://trumfnetthandel.no/cashback/bad-trumf"
         },
@@ -685,7 +685,7 @@
           "domain": "devold.com",
           "name": "Devold",
           "flight": "",
-          "trumf": "6,2% (83.7 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/devold-trumf"
         },
@@ -1198,7 +1198,7 @@
           "domain": "glowid.no",
           "name": "GLOWiD",
           "flight": "50 poeng / 100kr",
-          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "trumf": "7,8% (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/glowid/019fcd29-9ce6-7071-9fba-2e9c939d55fb",
           "trumfURL": "https://trumfnetthandel.no/cashback/glowid-trumf"
         },
@@ -2224,7 +2224,7 @@
           "domain": "no.harmankardon.com",
           "name": "Harman Kardon",
           "flight": "15 poeng / 100kr",
-          "trumf": "3,1 % (41.9 poeng / 100kr)",
+          "trumf": "3,1% (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
           "trumfURL": "https://trumfnetthandel.no/cashback/harman-kardon-trumf"
         },
@@ -2260,7 +2260,7 @@
           "domain": "no.oakley.com",
           "name": "Oakley",
           "flight": "25 poeng / 100kr",
-          "trumf": "6,2% (83.7 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
           "trumfURL": "https://trumfnetthandel.no/cashback/oakley-trumf"
         },
@@ -7453,12 +7453,46 @@
       "date": "2026-11-13",
       "comparedWith": "2026-11-12",
       "baseline": false,
-      "sourceAt": "2026-11-13T01:00:04.470Z",
-      "publishedAt": "2026-11-13T01:29:08.852Z",
+      "sourceAt": "2026-11-13T12:04:25.447Z",
+      "publishedAt": "2026-11-13T12:39:06.876Z",
       "shopCount": 413,
       "added": [],
       "removed": [],
       "changed": [
+        {
+          "key": "domain:aretrotale.com",
+          "domain": "aretrotale.com",
+          "name": "A Retro Tale",
+          "flight": "30 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "15 poeng / 100kr",
+              "after": "30 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557"
+            }
+          ]
+        },
+        {
+          "key": "domain:bad.no",
+          "domain": "bad.no",
+          "name": "Bad.no",
+          "flight": "35 poeng / 100kr",
+          "trumf": "5 % (67.5 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/badno/019ea661-c4a1-73ab-b30f-241205d56b6e",
+          "trumfURL": "https://trumfnetthandel.no/cashback/bad-trumf",
+          "offers": [
+            {
+              "provider": "trumf",
+              "before": "3,5 % (47.3 poeng / 100kr)",
+              "after": "5 % (67.5 poeng / 100kr)",
+              "url": "https://trumfnetthandel.no/cashback/bad-trumf"
+            }
+          ]
+        },
         {
           "key": "domain:dbjourney.com",
           "domain": "dbjourney.com",
