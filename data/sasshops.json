@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-11-13T12:04:25.447Z",
+  "generated_at": "2026-11-13T19:33:07.507Z",
   "shops": [
+    {
+      "domain": "",
+      "slug": "by-malene-birger",
+      "name": "By Malene Birger",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/by-malene-birger/0198add9-2376-7149-8893-70d89ef702a6",
+      "trumfurl": "",
+      "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
     {
       "domain": "",
       "slug": "charlies-hus",
@@ -17,6 +26,15 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/etsy/01a1b0e6-f166-7385-90d7-fdede72c2d83",
       "trumfurl": "",
       "sasbonus": "25 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "kids-world",
+      "name": "Kids-World",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kids-world/018abc10-d14f-71ec-85c4-4071ab93a75a",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
