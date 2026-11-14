@@ -2,8 +2,8 @@
   "version": 1,
   "snapshots": [
     {
-      "date": "2026-11-13",
-      "sourceAt": "2026-11-13T19:33:07.507Z",
+      "date": "2026-11-14",
+      "sourceAt": "2026-11-14T00:51:24.258Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3743,8 +3743,8 @@
       ]
     },
     {
-      "date": "2026-11-12",
-      "sourceAt": "2026-11-12T16:45:05.467Z",
+      "date": "2026-11-13",
+      "sourceAt": "2026-11-13T19:33:07.507Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3849,7 +3849,7 @@
           "key": "domain:aretrotale.com",
           "domain": "aretrotale.com",
           "name": "A Retro Tale",
-          "flight": "15 poeng / 100kr",
+          "flight": "30 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/a-retro-tale/019716f7-b841-708c-94f7-aa0db57db557",
           "trumfURL": ""
@@ -3985,7 +3985,7 @@
           "domain": "bad.no",
           "name": "Bad.no",
           "flight": "35 poeng / 100kr",
-          "trumf": "3,5 % (47.3 poeng / 100kr)",
+          "trumf": "5 % (67.5 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/badno/019ea661-c4a1-73ab-b30f-241205d56b6e",
           "trumfURL": "https://trumfnetthandel.no/cashback/bad-trumf"
         },
@@ -4269,6 +4269,15 @@
           "trumfURL": ""
         },
         {
+          "key": "domain:cestnormal.com",
+          "domain": "cestnormal.com",
+          "name": "C'est normal",
+          "flight": "",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
+          "flightURL": "",
+          "trumfURL": "https://trumfnetthandel.no/cashback/cest-normal-trumf"
+        },
+        {
           "key": "domain:cg.no",
           "domain": "cg.no",
           "name": "Christiania Glassmagasin",
@@ -4363,7 +4372,7 @@
           "domain": "dbjourney.com",
           "name": "Db Journey",
           "flight": "25 poeng / 100kr",
-          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "trumf": "4,6 % (62.1 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/db-journey/01896310-78d4-7290-bebb-ae80a7cd6ef1",
           "trumfURL": "https://trumfnetthandel.no/cashback/db-trumf1"
         },
@@ -4417,7 +4426,7 @@
           "domain": "devold.com",
           "name": "Devold",
           "flight": "",
-          "trumf": "6,2% (83.7 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/devold-trumf"
         },
@@ -4930,7 +4939,7 @@
           "domain": "glowid.no",
           "name": "GLOWiD",
           "flight": "50 poeng / 100kr",
-          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "trumf": "7,8% (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/glowid/019fcd29-9ce6-7071-9fba-2e9c939d55fb",
           "trumfURL": "https://trumfnetthandel.no/cashback/glowid-trumf"
         },
@@ -5875,7 +5884,7 @@
           "domain": "newbalance.no",
           "name": "New Balance",
           "flight": "25 poeng / 100kr",
-          "trumf": "11,7 % (157.9 poeng / 100kr)",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/new-balance/018ec799-772e-72ea-9d9f-2eaba3974874",
           "trumfURL": "https://trumfnetthandel.no/cashback/new-balance-trumf"
         },
@@ -5956,7 +5965,7 @@
           "domain": "no.harmankardon.com",
           "name": "Harman Kardon",
           "flight": "15 poeng / 100kr",
-          "trumf": "3,1 % (41.9 poeng / 100kr)",
+          "trumf": "3,1% (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
           "trumfURL": "https://trumfnetthandel.no/cashback/harman-kardon-trumf"
         },
@@ -5992,7 +6001,7 @@
           "domain": "no.oakley.com",
           "name": "Oakley",
           "flight": "25 poeng / 100kr",
-          "trumf": "6,2% (83.7 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/oakley/019d0b3a-53d6-73e2-9bb6-1136e90eaa28",
           "trumfURL": "https://trumfnetthandel.no/cashback/oakley-trumf"
         },
@@ -6154,7 +6163,7 @@
           "domain": "outnorth.no",
           "name": "Outnorth",
           "flight": "",
-          "trumf": "Opptil 6,2 % (83.7 poeng / 100kr)",
+          "trumf": "Opptil 4,6 % (62.1 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfoutnorth"
         },
@@ -6523,7 +6532,7 @@
           "domain": "sharkninja.no",
           "name": "SharkNinja",
           "flight": "50 poeng / 100kr",
-          "trumf": "7 % (94.5 poeng / 100kr)",
+          "trumf": "3,9 % (52.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/sharkninja/019e4465-abe2-7069-a495-477ebb1168ba",
           "trumfURL": "https://trumfnetthandel.no/cashback/sharkninja-trumf"
         },
@@ -7428,6 +7437,24 @@
           "trumfURL": ""
         },
         {
+          "key": "flight:018abc10-d14f-71ec-85c4-4071ab93a75a",
+          "domain": "",
+          "name": "Kids-World",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/kids-world/018abc10-d14f-71ec-85c4-4071ab93a75a",
+          "trumfURL": ""
+        },
+        {
+          "key": "flight:0198add9-2376-7149-8893-70d89ef702a6",
+          "domain": "",
+          "name": "By Malene Birger",
+          "flight": "25 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/by-malene-birger/0198add9-2376-7149-8893-70d89ef702a6",
+          "trumfURL": ""
+        },
+        {
           "key": "flight:019edad6-5e38-7178-ae89-d222ff519417",
           "domain": "",
           "name": "Mytheresa",
@@ -7453,20 +7480,22 @@
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lie-studio/01a1d035-3d43-700f-984b-7663abe1c67e",
           "trumfURL": ""
-        },
-        {
-          "key": "trumf:cest-normal-trumf",
-          "domain": "",
-          "name": "C'est normal",
-          "flight": "",
-          "trumf": "4,6 % (62.1 poeng / 100kr)",
-          "flightURL": "",
-          "trumfURL": "https://trumfnetthandel.no/cashback/cest-normal-trumf"
         }
       ]
     }
   ],
   "editions": [
+    {
+      "date": "2026-11-14",
+      "comparedWith": "2026-11-13",
+      "baseline": false,
+      "sourceAt": "2026-11-14T00:51:24.258Z",
+      "publishedAt": "2026-11-14T01:04:02.777Z",
+      "shopCount": 415,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
     {
       "date": "2026-11-13",
       "comparedWith": "2026-11-12",
