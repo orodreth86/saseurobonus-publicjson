@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-14",
-      "sourceAt": "2026-11-14T00:51:24.258Z",
+      "sourceAt": "2026-11-14T11:22:28.339Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -685,7 +685,7 @@
           "domain": "devold.com",
           "name": "Devold",
           "flight": "",
-          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "trumf": "6,2% (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/devold-trumf"
         },
@@ -1198,7 +1198,7 @@
           "domain": "glowid.no",
           "name": "GLOWiD",
           "flight": "50 poeng / 100kr",
-          "trumf": "7,8% (105.3 poeng / 100kr)",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/glowid/019fcd29-9ce6-7071-9fba-2e9c939d55fb",
           "trumfURL": "https://trumfnetthandel.no/cashback/glowid-trumf"
         },
@@ -2224,7 +2224,7 @@
           "domain": "no.harmankardon.com",
           "name": "Harman Kardon",
           "flight": "15 poeng / 100kr",
-          "trumf": "3,1% (41.9 poeng / 100kr)",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/harman-kardon/0189630e-44e6-7162-ae73-4bfd5722176c",
           "trumfURL": "https://trumfnetthandel.no/cashback/harman-kardon-trumf"
         },
@@ -2665,7 +2665,7 @@
           "domain": "sackit.no",
           "name": "SACKit",
           "flight": "",
-          "trumf": "9,3 % (125.6 poeng / 100kr)",
+          "trumf": "9,3% (125.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/sackit-trumf"
         },
@@ -7489,8 +7489,8 @@
       "date": "2026-11-14",
       "comparedWith": "2026-11-13",
       "baseline": false,
-      "sourceAt": "2026-11-14T00:51:24.258Z",
-      "publishedAt": "2026-11-14T01:04:02.777Z",
+      "sourceAt": "2026-11-14T11:22:28.339Z",
+      "publishedAt": "2026-11-14T11:46:36.917Z",
       "shopCount": 415,
       "added": [],
       "removed": [],
