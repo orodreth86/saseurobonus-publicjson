@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-15",
-      "sourceAt": "2026-11-15T15:35:49.231Z",
+      "sourceAt": "2026-11-15T20:58:55.584Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -7489,8 +7489,8 @@
       "date": "2026-11-15",
       "comparedWith": "2026-11-14",
       "baseline": false,
-      "sourceAt": "2026-11-15T15:35:49.231Z",
-      "publishedAt": "2026-11-15T15:53:33.193Z",
+      "sourceAt": "2026-11-15T20:58:55.584Z",
+      "publishedAt": "2026-11-15T21:19:17.266Z",
       "shopCount": 415,
       "added": [],
       "removed": [],
