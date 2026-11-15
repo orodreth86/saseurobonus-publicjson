@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-15",
-      "sourceAt": "2026-11-14T23:49:37.033Z",
+      "sourceAt": "2026-11-15T06:12:32.513Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -685,7 +685,7 @@
           "domain": "devold.com",
           "name": "Devold",
           "flight": "",
-          "trumf": "6,2% (83.7 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/devold-trumf"
         },
@@ -2665,7 +2665,7 @@
           "domain": "sackit.no",
           "name": "SACKit",
           "flight": "",
-          "trumf": "9,3% (125.6 poeng / 100kr)",
+          "trumf": "9,3 % (125.6 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/sackit-trumf"
         },
@@ -2764,7 +2764,7 @@
           "domain": "sfanytime.com",
           "name": "SF Anytime",
           "flight": "",
-          "trumf": "5 kr (67.5 poeng)",
+          "trumf": "5kr (67.5 poeng)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/sf-anytime-trumf"
         },
@@ -7489,8 +7489,8 @@
       "date": "2026-11-15",
       "comparedWith": "2026-11-14",
       "baseline": false,
-      "sourceAt": "2026-11-14T23:49:37.033Z",
-      "publishedAt": "2026-11-15T00:20:35.473Z",
+      "sourceAt": "2026-11-15T06:12:32.513Z",
+      "publishedAt": "2026-11-15T07:13:45.248Z",
       "shopCount": 415,
       "added": [],
       "removed": [],
