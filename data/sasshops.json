@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:49:37.033Z",
+  "generated_at": "2026-11-15T06:12:32.513Z",
   "shops": [
     {
       "domain": "",
@@ -737,7 +737,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/devold-trumf",
       "sasbonus": "",
-      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
+      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
       "domain": "didriksons.com",
@@ -2717,7 +2717,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/sackit-trumf",
       "sasbonus": "",
-      "trumfbonus": "9,3% (125.6 poeng / 100kr)"
+      "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
     },
     {
       "domain": "safira.com",
@@ -2816,7 +2816,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/sf-anytime-trumf",
       "sasbonus": "",
-      "trumfbonus": "5 kr (67.5 poeng)"
+      "trumfbonus": "5kr (67.5 poeng)"
     },
     {
       "domain": "shampoohuset.no",
