@@ -2,8 +2,8 @@
   "version": 1,
   "snapshots": [
     {
-      "date": "2026-11-17",
-      "sourceAt": "2026-11-17T13:07:13.400Z",
+      "date": "2026-11-18",
+      "sourceAt": "2026-11-17T23:27:36.710Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3734,8 +3734,8 @@
       ]
     },
     {
-      "date": "2026-11-16",
-      "sourceAt": "2026-11-16T18:21:03.157Z",
+      "date": "2026-11-17",
+      "sourceAt": "2026-11-17T13:07:13.400Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -4939,7 +4939,7 @@
           "domain": "go.northtrampoline.com",
           "name": "North Trampoline",
           "flight": "",
-          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "trumf": "6,2% (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/north-trampoline-trumf"
         },
@@ -5506,7 +5506,7 @@
           "domain": "lappeliten.no",
           "name": "Lappeliten",
           "flight": "25 poeng / 100kr",
-          "trumf": "12,4% (167.4 poeng / 100kr)",
+          "trumf": "12,4 % (167.4 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lappeliten/01896312-2e1b-73b3-ac23-db4b5803a8ad",
           "trumfURL": "https://trumfnetthandel.no/cashback/lappeliten-trumf"
         },
@@ -6324,7 +6324,7 @@
           "key": "domain:rains.com",
           "domain": "rains.com",
           "name": "Rains",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/rains/0189630e-e559-73fb-8554-d9a161d6ff4e",
           "trumfURL": ""
@@ -6487,7 +6487,7 @@
           "domain": "sfanytime.com",
           "name": "SF Anytime",
           "flight": "",
-          "trumf": "5kr (67.5 poeng)",
+          "trumf": "5 kr (67.5 poeng)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/sf-anytime-trumf"
         },
@@ -7035,7 +7035,7 @@
           "key": "domain:trendcarpet.no",
           "domain": "trendcarpet.no",
           "name": "Trendcarpet",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
           "trumfURL": "https://trumfnetthandel.no/cashback/trendcarpet-trumf"
@@ -7297,7 +7297,7 @@
           "domain": "watery.no",
           "name": "Watery",
           "flight": "25 poeng / 100kr",
-          "trumf": "Opptil 9,3 % (125.6 poeng / 100kr)",
+          "trumf": "Opptil 9,3% (125.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
           "trumfURL": "https://trumfnetthandel.no/cashback/watery-trumf"
         },
@@ -7467,6 +7467,17 @@
     }
   ],
   "editions": [
+    {
+      "date": "2026-11-18",
+      "comparedWith": "2026-11-17",
+      "baseline": false,
+      "sourceAt": "2026-11-17T23:27:36.710Z",
+      "publishedAt": "2026-11-17T23:39:32.603Z",
+      "shopCount": 414,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
     {
       "date": "2026-11-17",
       "comparedWith": "2026-11-16",
