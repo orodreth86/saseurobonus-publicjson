@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:52:59.715Z",
+  "generated_at": "2026-11-17T13:07:13.400Z",
   "shops": [
     {
       "domain": "",
@@ -1259,7 +1259,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/north-trampoline-trumf",
       "sasbonus": "",
-      "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
+      "trumfbonus": "6,2% (83.7 poeng / 100kr)"
     },
     {
       "domain": "gonordiccruiseline.no",
@@ -1826,7 +1826,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lappeliten/01896312-2e1b-73b3-ac23-db4b5803a8ad",
       "trumfurl": "https://trumfnetthandel.no/cashback/lappeliten-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "12,4% (167.4 poeng / 100kr)"
+      "trumfbonus": "12,4 % (167.4 poeng / 100kr)"
     },
     {
       "domain": "lego.com",
@@ -2644,7 +2644,7 @@
       "name": "Rains",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/rains/0189630e-e559-73fb-8554-d9a161d6ff4e",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2807,7 +2807,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/sf-anytime-trumf",
       "sasbonus": "",
-      "trumfbonus": "5kr (67.5 poeng)"
+      "trumfbonus": "5 kr (67.5 poeng)"
     },
     {
       "domain": "shampoohuset.no",
@@ -3355,7 +3355,7 @@
       "name": "Trendcarpet",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/trendcarpet/0197c10c-695d-734a-80cb-afa6b257734f",
       "trumfurl": "https://trumfnetthandel.no/cashback/trendcarpet-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
@@ -3617,7 +3617,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
       "trumfurl": "https://trumfnetthandel.no/cashback/watery-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 9,3 % (125.6 poeng / 100kr)"
+      "trumfbonus": "Opptil 9,3% (125.6 poeng / 100kr)"
     },
     {
       "domain": "weekday.com",
