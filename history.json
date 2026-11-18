@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-18",
-      "sourceAt": "2026-11-17T23:27:36.710Z",
+      "sourceAt": "2026-11-18T07:10:24.972Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -1207,7 +1207,7 @@
           "domain": "go.northtrampoline.com",
           "name": "North Trampoline",
           "flight": "",
-          "trumf": "6,2% (83.7 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/north-trampoline-trumf"
         },
@@ -3565,7 +3565,7 @@
           "domain": "watery.no",
           "name": "Watery",
           "flight": "25 poeng / 100kr",
-          "trumf": "Opptil 9,3% (125.6 poeng / 100kr)",
+          "trumf": "Opptil 9,3 % (125.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
           "trumfURL": "https://trumfnetthandel.no/cashback/watery-trumf"
         },
@@ -7471,8 +7471,8 @@
       "date": "2026-11-18",
       "comparedWith": "2026-11-17",
       "baseline": false,
-      "sourceAt": "2026-11-17T23:27:36.710Z",
-      "publishedAt": "2026-11-17T23:39:32.603Z",
+      "sourceAt": "2026-11-18T07:10:24.972Z",
+      "publishedAt": "2026-11-18T07:57:50.618Z",
       "shopCount": 414,
       "added": [],
       "removed": [],
