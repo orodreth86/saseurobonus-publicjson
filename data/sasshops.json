@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:10:24.972Z",
+  "generated_at": "2026-11-18T17:10:30.724Z",
   "shops": [
     {
       "domain": "",
@@ -7,7 +7,7 @@
       "name": "By Malene Birger",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/by-malene-birger/0198add9-2376-7149-8893-70d89ef702a6",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -1821,11 +1821,11 @@
     },
     {
       "domain": "lappeliten.no",
-      "slug": "lappeliten",
+      "slug": "",
       "name": "Lappeliten",
-      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/lappeliten/01896312-2e1b-73b3-ac23-db4b5803a8ad",
+      "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/lappeliten-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "",
       "trumfbonus": "12,4 % (167.4 poeng / 100kr)"
     },
     {
@@ -2392,7 +2392,7 @@
       "name": "Norli",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/norli/0189630a-a084-73fb-a865-8fda2d897a29",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -3499,7 +3499,7 @@
       "name": "Viator",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/viator/0189630e-3cfe-7166-9125-0e412743ab2c",
       "trumfurl": "",
-      "sasbonus": "15 poeng / 100kr",
+      "sasbonus": "30 poeng / 100kr",
       "trumfbonus": ""
     },
     {
