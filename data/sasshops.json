@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T01:50:31.442Z",
+  "generated_at": "2026-11-19T12:50:30.716Z",
   "shops": [
     {
       "domain": "",
@@ -215,7 +215,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/autodude/018f57d7-5ba2-735f-97f3-c511b00c38bb",
       "trumfurl": "https://trumfnetthandel.no/cashback/autodude-trumf",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "7,8 % (105.3 poeng / 100kr)"
+      "trumfbonus": "7,8% (105.3 poeng / 100kr)"
     },
     {
       "domain": "autoeurope.no",
@@ -1520,7 +1520,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/ideal-of-sweden/0189630f-4b89-721d-88e7-5b4e2b299f5f",
       "trumfurl": "https://trumfnetthandel.no/cashback/ideal-of-sweden-trumf",
       "sasbonus": "25 poeng / 100kr",
-      "trumfbonus": "Opptil 12,4 % (167.4 poeng / 100kr)"
+      "trumfbonus": "Opptil 12,4% (167.4 poeng / 100kr)"
     },
     {
       "domain": "ilovedogs.no",
