@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-19",
-      "sourceAt": "2026-11-19T01:50:31.442Z",
+      "sourceAt": "2026-11-19T12:50:30.716Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -163,7 +163,7 @@
           "domain": "autodude.no",
           "name": "Autodude",
           "flight": "50 poeng / 100kr",
-          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "trumf": "7,8% (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/autodude/018f57d7-5ba2-735f-97f3-c511b00c38bb",
           "trumfURL": "https://trumfnetthandel.no/cashback/autodude-trumf"
         },
@@ -1468,7 +1468,7 @@
           "domain": "idealofsweden.no",
           "name": "Ideal of Sweden",
           "flight": "25 poeng / 100kr",
-          "trumf": "Opptil 12,4 % (167.4 poeng / 100kr)",
+          "trumf": "Opptil 12,4% (167.4 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/ideal-of-sweden/0189630f-4b89-721d-88e7-5b4e2b299f5f",
           "trumfURL": "https://trumfnetthandel.no/cashback/ideal-of-sweden-trumf"
         },
@@ -7471,8 +7471,8 @@
       "date": "2026-11-19",
       "comparedWith": "2026-11-18",
       "baseline": false,
-      "sourceAt": "2026-11-19T01:50:31.442Z",
-      "publishedAt": "2026-11-19T02:00:25.876Z",
+      "sourceAt": "2026-11-19T12:50:30.716Z",
+      "publishedAt": "2026-11-19T13:56:29.457Z",
       "shopCount": 414,
       "added": [],
       "removed": [],
