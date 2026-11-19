@@ -2,8 +2,8 @@
   "version": 1,
   "snapshots": [
     {
-      "date": "2026-11-18",
-      "sourceAt": "2026-11-18T17:10:30.724Z",
+      "date": "2026-11-19",
+      "sourceAt": "2026-11-19T01:50:31.442Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3734,8 +3734,8 @@
       ]
     },
     {
-      "date": "2026-11-17",
-      "sourceAt": "2026-11-17T13:07:13.400Z",
+      "date": "2026-11-18",
+      "sourceAt": "2026-11-18T17:10:30.724Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -4939,7 +4939,7 @@
           "domain": "go.northtrampoline.com",
           "name": "North Trampoline",
           "flight": "",
-          "trumf": "6,2% (83.7 poeng / 100kr)",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/north-trampoline-trumf"
         },
@@ -5505,9 +5505,9 @@
           "key": "domain:lappeliten.no",
           "domain": "lappeliten.no",
           "name": "Lappeliten",
-          "flight": "25 poeng / 100kr",
+          "flight": "",
           "trumf": "12,4 % (167.4 poeng / 100kr)",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/lappeliten/01896312-2e1b-73b3-ac23-db4b5803a8ad",
+          "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/lappeliten-trumf"
         },
         {
@@ -6072,7 +6072,7 @@
           "key": "domain:norli.no",
           "domain": "norli.no",
           "name": "Norli",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/norli/0189630a-a084-73fb-a865-8fda2d897a29",
           "trumfURL": ""
@@ -7179,7 +7179,7 @@
           "key": "domain:viator.com",
           "domain": "viator.com",
           "name": "Viator",
-          "flight": "15 poeng / 100kr",
+          "flight": "30 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/viator/0189630e-3cfe-7166-9125-0e412743ab2c",
           "trumfURL": ""
@@ -7297,7 +7297,7 @@
           "domain": "watery.no",
           "name": "Watery",
           "flight": "25 poeng / 100kr",
-          "trumf": "Opptil 9,3% (125.6 poeng / 100kr)",
+          "trumf": "Opptil 9,3 % (125.6 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/watery/0189630e-696e-72ee-9f35-c16d8e6c5924",
           "trumfURL": "https://trumfnetthandel.no/cashback/watery-trumf"
         },
@@ -7431,7 +7431,7 @@
           "key": "flight:0198add9-2376-7149-8893-70d89ef702a6",
           "domain": "",
           "name": "By Malene Birger",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/by-malene-birger/0198add9-2376-7149-8893-70d89ef702a6",
           "trumfURL": ""
@@ -7467,6 +7467,17 @@
     }
   ],
   "editions": [
+    {
+      "date": "2026-11-19",
+      "comparedWith": "2026-11-18",
+      "baseline": false,
+      "sourceAt": "2026-11-19T01:50:31.442Z",
+      "publishedAt": "2026-11-19T02:00:25.876Z",
+      "shopCount": 414,
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
     {
       "date": "2026-11-18",
       "comparedWith": "2026-11-17",
