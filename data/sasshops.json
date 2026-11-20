@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:59:07.701Z",
+  "generated_at": "2026-11-20T16:55:08.247Z",
   "shops": [
     {
       "domain": "",
@@ -33,6 +33,15 @@
       "slug": "kids-world",
       "name": "Kids-World",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kids-world/018abc10-d14f-71ec-85c4-4071ab93a75a",
+      "trumfurl": "",
+      "sasbonus": "50 poeng / 100kr",
+      "trumfbonus": ""
+    },
+    {
+      "domain": "",
+      "slug": "kremmerhuset",
+      "name": "Kremmerhuset",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/kremmerhuset/01a1f83b-064e-7df7-9758-4fd5765db269",
       "trumfurl": "",
       "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
@@ -1483,7 +1492,7 @@
       "name": "Husqvarna",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/husqvarna/019d713b-929f-7136-98ba-83fb547332ef",
       "trumfurl": "https://trumfnetthandel.no/cashback/husqvarna-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "3,9 % (52.6 poeng / 100kr)"
     },
     {
@@ -1600,7 +1609,7 @@
       "name": "iRobot",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/irobot/01a13f7b-f1a0-7345-8750-1411c32e7f85",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
