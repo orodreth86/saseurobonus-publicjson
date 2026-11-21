@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-21",
-      "sourceAt": "2026-11-21T01:23:15.852Z",
+      "sourceAt": "2026-11-21T12:29:28.552Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3277,7 +3277,7 @@
           "domain": "tirendo.no",
           "name": "Tirendo",
           "flight": "25 poeng / 100kr",
-          "trumf": "3,1% (41.9 poeng / 100kr)",
+          "trumf": "3,1 % (41.9 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/tirendo/01896308-e17a-7082-8889-9601fc9f7211",
           "trumfURL": "https://trumfnetthandel.no/cashback/tirendo-trumf"
         },
@@ -7489,8 +7489,8 @@
       "date": "2026-11-21",
       "comparedWith": "2026-11-20",
       "baseline": false,
-      "sourceAt": "2026-11-21T01:23:15.852Z",
-      "publishedAt": "2026-11-21T01:45:32.162Z",
+      "sourceAt": "2026-11-21T12:29:28.552Z",
+      "publishedAt": "2026-11-21T13:03:02.416Z",
       "shopCount": 415,
       "added": [],
       "removed": [],
