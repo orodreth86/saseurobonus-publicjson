@@ -72,14 +72,6 @@ jobs:
           path: _site
           name: github-pages
 
-      - name: Check artifact through REST API
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh api \
-            "repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/artifacts" \
-            --jq '.artifacts[] | {id, name, expired}'
-
       - name: Deploy site
         id: deployment
         uses: actions/deploy-pages@v4.0.0
