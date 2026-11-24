@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:24:55.328Z",
+  "generated_at": "2026-11-24T02:51:24.186Z",
   "shops": [
     {
       "domain": "",
@@ -367,7 +367,7 @@
       "name": "Beautycos",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/beautycos/01896309-dadd-714f-8f53-274cc4f14d01",
       "trumfurl": "https://trumfnetthandel.no/cashback/beautycos-trumf",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
@@ -826,7 +826,7 @@
       "name": "E-Wheels",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/e-wheels-2/01896310-1e04-7083-b83b-6a19deed1cf1",
       "trumfurl": "https://trumfnetthandel.no/cashback/e-wheels-trumf",
-      "sasbonus": "15 poeng / 100kr",
+      "sasbonus": "30 poeng / 100kr",
       "trumfbonus": "2,3 % (31.0 poeng / 100kr)"
     },
     {
@@ -1222,7 +1222,7 @@
       "name": "Gents",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/gents/0189630d-2220-726e-b99d-9a1e16f855da",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -2464,7 +2464,7 @@
       "name": "Outnorth",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/outnorth/01896307-cb70-7078-96e6-9379b454803c",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
