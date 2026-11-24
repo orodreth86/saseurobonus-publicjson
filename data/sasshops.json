@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:51:24.186Z",
+  "generated_at": "2026-11-24T14:44:18.101Z",
   "shops": [
     {
       "domain": "",
@@ -840,11 +840,11 @@
     },
     {
       "domain": "edblad.com",
-      "slug": "",
+      "slug": "edblad",
       "name": "Edblad",
-      "sasurl": "",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/edblad/01a20df0-33ec-7153-8d4a-9cb900822a96",
       "trumfurl": "https://trumfnetthandel.no/cashback/edblad-trumf",
-      "sasbonus": "",
+      "sasbonus": "25 poeng / 100kr",
       "trumfbonus": "6,2 % (83.7 poeng / 100kr)"
     },
     {
@@ -2212,7 +2212,7 @@
       "name": "Newport",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/newport/0189630d-4e7a-7014-9943-41d6625a52b9",
       "trumfurl": "",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": ""
     },
     {
@@ -3126,11 +3126,11 @@
     },
     {
       "domain": "stigasports.com",
-      "slug": "",
-      "name": "STIGA Sports",
-      "sasurl": "",
+      "slug": "stiga-games",
+      "name": "Stiga Sports",
+      "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/stiga-games/0189630d-131c-72d8-a05d-bc63e8a266dd",
       "trumfurl": "https://trumfnetthandel.no/cashback/stiga-sports-trumf",
-      "sasbonus": "",
+      "sasbonus": "75 poeng / 100kr",
       "trumfbonus": "7,8 % (105.3 poeng / 100kr)"
     },
     {
