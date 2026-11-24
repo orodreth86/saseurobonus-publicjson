@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-24",
-      "sourceAt": "2026-11-24T02:51:24.186Z",
+      "sourceAt": "2026-11-24T14:44:18.101Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -783,9 +783,9 @@
           "key": "domain:edblad.com",
           "domain": "edblad.com",
           "name": "Edblad",
-          "flight": "",
+          "flight": "25 poeng / 100kr",
           "trumf": "6,2 % (83.7 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/edblad/01a20df0-33ec-7153-8d4a-9cb900822a96",
           "trumfURL": "https://trumfnetthandel.no/cashback/edblad-trumf"
         },
         {
@@ -2151,7 +2151,7 @@
           "key": "domain:newport.no",
           "domain": "newport.no",
           "name": "Newport",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/newport/0189630d-4e7a-7014-9943-41d6625a52b9",
           "trumfURL": ""
@@ -3068,10 +3068,10 @@
         {
           "key": "domain:stigasports.com",
           "domain": "stigasports.com",
-          "name": "STIGA Sports",
-          "flight": "",
+          "name": "Stiga Sports",
+          "flight": "75 poeng / 100kr",
           "trumf": "7,8 % (105.3 poeng / 100kr)",
-          "flightURL": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/stiga-games/0189630d-131c-72d8-a05d-bc63e8a266dd",
           "trumfURL": "https://trumfnetthandel.no/cashback/stiga-sports-trumf"
         },
         {
@@ -7489,8 +7489,8 @@
       "date": "2026-11-24",
       "comparedWith": "2026-11-23",
       "baseline": false,
-      "sourceAt": "2026-11-24T02:51:24.186Z",
-      "publishedAt": "2026-11-24T07:49:23.689Z",
+      "sourceAt": "2026-11-24T14:44:18.101Z",
+      "publishedAt": "2026-11-24T19:43:06.516Z",
       "shopCount": 415,
       "added": [],
       "removed": [],
@@ -7530,6 +7530,23 @@
           ]
         },
         {
+          "key": "domain:edblad.com",
+          "domain": "edblad.com",
+          "name": "Edblad",
+          "flight": "25 poeng / 100kr",
+          "trumf": "6,2 % (83.7 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/edblad/01a20df0-33ec-7153-8d4a-9cb900822a96",
+          "trumfURL": "https://trumfnetthandel.no/cashback/edblad-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "25 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/edblad/01a20df0-33ec-7153-8d4a-9cb900822a96"
+            }
+          ]
+        },
+        {
           "key": "domain:gents.no",
           "domain": "gents.no",
           "name": "Gents",
@@ -7547,6 +7564,23 @@
           ]
         },
         {
+          "key": "domain:newport.no",
+          "domain": "newport.no",
+          "name": "Newport",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/newport/0189630d-4e7a-7014-9943-41d6625a52b9",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/newport/0189630d-4e7a-7014-9943-41d6625a52b9"
+            }
+          ]
+        },
+        {
           "key": "domain:outnorth.com",
           "domain": "outnorth.com",
           "name": "Outnorth",
@@ -7560,6 +7594,23 @@
               "before": "25 poeng / 100kr",
               "after": "50 poeng / 100kr",
               "url": "https://onlineshopping.flysas.com/nb-NO/butikker/outnorth/01896307-cb70-7078-96e6-9379b454803c"
+            }
+          ]
+        },
+        {
+          "key": "domain:stigasports.com",
+          "domain": "stigasports.com",
+          "name": "Stiga Sports",
+          "flight": "75 poeng / 100kr",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/stiga-games/0189630d-131c-72d8-a05d-bc63e8a266dd",
+          "trumfURL": "https://trumfnetthandel.no/cashback/stiga-sports-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "",
+              "after": "75 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/stiga-games/0189630d-131c-72d8-a05d-bc63e8a266dd"
             }
           ]
         }
@@ -19559,6 +19610,22 @@
     [
       "slug:kremmerhuset",
       "flight:01a1f83b-064e-7df7-9758-4fd5765db269"
+    ],
+    [
+      "slug:edblad",
+      "domain:edblad.com"
+    ],
+    [
+      "flight:01a20df0-33ec-7153-8d4a-9cb900822a96",
+      "domain:edblad.com"
+    ],
+    [
+      "slug:stiga-games",
+      "domain:stigasports.com"
+    ],
+    [
+      "flight:0189630d-131c-72d8-a05d-bc63e8a266dd",
+      "domain:stigasports.com"
     ]
   ]
 }
