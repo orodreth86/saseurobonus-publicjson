@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-25",
-      "sourceAt": "2026-11-25T00:34:04.592Z",
+      "sourceAt": "2026-11-25T14:09:12.652Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -243,7 +243,7 @@
           "key": "domain:bad.no",
           "domain": "bad.no",
           "name": "Bad.no",
-          "flight": "30 poeng / 100kr",
+          "flight": "35 poeng / 100kr",
           "trumf": "5 % (67.5 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/badno/019ea661-c4a1-73ab-b30f-241205d56b6e",
           "trumfURL": "https://trumfnetthandel.no/cashback/bad-trumf"
@@ -1062,7 +1062,7 @@
           "key": "domain:footballtravel.no",
           "domain": "footballtravel.no",
           "name": "Football Travel",
-          "flight": "15 poeng / 100kr",
+          "flight": "30 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
           "trumfURL": ""
@@ -2601,7 +2601,7 @@
           "key": "domain:ray-ban.com",
           "domain": "ray-ban.com",
           "name": "Ray-Ban",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/ray-ban/0189630e-5109-73dc-8c40-0ed3b9264c9c",
           "trumfURL": ""
@@ -3286,7 +3286,7 @@
           "domain": "tonnesen1937.no",
           "name": "Tønnesen",
           "flight": "",
-          "trumf": "5,4 % (72.9 poeng / 100kr)",
+          "trumf": "5,4% (72.9 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/tonnesen-trumf"
         },
@@ -7498,8 +7498,8 @@
       "date": "2026-11-25",
       "comparedWith": "2026-11-24",
       "baseline": false,
-      "sourceAt": "2026-11-25T00:34:04.592Z",
-      "publishedAt": "2026-11-25T03:45:52.171Z",
+      "sourceAt": "2026-11-25T14:09:12.652Z",
+      "publishedAt": "2026-11-25T14:59:27.985Z",
       "shopCount": 416,
       "added": [
         {
@@ -7528,6 +7528,57 @@
               "before": "4,6 % (62.1 poeng / 100kr)",
               "after": "7,8 % (105.3 poeng / 100kr)",
               "url": "https://trumfnetthandel.no/cashback/adidas-trumfs"
+            }
+          ]
+        },
+        {
+          "key": "domain:bad.no",
+          "domain": "bad.no",
+          "name": "Bad.no",
+          "flight": "35 poeng / 100kr",
+          "trumf": "5 % (67.5 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/badno/019ea661-c4a1-73ab-b30f-241205d56b6e",
+          "trumfURL": "https://trumfnetthandel.no/cashback/bad-trumf",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "30 poeng / 100kr",
+              "after": "35 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/badno/019ea661-c4a1-73ab-b30f-241205d56b6e"
+            }
+          ]
+        },
+        {
+          "key": "domain:footballtravel.no",
+          "domain": "footballtravel.no",
+          "name": "Football Travel",
+          "flight": "30 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "15 poeng / 100kr",
+              "after": "30 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/football-travel/0193b5ff-d29e-718e-bc43-02f2e0de6732"
+            }
+          ]
+        },
+        {
+          "key": "domain:ray-ban.com",
+          "domain": "ray-ban.com",
+          "name": "Ray-Ban",
+          "flight": "50 poeng / 100kr",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/ray-ban/0189630e-5109-73dc-8c40-0ed3b9264c9c",
+          "trumfURL": "",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/ray-ban/0189630e-5109-73dc-8c40-0ed3b9264c9c"
             }
           ]
         },
