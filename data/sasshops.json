@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:11:04.809Z",
+  "generated_at": "2026-11-26T13:46:35.551Z",
   "shops": [
     {
       "domain": "",
@@ -512,7 +512,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/bookbeat-trumf",
       "sasbonus": "",
-      "trumfbonus": "75 kr (1012.5 poeng)"
+      "trumfbonus": "75kr (1012.5 poeng)"
     },
     {
       "domain": "bosch-home.no",
@@ -2104,7 +2104,7 @@
       "name": "Miinto",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/miinto/01896308-a975-7164-aa9c-41b2ec9d89e2",
       "trumfurl": "https://trumfnetthandel.no/cashback/trumfsmiinto",
-      "sasbonus": "25 poeng / 100kr",
+      "sasbonus": "50 poeng / 100kr",
       "trumfbonus": "10,1 % (136.3 poeng / 100kr)"
     },
     {
@@ -3356,7 +3356,7 @@
       "sasurl": "",
       "trumfurl": "https://trumfnetthandel.no/cashback/tonnesen-trumf",
       "sasbonus": "",
-      "trumfbonus": "5,4% (72.9 poeng / 100kr)"
+      "trumfbonus": "5,4 % (72.9 poeng / 100kr)"
     },
     {
       "domain": "trapessko.no",
