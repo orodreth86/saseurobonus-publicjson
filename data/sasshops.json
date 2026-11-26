@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:09:12.652Z",
+  "generated_at": "2026-11-26T00:11:04.809Z",
   "shops": [
     {
       "domain": "",
@@ -701,7 +701,7 @@
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/db-journey/01896310-78d4-7290-bebb-ae80a7cd6ef1",
       "trumfurl": "https://trumfnetthandel.no/cashback/db-trumf1",
       "sasbonus": "50 poeng / 100kr",
-      "trumfbonus": "9,3 % (125.6 poeng / 100kr)"
+      "trumfbonus": "4,6 % (62.1 poeng / 100kr)"
     },
     {
       "domain": "dekk.eu",
@@ -3229,7 +3229,7 @@
       "name": "Strim",
       "sasurl": "https://onlineshopping.flysas.com/nb-NO/butikker/strim/018abc11-7a28-71e0-bc8a-9e9617c71d80",
       "trumfurl": "https://trumfnetthandel.no/cashback/strim-trumf",
-      "sasbonus": "500 poeng",
+      "sasbonus": "1500 poeng",
       "trumfbonus": "Opptil 270 kr (3645.0 poeng)"
     },
     {
