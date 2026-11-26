@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-26",
-      "sourceAt": "2026-11-26T00:11:04.809Z",
+      "sourceAt": "2026-11-26T13:46:35.551Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -442,7 +442,7 @@
           "domain": "bookbeat.no",
           "name": "BookBeat",
           "flight": "",
-          "trumf": "75 kr (1012.5 poeng)",
+          "trumf": "75kr (1012.5 poeng)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/bookbeat-trumf"
         },
@@ -2034,7 +2034,7 @@
           "key": "domain:miinto.no",
           "domain": "miinto.no",
           "name": "Miinto",
-          "flight": "25 poeng / 100kr",
+          "flight": "50 poeng / 100kr",
           "trumf": "10,1 % (136.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/miinto/01896308-a975-7164-aa9c-41b2ec9d89e2",
           "trumfURL": "https://trumfnetthandel.no/cashback/trumfsmiinto"
@@ -3286,7 +3286,7 @@
           "domain": "tonnesen1937.no",
           "name": "Tønnesen",
           "flight": "",
-          "trumf": "5,4% (72.9 poeng / 100kr)",
+          "trumf": "5,4 % (72.9 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/tonnesen-trumf"
         },
@@ -7507,8 +7507,8 @@
       "date": "2026-11-26",
       "comparedWith": "2026-11-25",
       "baseline": false,
-      "sourceAt": "2026-11-26T00:11:04.809Z",
-      "publishedAt": "2026-11-26T09:04:36.344Z",
+      "sourceAt": "2026-11-26T13:46:35.551Z",
+      "publishedAt": "2026-11-26T21:56:50.866Z",
       "shopCount": 416,
       "added": [],
       "removed": [],
@@ -7527,6 +7527,23 @@
               "before": "9,3 % (125.6 poeng / 100kr)",
               "after": "4,6 % (62.1 poeng / 100kr)",
               "url": "https://trumfnetthandel.no/cashback/db-trumf1"
+            }
+          ]
+        },
+        {
+          "key": "domain:miinto.no",
+          "domain": "miinto.no",
+          "name": "Miinto",
+          "flight": "50 poeng / 100kr",
+          "trumf": "10,1 % (136.3 poeng / 100kr)",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/miinto/01896308-a975-7164-aa9c-41b2ec9d89e2",
+          "trumfURL": "https://trumfnetthandel.no/cashback/trumfsmiinto",
+          "offers": [
+            {
+              "provider": "flight",
+              "before": "25 poeng / 100kr",
+              "after": "50 poeng / 100kr",
+              "url": "https://onlineshopping.flysas.com/nb-NO/butikker/miinto/01896308-a975-7164-aa9c-41b2ec9d89e2"
             }
           ]
         },
