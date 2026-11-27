@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-11-27",
-      "sourceAt": "2026-11-27T00:30:11.993Z",
+      "sourceAt": "2026-11-27T13:43:18.213Z",
       "shops": [
         {
           "key": "domain:aarke.com",
@@ -3079,7 +3079,7 @@
           "domain": "stille.no",
           "name": "Stille",
           "flight": "50 poeng / 100kr",
-          "trumf": "7,8% (105.3 poeng / 100kr)",
+          "trumf": "7,8 % (105.3 poeng / 100kr)",
           "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/stille/01a0626b-0766-7033-9d44-671023ec93f5",
           "trumfURL": "https://trumfnetthandel.no/cashback/stille-trumf"
         },
@@ -3217,15 +3217,6 @@
           "trumf": "2,3 % (31.0 poeng / 100kr)",
           "flightURL": "",
           "trumfURL": "https://trumfnetthandel.no/cashback/teknikmagasinet-trumf"
-        },
-        {
-          "key": "domain:telia.no",
-          "domain": "telia.no",
-          "name": "Telia",
-          "flight": "2000 poeng",
-          "trumf": "",
-          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/telia-bredband-og-tv/0189630b-94d9-73d6-9d65-2f31fd21738c",
-          "trumfURL": ""
         },
         {
           "key": "domain:the-chef.com",
@@ -7507,11 +7498,21 @@
       "date": "2026-11-27",
       "comparedWith": "2026-11-26",
       "baseline": false,
-      "sourceAt": "2026-11-27T00:30:11.993Z",
-      "publishedAt": "2026-11-27T09:07:22.350Z",
-      "shopCount": 416,
+      "sourceAt": "2026-11-27T13:43:18.213Z",
+      "publishedAt": "2026-11-27T21:39:27.281Z",
+      "shopCount": 415,
       "added": [],
-      "removed": [],
+      "removed": [
+        {
+          "key": "domain:telia.no",
+          "domain": "telia.no",
+          "name": "Telia",
+          "flight": "2000 poeng",
+          "trumf": "",
+          "flightURL": "https://onlineshopping.flysas.com/nb-NO/butikker/telia-bredband-og-tv/0189630b-94d9-73d6-9d65-2f31fd21738c",
+          "trumfURL": ""
+        }
+      ],
       "changed": [
         {
           "key": "domain:bad.no",
